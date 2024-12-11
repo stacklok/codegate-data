@@ -1,0 +1,24 @@
+name: Package JSONL Files
+
+on:
+  push:
+    paths:
+      - "**.jsonl" # Run this workflow when JSONL files are pushed
+  workflow_dispatch: # Run this workflow manually
+
+jobs:
+  build_and_upload_artifact:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Archive JSONL files
+        run: tar -czf jsonl_files.tar.gz *.jsonl
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: jsonl-files
+          path: jsonl_files.tar.gz
