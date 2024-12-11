@@ -14,11 +14,8 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Archive JSONL files
-        run: tar -czf jsonl_files.tar.gz *.jsonl
-
-      - name: Upload Artifact
+      - name: Upload JSONL files
         uses: actions/upload-artifact@v4
         with:
           name: jsonl-files
-          path: jsonl_files.tar.gz
+          path: '*.jsonl'
