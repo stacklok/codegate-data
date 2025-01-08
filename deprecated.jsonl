@@ -12,6 +12,7 @@
 {"name":"abab","type":"npm","description":"WHATWG spec-compliant implementations of window.atob and window.btoa."}
 {"name":"abaculus","type":"npm","description":"stitches map tiles together for high-res exporting from tm2"}
 {"name":"abbreviation","type":"npm","description":""}
+{"name":"abeamer","type":"npm","description":"frame-by-frame Web Animation framework"}
 {"name":"abler-lang","type":"npm","description":"å¤šè¯­è¨€å¤„ç†å·¥å…·"}
 {"name":"@absolunet/kafe","type":"npm","description":"Mixing javascript crops for a perfect flavour."}
 {"name":"@absolunet/tester","type":"npm","description":"Test suite for Node.js projects"}
@@ -46,6 +47,10 @@
 {"name":"@adobe/aio-lib-test-proxy","type":"npm","description":"Adobe I/O Lib Test Proxies and Api Servers"}
 {"name":"@adobe/helix-fetch","type":"npm","description":"Light-weight Fetch implementation transparently supporting both HTTP/1(.1) and HTTP/2"}
 {"name":"advanced-pool","type":"npm","description":"Advanced resource pool for Node.JS"}
+{"name":"@advanced-rest-client/arc-marked","type":"npm","description":"Port of Polymer's marked-element to LitElement"}
+{"name":"@advanced-rest-client/files-payload-editor","type":"npm","description":"A request body editor to add files as a payload."}
+{"name":"@advanced-rest-client/markdown-styles","type":"npm","description":"Element that displays response documentation for RAML"}
+{"name":"@advanced-rest-client/multipart-payload-transformer","type":"npm","description":"An element that contains methods to transform FormData object into Multipart message and ArrayBuffer"}
 {"name":"@aeroview-io/rtype","type":"npm","description":"Simple and extensible runtime input validation for TS/JS, written in TS, fried in batter."}
 {"name":"aframe-extras.json-model","type":"npm","description":"Loader for THREE.JSONLoader-compatible models."}
 {"name":"aframe-keyboard-controls","type":"npm","description":"Keyboard controls for A-Frame."}
@@ -147,6 +152,7 @@
 {"name":"angular-handsontable","type":"npm","description":"Official Angular 2 directive for Handsontable"}
 {"name":"@angular/http","type":"npm","description":"Angular - the http service"}
 {"name":"angular-i18n","type":"npm","description":"AngularJS module for internationalization"}
+{"name":"angular-jsvat","type":"npm","description":"Check the validity of the format of an EU VAT number specified"}
 {"name":"angular-material","type":"npm","description":"Support for legacy AngularJS ended on January 1st, 2022. See @angular/core for the actively supported Angular."}
 {"name":"angular-modal-gallery","type":"npm","description":"Modal image gallery for Angular >=4"}
 {"name":"angular-morris-chart","type":"npm","description":"Angular.js module wrapper for Morris.js"}
@@ -179,6 +185,7 @@
 {"name":"ansible-language-server","type":"npm","description":"Ansible language server"}
 {"name":"ansi-colorizer","type":"npm","description":"Colorize/brighten text for terminals with ANSI escape sequences"}
 {"name":"ansi-grid","type":"npm","description":"Print grids and matrices in the terminal using ANSI escape sequences"}
+{"name":"anson-canvas-v1","type":"npm","description":"Canvas graphics API backed by Cairo"}
 {"name":"ant-design-palettes","type":"npm","description":"Color palettes calculator of Ant Design"}
 {"name":"ant-design-pro","type":"npm","description":"An enterprise-class UI design language and React-based implementation"}
 {"name":"antd-tools","type":"npm","description":"tools for ant design"}
@@ -220,6 +227,8 @@
 {"name":"ape-testing","type":"npm","description":"ape framework module for tests."}
 {"name":"ape-watching","type":"npm","description":"ape framework module for watching files."}
 {"name":"@apialerts/js","type":"npm","description":"a wrapper for apialerts.com"}
+{"name":"@api-components/api-view-model-transformer","type":"npm","description":"AMF model transformer to a form view model used in API components."}
+{"name":"@api-components/raml-aware","type":"npm","description":"Element that is aware of the RAML content"}
 {"name":"apideck","type":"npm","description":"Apideck Node.js SDK"}
 {"name":"@apidevtools/swagger-cli","type":"npm","description":"Swagger 2.0 and OpenAPI 3.0 command-line tool"}
 {"name":"@apidevtools/swagger-express-middleware","type":"npm","description":"Swagger middleware and mocks for Express"}
@@ -296,6 +305,7 @@
 {"name":"arcgis-lib-downloader","type":"npm","description":"npm package for gaining access to ArcGIS programs"}
 {"name":"arcgis-to-geojson-utils","type":"npm","description":"Tools to convert ArcGIS JSON geometries to GeoJSON geometries and vica-versa."}
 {"name":"@architect/workflows","type":"npm","description":"cloud function workflows implemented as npm scripts for creating, deploying, working offline and more"}
+{"name":"a-react-ripples","type":"npm","description":"a simple background ripples for react  reactNode"}
 {"name":"are-we-there-yet","type":"npm","description":"Keep track of the overall completion of many disparate processes"}
 {"name":"argos-cli","type":"npm","description":"Argos command line interface."}
 {"name":"argv","type":"npm","description":"CLI Argument Parser"}
@@ -310,6 +320,9 @@
 {"name":"asar","type":"npm","description":"Creating Electron app packages"}
 {"name":"asciidoctor.js","type":"npm","description":"A JavaScript AsciiDoc processor, cross-compiled from the Ruby-based AsciiDoc implementation, Asciidoctor, using Opal"}
 {"name":"asciidoctor-reveal.js","type":"npm","description":"A reveal.js converter for Asciidoctor.js. Write your slides in AsciiDoc!"}
+{"name":"@asigna/stx-core-sdk-api-kit","type":"npm","description":"API utilities for making requests by Asigna"}
+{"name":"@asigna/stx-core-sdk-fee-kit","type":"npm","description":"Vault utilities by Asigna"}
+{"name":"@asigna/stx-core-sdk-nonce-kit","type":"npm","description":"vault utilities by Asigna"}
 {"name":"@aspnet/signalr","type":"npm","description":"ASP.NET Core SignalR Client"}
 {"name":"@aspnet/signalr-client","type":"npm","description":"This package has been deprecated. Use '@aspnet/signalr' instead."}
 {"name":"@aspnet/signalr-protocol-msgpack","type":"npm","description":"MsgPack Protocol support for ASP.NET Core SignalR"}
@@ -422,11 +435,14 @@
 {"name":"@aws-cdk/aws-cloudformation","type":"npm","description":"The CDK Construct Library for AWS::CloudFormation"}
 {"name":"@aws-cdk/aws-cloudfront","type":"npm","description":"The CDK Construct Library for AWS::CloudFront"}
 {"name":"@aws-cdk/aws-cloudwatch","type":"npm","description":"The CDK Construct Library for AWS::CloudWatch"}
+{"name":"@aws-cdk/aws-cloudwatch-actions","type":"npm","description":"Alarm Actions for AWS CloudWatch CDK library"}
 {"name":"@aws-cdk/aws-codebuild","type":"npm","description":"The CDK Construct Library for AWS::CodeBuild"}
 {"name":"@aws-cdk/aws-codecommit","type":"npm","description":"The CDK Construct Library for AWS::CodeCommit"}
+{"name":"@aws-cdk/aws-codedeploy","type":"npm","description":"The CDK Construct Library for AWS::CodeDeploy"}
 {"name":"@aws-cdk/aws-codedeploy-api","type":"npm","description":"Load Balancer API for AWS CodeDeploy"}
 {"name":"@aws-cdk/aws-codeguruprofiler","type":"npm","description":"The CDK Construct Library for AWS::CodeGuruProfiler"}
 {"name":"@aws-cdk/aws-codepipeline","type":"npm","description":"Better interface to AWS Code Pipeline"}
+{"name":"@aws-cdk/aws-codepipeline-actions","type":"npm","description":"Concrete Actions for AWS Code Pipeline"}
 {"name":"@aws-cdk/aws-codepipeline-api","type":"npm","description":"Actions API for AWS Code Pipeline"}
 {"name":"@aws-cdk/aws-codestarnotifications","type":"npm","description":"The CDK Construct Library for AWS::CodeStarNotifications"}
 {"name":"@aws-cdk/aws-cognito","type":"npm","description":"The CDK Construct Library for AWS::Cognito"}
@@ -452,6 +468,7 @@
 {"name":"@aws-cdk/aws-lambda","type":"npm","description":"The CDK Construct Library for AWS::Lambda"}
 {"name":"@aws-cdk/aws-lambda-event-sources","type":"npm","description":"Event sources for AWS Lambda"}
 {"name":"@aws-cdk/aws-lambda-nodejs","type":"npm","description":"The CDK Construct Library for AWS Lambda in Node.js"}
+{"name":"@aws-cdk/aws-lambda-python","type":"npm","description":"The CDK Construct Library for AWS Lambda in Python"}
 {"name":"@aws-cdk/aws-logs","type":"npm","description":"The CDK Construct Library for AWS::Logs"}
 {"name":"@aws-cdk/aws-msk","type":"npm","description":"The CDK Construct Library for AWS::MSK"}
 {"name":"@aws-cdk/aws-rds","type":"npm","description":"The CDK Construct Library for AWS::RDS"}
@@ -476,6 +493,7 @@
 {"name":"@aws-cdk/lambda-layer-awscli","type":"npm","description":"An AWS Lambda layer that contains the AWS CLI"}
 {"name":"@aws-cdk/lambda-layer-kubectl","type":"npm","description":"An AWS Lambda layer that contains the kubectl and helm"}
 {"name":"@aws-cdk/lambda-layer-node-proxy-agent","type":"npm","description":"An AWS Lambda layer that contains the proxy-agent NPM dependency"}
+{"name":"@aws-cdk/pipelines","type":"npm","description":"Continuous Delivery of CDK applications"}
 {"name":"@aws-cdk/util","type":"npm","description":"Utility routines used for implementing CDK libraries"}
 {"name":"aws-cli","type":"npm","description":"Command Line Tools for Amazon Web Services"}
 {"name":"aws-dynamodb","type":"npm","description":"Deprecated - please use @awspilot/dynamodb"}
@@ -667,6 +685,7 @@
 {"name":"azure-storage","type":"npm","description":"Microsoft Azure Storage Client Library for Node.js"}
 {"name":"@azure-tools/autorest-extension-base","type":"npm","description":"Library for creating AutoRest extensions"}
 {"name":"@azure-tools/codemodel","type":"npm","description":"AutoRest code model library"}
+{"name":"b2-sb.js","type":"npm","description":"Selfbot module Discord"}
 {"name":"b64","type":"npm","description":"Base64 streaming encoder and decoder"}
 {"name":"babbyfunctions","type":"npm","description":""}
 {"name":"babel","type":"npm","description":"Turn ES6 code into readable vanilla ES5 with source maps"}
@@ -702,6 +721,7 @@
 {"name":"@babel/plugin-proposal-async-generator-functions","type":"npm","description":"Turn async generator functions into ES2015 generators"}
 {"name":"@babel/plugin-proposal-class-properties","type":"npm","description":"This plugin transforms static class properties as well as properties declared with the property initializer syntax"}
 {"name":"@babel/plugin-proposal-class-static-block","type":"npm","description":"Transform class static blocks"}
+{"name":"@babel/plugin-proposal-duplicate-named-capturing-groups-regex","type":"npm","description":"Compile regular expressions using duplicate named groups to index-based groups."}
 {"name":"@babel/plugin-proposal-dynamic-import","type":"npm","description":"Transform import() expressions"}
 {"name":"@babel/plugin-proposal-export-namespace-from","type":"npm","description":"Compile export namespace to ES2015"}
 {"name":"@babel/plugin-proposal-json-strings","type":"npm","description":"Escape U+2028 LINE SEPARATOR and U+2029 PARAGRAPH SEPARATOR in JS strings"}
@@ -765,6 +785,7 @@
 {"name":"backbone.nested-types","type":"npm","description":"backbone.js extension adding type annotations to model attributes, easiest possible way of dealing with nested models and collections, and native properties for attributes. Providing you with a more or less complete, simple, and powerful object system for"}
 {"name":"backbone-undo","type":"npm","description":"A simple Backbone undo-manager for simple apps"}
 {"name":"backbone.validation","type":"npm","description":"\n\n\n ![license](http"}
+{"name":"backpack-react-scripts","type":"npm","description":"Backpack configuration and scripts for Create React App."}
 {"name":"@backstage/backend-common","type":"npm","description":"Common functionality library for Backstage backends"}
 {"name":"@backstage-community/plugin-stack-overflow-backend","type":"npm","description":"Deprecated, use @backstage/plugin-search-backend-module-stack-overflow-collator instead"}
 {"name":"@backstage/plugin-adr","type":"npm","description":""}
@@ -930,11 +951,13 @@
 {"name":"bind","type":"npm","description":"A simple templating engine that smiles back"}
 {"name":"bin-version","type":"npm","description":"Get the version of a binary in semver format"}
 {"name":"bin-version-check","type":"npm","description":"Check whether a binary version satisfies a semver range"}
+{"name":"bin-version-check-cli","type":"npm","description":"Check whether a binary version satisfies a semver range"}
 {"name":"bin-version-cli","type":"npm","description":"Get the version of a binary in semver format"}
 {"name":"biojs-template","type":"npm","description":"BioJS template"}
 {"name":"bitap","type":"npm","description":"an approximate string matching algorithm"}
 {"name":"bit-array","type":"npm","description":"JavaScript implementation of bit arrays"}
 {"name":"bitcoincashjs","type":"npm","description":"A simple, safe, and powerful JavaScript Bitcoin Cash library."}
+{"name":"@bitcoin-computer/tiny-secp256k1","type":"npm","description":"A tiny secp256k1 JS"}
 {"name":"bitcoind-rpc-dash","type":"npm","description":"Dash Client Library to connect to Dash Core via RPC"}
 {"name":"bitcoinjs-lib-zcash","type":"npm","description":"Client-side Bitcoin JavaScript library with simple zcash and capricoin support"}
 {"name":"bitcoin-ts","type":"npm","description":"ultra-lightweight library for Bitcoin, Bitcoin Cash, and Bitauth"}
@@ -942,12 +965,14 @@
 {"name":"bitfactory-js-hd-key","type":"npm","description":""}
 {"name":"@bitgo/bip174","type":"npm","description":"Fork of bip174 with BitGo specific changes"}
 {"name":"bitset.js","type":"npm","description":"A performance optimized infinite bit vector library"}
+{"name":"bittorrent-swarm","type":"npm","description":"Simple, robust, BitTorrent swarm implementation"}
 {"name":"@blackbaud/skyux-cli","type":"npm","description":" "}
 {"name":"@bladelabs/blade-web3.js","type":"npm","description":"This package is no longer supported. Please, use the native WalletConnect or HederaWalletConnect."}
 {"name":"blend","type":"npm","description":"High speed image blending and quantization"}
 {"name":"blindfold","type":"npm","description":"get and set properties using dot syntax strings"}
 {"name":"blitz-js-loader","type":"npm","description":"Module loader for the blitz-js framework"}
 {"name":"@blockly/eslint-config","type":"npm","description":"ESlint configuration used by Blockly plugins."}
+{"name":"bloomreach-genesis-library","type":"npm","description":"GCP Cloud Functions for data generation runtime and exports to Exponea."}
 {"name":"bls12-381-keygen","type":"npm","description":"Minimal & secure BLS12-381 Key Generation compatible with EIP-2333, EIP-2334"}
 {"name":"bluebird-tmp","type":"npm","description":"Full featured Promises/A+ implementation with exceptionally good performance"}
 {"name":"@blueking/user-selector","type":"npm","description":"åŸºäºŽç”¨æˆ·ç®¡ç†ESBæŽ¥å£çš„äººå‘˜é€‰æ‹©å™¨ï¼Œä¸”å¯å®šä¹‰æ•°æ®æº"}
@@ -983,6 +1008,7 @@
 {"name":"bounce","type":"npm","description":"Selective error catching and rewrite rules"}
 {"name":"@boundstate/angular2-modal","type":"npm","description":"Angular2 Modal (dialog) window."}
 {"name":"bourne","type":"npm","description":"JSON parse with prototype poisoning protection"}
+{"name":"bower-check-updates","type":"npm","description":"Find newer versions of dependencies than what your bower.json allows"}
 {"name":"bower-name","type":"npm","description":"Check whether a package name is available on bower"}
 {"name":"bower-requirejs","type":"npm","description":"Automagically wire-up installed Bower components into your RequireJS config"}
 {"name":"bower-webpack-plugin","type":"npm","description":"Use bower with webpack"}
@@ -1097,12 +1123,14 @@
 {"name":"canary-marmot-npm-penggong-1","type":"npm","description":""}
 {"name":"cancelable-promise-jq","type":"npm","description":"This library was renamed to easy-cancelable-promise as of Sep-27-2024. Please update any references of the old library name in your project"}
 {"name":"candela","type":"npm","description":"Visualization components for the web"}
+{"name":"@canonical/generator-canonical-ds","type":"npm","description":"Deprecated This package has been deprecated and moved to the @canonical/generator-ds package.  Please use that package instead."}
 {"name":"@canvas-js/okra-idb","type":"npm","description":"Persistent Okra database backed by IndexedDB"}
 {"name":"canvas-preset","type":"npm","description":"canvas -> easier"}
 {"name":"canvg-browser","type":"npm","description":"Javascript SVG parser and renderer on Canvas, adapted for CommonJS"}
 {"name":"@capacitor/http","type":"npm","description":"A native HTTP plugin for CORS-free requests and file transfers"}
 {"name":"@capacitor/storage","type":"npm","description":"The Storage API provides a simple key/value persistent store for lightweight data."}
 {"name":"capital-case","type":"npm","description":"Transform into a space separated string with each word capitalized"}
+{"name":"capn-log","type":"npm","description":"Finely configurable log with one-touch redactions"}
 {"name":"capsize","type":"npm","description":"Flipping how we define typography in CSS."}
 {"name":"capsule-editor","type":"npm","description":""}
 {"name":"carbon-components","type":"npm","description":"The Carbon Design System is IBMâ€™s open-source design system for products and experiences."}
@@ -1179,11 +1207,13 @@
 {"name":"chix-flow","type":"npm","description":"ChiÏ‡ Flow"}
 {"name":"choo-log","type":"npm","description":"Development logger for choo"}
 {"name":"@chorus-one/opus-pool","type":"npm","description":"Opus Pooling SDK. Stake Ethereum and earn rewards."}
+{"name":"@chromaui/addon-visual-tests","type":"npm","description":"Visual Testing addon with Chromatic"}
 {"name":"@chunkd/core","type":"npm","description":"Split up a file into chunks and then read the chunks as needed."}
 {"name":"@chunkd/source-google-cloud","type":"npm","description":"Load a chunks of a file from a AWS using aws-sdk"}
 {"name":"@churchcenter/datetime-fmt","type":"npm","description":"Consistent formatting of dates on Church Center"}
 {"name":"cids","type":"npm","description":"CID Implementation in JavaScript"}
 {"name":"cip68","type":"npm","description":"Open source dynamic assets (Token/NFT) generator (CIP68)"}
+{"name":"@circles/safe-contracts","type":"npm","description":"Circles UBI fork of Gnosis Safe Ethereum multisig contract"}
 {"name":"circom","type":"npm","description":"Language to generate logic circuits"}
 {"name":"circular-json","type":"npm","description":"JSON does not handle circular references. This version does"}
 {"name":"ciscospark","type":"npm","description":"SDK for Cisco Webex"}
@@ -1335,9 +1365,11 @@
 {"name":"colorofzx","type":"npm","description":"get colors in your node.js console"}
 {"name":"colors-tmpl","type":"npm","description":"Simple templating for applying colors.js to strings"}
 {"name":"com.cysharp.unitask","type":"npm","description":"Provides an efficient async/await integration to Unity."}
+{"name":"@cometchat/chat-uikit-vue","type":"npm","description":"Ready-to-use Chat UI Components for Vue(Javascript/Web)"}
 {"name":"@comfilemanage/react-filemanager","type":"npm","description":"React file manager"}
 {"name":"comfort","type":"npm","description":"Comfort is a much better node.js commander solution for sub commands."}
 {"name":"comlinkjs","type":"npm","description":"Comlinkâ€™s goal is to make [WebWorkers][webworker] enjoyable. Comlink removes the mental barrier of thinking about postMessage and hides the fact that you are working with workers."}
+{"name":"command-line-interface","type":"npm","description":"command-line-interface is a foundation for CLI applications."}
 {"name":"commands-events","type":"npm","description":"commands-events provides commands and events for DDD-based applications."}
 {"name":"commerce-sdk-react","type":"npm","description":"A library that provides react hooks for fetching data from Commerce Cloud"}
 {"name":"commit-to-co-authors","type":"npm","description":"Parses co-authors from Git/GitHub-style commit messages. âœï¸"}
@@ -1376,6 +1408,7 @@
 {"name":"composer-wallet-filesystem","type":"npm","description":"The Hyperledger Fabric v1.x Node.JS runtime container for Hyperledger Composer"}
 {"name":"composer-wallet-inmemory","type":"npm","description":"The Hyperledger Fabric v1.x Node.JS runtime container for Hyperledger Composer"}
 {"name":"compress-buffer","type":"npm","description":"Synchronous Buffer compression library for Node.js"}
+{"name":"@computer-use/node-mac-permissions","type":"npm","description":"A native node module to manage system permissions on macOS"}
 {"name":"com.randdusing.bluetoothle","type":"npm","description":"Use the Bluetooth Low Energy plugin to connect your Cordova app to new Bluetooth devices like heart rate monitors, thermometers, etc..."}
 {"name":"co-mssql","type":"npm","description":"node-mssql wrappers for \"co\""}
 {"name":"concat-typed-array","type":"npm","description":"Concatenate n typed arrays."}
@@ -1419,6 +1452,7 @@
 {"name":"cordova-plugin-wkwebview-engine","type":"npm","description":"The official Apache Cordova WKWebView Engine Plugin"}
 {"name":"cordova-windows","type":"npm","description":"cordova-windows release"}
 {"name":"core-assert","type":"npm","description":"Node.js assert as a standalone module"}
+{"name":"core-pkg","type":"npm","description":"This package is no longer supported and has been deprecated. To avoid malicious use, npm is hanging on to the package name."}
 {"name":"@corrin/json-key-string-xlsx","type":"npm","description":"Convert between json and xlsx files by key string in a browser or NodeJS."}
 {"name":"corslite","type":"npm","description":"xhr for browsers and ie"}
 {"name":"cosmicjs","type":"npm","description":"The official client module for Cosmic. This module helps you easily add dynamic content to your website or application using the Cosmic headless CMS."}
@@ -1431,6 +1465,7 @@
 {"name":"countly-sdk-react-native-bridge-np","type":"npm","description":"Countly is an innovative, real-time, open source mobile analytics platform."}
 {"name":"coveo-101-commerce","type":"npm","description":"Dependencies"}
 {"name":"coveo-styleguide","type":"npm","description":"Yet another CSS framework - but it's awesome & built by Coveo."}
+{"name":"coverup","type":"npm","description":"Conceal a string with asterisks"}
 {"name":"coz-tmpl","type":"npm","description":"Build-in templates for coz."}
 {"name":"cpay-node-api-sdk","type":"npm","description":"Cpay REST API"}
 {"name":"cpf_cnpj","type":"npm","description":"Validate, generate and format CPF/CNPJ numbers"}
@@ -1610,10 +1645,12 @@
 {"name":"diamond","type":"npm","description":"stdin + arguments composite stream (aka <> or diamond)"}
 {"name":"diandi-ele-form","type":"npm","description":"åŸºäºŽ element-ui çš„æ•°æ®é©±åŠ¨è¡¨å•ç»„ä»¶"}
 {"name":"diandi-ele-form-filter","type":"npm","description":"åŸºäºŽelementçš„æ£€ç´¢ç»„ä»¶"}
+{"name":"diandi-ele-form-tmap","type":"npm","description":"vue-ele-form çš„ ç™¾åº¦åœ°å›¾ç»„ä»¶"}
 {"name":"@dicebear/avatars","type":"npm","description":"An avatar library for designers and developers."}
 {"name":"@dicebear/avatars-initials-sprites","type":"npm","description":"Initials avatar style for DiceBear Avatars"}
 {"name":"dictionary-en-us","type":"npm","description":"Deprecated: use dictionary-en instead for English as spoken in the United States"}
 {"name":"dictionary-pt-br","type":"npm","description":"Deprecated: use dictionary-pt instead for Brazilian Portuguese"}
+{"name":"diff-to-patch","type":"npm","description":"A function that compares two JavaScript-objects and returns an array of JSON Patch-operations representing the difference between the two objects."}
 {"name":"@digdir/ds-core-css","type":"npm","description":"CSS core of the Digdir design system, including stylesheets for the baseline and core components"}
 {"name":"@digdir/ds-icons","type":"npm","description":"Icons of the Digdir design system"}
 {"name":"@digdir/ds-tokens","type":"npm","description":"Design tokens for Digdir design system"}
@@ -1653,6 +1690,8 @@
 {"name":"dofundataboss","type":"npm","description":""}
 {"name":"dofun_worinima","type":"npm","description":""}
 {"name":"dojs-extend","type":"npm","description":"This package is no longer supported and has been deprecated. To avoid malicious use, npm is hanging on to the package name."}
+{"name":"@dolphinweex/postcss-plugin-px2rem","type":"npm","description":"A plugin for PostCSS that generates rem units from multi units."}
+{"name":"@dolphinweex/weex-bindingx","type":"npm","description":"bindingx,expression,binding,weex"}
 {"name":"@dolphinweex/weex-vue-render","type":"npm","description":"Web renderer for weex project written in Vue DSL."}
 {"name":"dom-delegate","type":"npm","description":"Create and manage a DOM event delegator."}
 {"name":"domexception","type":"npm","description":"An implementation of the DOMException class from browsers"}
@@ -1711,6 +1750,7 @@
 {"name":"dtslint","type":"npm","description":"Runs tests on TypeScript definition files"}
 {"name":"@duc3k/minet","type":"npm","description":"A Facebook chat API that doesn't rely on XMPP. Will NOT be deprecated after April 30th 2015."}
 {"name":"duo_web","type":"npm","description":"Duo two-factor authentication for Node.js web applications"}
+{"name":"durable-scheduler","type":"npm","description":"Sophisticated scheduler for durable tasks, built on Durable Object Alarms."}
 {"name":"dvajs","type":"npm","description":"React and redux based, lightweight and elm-style framework."}
 {"name":"dvajs-core","type":"npm","description":"The core lightweight library for dva, based on redux and redux-saga."}
 {"name":"@dvgis/cesium-map","type":"npm","description":"    <img "}
@@ -1855,6 +1895,7 @@
 {"name":"@empathyco/x-get-safe-property-chain","type":"npm","description":"A utility for safely retrieving nested values"}
 {"name":"ems-components","type":"npm","description":"ems-components"}
 {"name":"encode-entities","type":"npm","description":"ðŸƒâ€â™‚ï¸ Fast and simple Map and RegExp based HTML entities encoder. ðŸ"}
+{"name":"encoding-down","type":"npm","description":"An abstract-leveldown implementation that wraps another store to encode keys and values"}
 {"name":"end-precision","type":"npm","description":"This package is no longer supported and has been deprecated. To avoid malicious use, npm is hanging on to the package name."}
 {"name":"enfsfind","type":"npm","description":"find items on filesystem for fs module of node"}
 {"name":"engine.io-client-pure","type":"npm","description":"Client for the realtime Engine"}
@@ -1939,6 +1980,7 @@
 {"name":"eslint-plugin-change-detection-strategy","type":"npm","description":"eslint plugin to check Angular ChangeDetectionStrategy"}
 {"name":"eslint-plugin-class-property","type":"npm","description":"Enforces semicolon after class properties"}
 {"name":"eslint-plugin-clean-regex","type":"npm","description":"An ESLint plugin for writing better regular expressions."}
+{"name":"eslint-plugin-ecmascript-compat","type":"npm","description":"ESLint plugin for checking JavaScript code compatibility with target browsers and Node.js versions"}
 {"name":"eslint-plugin-ember-best-practices","type":"npm","description":"Eslint rules for linting for anti-patterns in Ember applications."}
 {"name":"eslint-plugin-extended","type":"npm","description":"eslint-plugin-extended is a set of rules for ESLint."}
 {"name":"eslint-plugin-flow-vars","type":"npm","description":"Solves the problem of false positives with no-undef and no-unused-vars when using babel-eslint"}
@@ -2014,6 +2056,8 @@
 {"name":"events-browserify","type":"npm","description":"node.js events module for script or browserify"}
 {"name":"event-target","type":"npm","description":"The EventTarget Class Polyfill"}
 {"name":"event-to-promise","type":"npm","description":"Create a promise waiting for an event"}
+{"name":"@eveworld/assets","type":"npm","description":"Project Awakening specific dApp assets"}
+{"name":"@eveworld/chains","type":"npm","description":"A library for defining and configuring the chains that our applications can interact with"}
 {"name":"@evocateur/libnpmaccess","type":"npm","description":"programmatic library for npm access commands"}
 {"name":"@evocateur/libnpmpublish","type":"npm","description":"Programmatic API for the bits behind npm publish and unpublish"}
 {"name":"@evocateur/npm-registry-fetch","type":"npm","description":"Fetch-based http client for use with npm registry APIs"}
@@ -2078,6 +2122,7 @@
 {"name":"eyes.sdk","type":"npm","description":"Applitools Eyes SDK For JavaScript"}
 {"name":"eyes.selenium","type":"npm","description":"Applitools Eyes SDK For Selenium JavaScript WebDriver"}
 {"name":"eyes.utils","type":"npm","description":"General purpose Javascript utilities."}
+{"name":"@eylonnaamat/kiloma-contact-app","type":"npm","description":"This is a Next.js project bootstrapped with create-next-app."}
 {"name":"fable-import","type":"npm","description":"Fable bindings for native JS objects, browser and node APIs"}
 {"name":"fable-import-react","type":"npm","description":"Fable bindings for React"}
 {"name":"fable-import-virtualdom","type":"npm","description":"Fable bindings for virtual-dom"}
@@ -2119,6 +2164,7 @@
 {"name":"fastify-websocket","type":"npm","description":"fastify-websocket@4.3.0 has been deprecated. Please use @fastify/websocket@5.0.0 instead."}
 {"name":"fastlion-amis","type":"npm","description":"ä¸€ç§MISé¡µé¢ç”Ÿæˆå·¥å…·"}
 {"name":"fast-proxy","type":"npm","description":"Forward your HTTP request to another server."}
+{"name":"fastserv","type":"npm","description":"Provide simple and efficient web service"}
 {"name":"fbg-fe","type":"npm","description":""}
 {"name":"fb-royal","type":"npm","description":"A Facebook chat API that doesn't rely on XMPP. Will NOT be deprecated after April 30th 2015."}
 {"name":"fca-bazon","type":"npm","description":"A Facebook chat API that doesn't rely on XMPP. Will NOT be deprecated after April 30th 2015."}
@@ -2219,9 +2265,11 @@
 {"name":"flow-concept-shared","type":"npm","description":""}
 {"name":"flow-interfaces-chrome","type":"npm","description":"Flow interface declarations for the Chrome Extensions API"}
 {"name":"flow-language-server","type":"npm","description":""}
+{"name":"@flows/js","type":"npm","description":"Flows - SDK for building advanced user onboarding tours. Supports no-code or in-code flows. With advanced features like Wait or Conditional steps to create the ultimate onboarding tour, boosting product adoption. Optimize user journey, increase engagement"}
 {"name":"@flowx-pkg/ts-sdk","type":"npm","description":"Project no-longer maintenance, please use https://www.npmjs.com/package/@flowx-finance/sdk instead."}
 {"name":"fluent","type":"npm","description":"Localization library for expressive translations."}
 {"name":"fluent-react","type":"npm","description":"Fluent bindings for React"}
+{"name":"fluent-schema","type":"npm","description":"JSON Schema fluent API"}
 {"name":"fluent-syntax","type":"npm","description":"AST and parser for Fluent"}
 {"name":"@fluentui/make-styles","type":"npm","description":"Experimental utility for creating css styles/classes."}
 {"name":"fluxible-app","type":"npm","description":"A pluggable container for isomorphic flux applications"}
@@ -2318,6 +2366,7 @@
 {"name":"gatsby-theme-ui","type":"npm","description":"Gatsby (theme) plugin for adding theme-ui context"}
 {"name":"gatsby-wordpress-inline-images","type":"npm","description":"A Gatsby plugin to turn remote inline images to local static images"}
 {"name":"gauge","type":"npm","description":"A terminal based horizontal gauge"}
+{"name":"@gavinhsmith/simpledatabase","type":"npm","description":"A node module for creating/managing easy-access SQLite databases."}
 {"name":"gcs-resumable-upload","type":"npm","description":"Upload a file to Google Cloud Storage with built-in resumable behavior"}
 {"name":"gc-stats","type":"npm","description":"Exposes node v8 garbage collection stats"}
 {"name":"gdax","type":"npm","description":"Client for the GDAX API"}
@@ -2372,7 +2421,7 @@
 {"name":"gigs","type":"npm","description":"A jobs/careers/openings/positions aggregator"}
 {"name":"@gitbeaker/node","type":"npm","description":"Full NodeJS implementation of the GitLab API. Supports Promises, Async/Await."}
 {"name":"gitbook-plugin-hirain-breadcrumb","type":"npm","description":"Add breadcrumb"}
-{"name":"gitbook-plugin-hirain-search","type":"npm","description":"Gitbook search engine pro. (æ”¯æŒä¸­æ–‡æœç´¢)"}
+{"name":"gitbook-plugin-hirain-search","type":"npm","description":"Gitbook search engine. (æ”¯æŒä¸­æ–‡æœç´¢)"}
 {"name":"gitbook-plugin-theme-x","type":"npm","description":"X theme for GitBook"}
 {"name":"git-fire","type":"npm","description":"Save Your Code in an Emergency"}
 {"name":"gitgraph.js","type":"npm","description":"A JavaScript library to draw pretty git graphs in the browser"}
@@ -2413,6 +2462,7 @@
 {"name":"@godspeedsystems/express-prometheus-middleware","type":"npm","description":"RED/USE metrics for express applications"}
 {"name":"go-ipfs","type":"npm","description":"Install the latest go-ipfs binary"}
 {"name":"go-ipfs-dep","type":"npm","description":"Install the latest go-ipfs binary"}
+{"name":"@golemio/exporting-module","type":"npm","description":"Golemio Exporting Module Module"}
 {"name":"good","type":"npm","description":"Server and process monitoring plugin"}
 {"name":"good-console","type":"npm","description":"Console broadcasting for Good process monitor"}
 {"name":"gooddata","type":"npm","description":"GoodData JavaScript SDK"}
@@ -2428,6 +2478,7 @@
 {"name":"good-udp","type":"npm","description":"UDP broadcasting for Good process monitor"}
 {"name":"goo.gl","type":"npm","description":"A url shortener and expander powered by Google's URL shortening service"}
 {"name":"google-cloud","type":"npm","description":"Deprecated Cloud APIs Client Library for Node.js"}
+{"name":"@google-cloud/connect-firestore","type":"npm","description":"Google Cloud Firestore session store for Express/Connect"}
 {"name":"@google/cloud-diagnostics-common","type":"npm","description":"Common utilities for Google Cloud Diagnostics"}
 {"name":"@google-cloud/functions-emulator","type":"npm","description":"Google Cloud Functions Emulator"}
 {"name":"@google-cloud/prediction","type":"npm","description":"Deprecated Google Prediction API Client Library for Node.js"}
@@ -2467,6 +2518,7 @@
 {"name":"@grafana/toolkit","type":"npm","description":"Grafana Toolkit"}
 {"name":"@grafbase/sdk","type":"npm","description":"The Grafbase SDK"}
 {"name":"grafiq","type":"npm","description":"Application de reporting RH"}
+{"name":"@graphcms/management","type":"npm","description":"GraphCMS Management SDK"}
 {"name":"graphql-code-generator","type":"npm","description":"  "}
 {"name":"graphql-executor","type":"npm","description":"A customizable GraphQL Spec compliant Executor class."}
 {"name":"graphql-extensions","type":"npm","description":"Add extensions to GraphQL servers"}
@@ -2698,6 +2750,8 @@
 {"name":"@heroku-cli/plugin-git","type":"npm","description":"Heroku CLI plugin to manage local git repos."}
 {"name":"@heroku-cli/plugin-oauth","type":"npm","description":"Command line plugin for managing OAuth clients, authorizations and tokens."}
 {"name":"@heroku-cli/plugin-ps","type":"npm","description":"ps core plugin for Heroku CLI"}
+{"name":"@heroku-cli/plugin-run","type":"npm","description":"  [![CircleCI](https://circleci.com/gh/heroku/heroku"}
+{"name":"heroku-cli-util","type":"npm","description":"Set of helpful CLI utilities"}
 {"name":"heroku-exec-util","type":"npm","description":"Set of helpful Heroku Exec utilities"}
 {"name":"hetajs2d","type":"npm","description":""}
 {"name":"hexagon-grid","type":"npm","description":"wargame hexagon grid methods"}
@@ -2716,6 +2770,8 @@
 {"name":"hi_score","type":"npm","description":"A full-life-cycle un-framework for SPA development using native JS, CSS, and HTML."}
 {"name":"history-extra","type":"npm","description":"Extra functionality for the history module"}
 {"name":"hive-cache","type":"npm","description":"A caching tool for node"}
+{"name":"hk-mssh-ui","type":"npm","description":"webç«¯çš„ç»„ä»¶ç¼–å†™å’Œé›†æˆ"}
+{"name":"hk-mzsh-ui","type":"npm","description":"hk-uni-uiï¼Œé›†æˆäº†ä¸€äº›å¸¸ç”¨çš„ç»„ä»¶"}
 {"name":"hljs-modules","type":"npm","description":"Syntax highlighting with language autodetection and CSS Modules support."}
 {"name":"hns-id-snap","type":"npm","description":"HNS ID MetaMask Snap"}
 {"name":"@hods/status-banner","type":"npm","description":"Component that provides both high level and more detailed warning messages"}
@@ -2723,6 +2779,7 @@
 {"name":"hof-form-controller","type":"npm","description":"Implements a request pipeline for GET and POST of forms, with input cleaning/formatting and validation."}
 {"name":"hof-model","type":"npm","description":"Simple model for interacting with http/rest apis."}
 {"name":"hof-template-mixins","type":"npm","description":"A middleware that exposes a series of Mustache mixins on res.locals to ease usage of forms, translations, and some general needs."}
+{"name":"holakirr-snow-ui","type":"npm","description":"SnowUI is a React component library designed by ByeWind, implemented and improved by holakirr team for creating beautiful and interactive user interfaces."}
 {"name":"homebridge-airblock","type":"npm","description":"Homebridge plugin that integrates with AirBlock Manager"}
 {"name":"homebridge-eosstb","type":"npm","description":"Add your set-top box to Homekit (for Telenet BE, Sunrise CH, UPC SK, Virgin Media GB & IE, Ziggo NL)"}
 {"name":"homebridge-homeassistant","type":"npm","description":"Homebridge plugin for Home Assistant: https://home-assistant.io"}
@@ -2906,6 +2963,8 @@
 {"name":"ionic-framework","type":"npm","description":"An advanced HTML5 mobile app framework built on Angular2"}
 {"name":"ionic-gulp-webpack-build","type":"npm","description":"Gulp task for Ionic projects to transpile and bundle JavaScript/TypeScript sources with webpack"}
 {"name":"@ionic/ng-toolkit","type":"npm","description":"Utilities for ionic/angular v4+ apps, used by Ionic CLI"}
+{"name":"ionic-plugin-navigation-bar-color","type":"npm","description":"Control native navigation bar color"}
+{"name":"@ionic/react-test-utils","type":"npm","description":"Test utilities for Ionic React"}
 {"name":"iopipe","type":"npm","description":"The IOpipe agent and plugins"}
 {"name":"ipc-promise","type":"npm","description":"ipc use as Promises"}
 {"name":"ipfs","type":"npm","description":"JavaScript implementation of the IPFS specification"}
@@ -3093,6 +3152,7 @@
 {"name":"@kazupon/vue-i18n-loader","type":"npm","description":"vue-i18n loader for custom blocks"}
 {"name":"kea-logic","type":"npm","description":"tasty butter that merges action creators, reducers and selectors"}
 {"name":"keen-js","type":"npm","description":"Get API Keys"}
+{"name":"@keep-network/tbtc","type":"npm","description":"The tBTC smart contracts implementing the TBTC trustlessly Bitcoin-backed ERC-20 token."}
 {"name":"kentico-cloud-delivery","type":"npm","description":"Official Kentico Cloud Delivery SDK"}
 {"name":"keycloak-admin","type":"npm","description":"keycloak admin client"}
 {"name":"keycloak-admin-client","type":"npm","description":"Client for contacting the Keycloak Admin REST API"}
@@ -3104,6 +3164,7 @@
 {"name":"@keyv/tiered","type":"npm","description":"Tiered storage adapter for Keyv"}
 {"name":"kfspecial-ui","type":"npm","description":"Project setup npm install"}
 {"name":"kibana","type":"npm","description":"Kibana is an open source (Apache Licensed), browser based analytics and search dashboard for Elasticsearch. Kibana is a snap to setup and start using. Kibana strives to be easy to get started with, while also being flexible and powerful, just like Elastic"}
+{"name":"kikimore","type":"npm","description":"Element Plus (Vue 3) & Element UI (Vue 2.7/2.6) isomorphic component library. â„ï¸ More than Element."}
 {"name":"kilt","type":"npm","description":"Combines multiple event emitters into a single emitter"}
 {"name":"kinto-client","type":"npm","description":"JavaScript HTTP client for the Kinto API."}
 {"name":"kiteconnect-ts-test","type":"npm","description":"The official typescript client for the Kite Connect trading APIs"}
@@ -3244,9 +3305,13 @@
 {"name":"@lerna/write-log-file","type":"npm","description":"What lerna uses to dump logs"}
 {"name":"less-brunch","type":"npm","description":"Adds LESS support to brunch."}
 {"name":"level-browserify","type":"npm","description":"Fast & simple storage - a Node.js-style LevelDB wrapper (a convenience package bundling LevelUP & LevelDOWN or Level.js)"}
+{"name":"level-codec","type":"npm","description":"Encode keys, values and range options, with built-in or custom encodings"}
+{"name":"level-concat-iterator","type":"npm","description":"Concatenate entries from an iterator into an array."}
 {"name":"leveldown","type":"npm","description":"A low-level Node.js LevelDB binding"}
 {"name":"leveldown-sync","type":"npm","description":"A Node.js LevelDB binding with sync supports inherits from abstract-nosql."}
+{"name":"level-errors","type":"npm","description":"Error types for levelup"}
 {"name":"level-js","type":"npm","description":"An abstract-leveldown compliant store on top of IndexedDB"}
+{"name":"level-packager","type":"npm","description":"levelup package helper for distributing with an abstract-leveldown store"}
 {"name":"level-queue","type":"npm","description":"queue plugin for leveldb."}
 {"name":"level-session","type":"npm","description":"A very fast and persistent web server session manager backed by LevelDB"}
 {"name":"level-spaces","type":"npm","description":"Namespaced LevelUP instances"}
@@ -3340,6 +3405,7 @@
 {"name":"lodash.padright","type":"npm","description":"The lodash method _.padRight exported as a module."}
 {"name":"lodash.trimleft","type":"npm","description":"The lodash method _.trimLeft exported as a module."}
 {"name":"lodash.trimright","type":"npm","description":"The lodash method _.trimRight exported as a module."}
+{"name":"@lo-fi/client-storage","type":"npm","description":"This project has been moved to @byojs/storage."}
 {"name":"log2textarea","type":"npm","description":"Simple logger to a textarea"}
 {"name":"log4js-tagline","type":"npm","description":"log4js + tagline"}
 {"name":"loggerhythm","type":"npm","description":"wrapper for winston to use it like debug with namespaces"}
@@ -3371,6 +3437,7 @@
 {"name":"lunhui890103s","type":"npm","description":"A Component Library for Vue 3"}
 {"name":"@lunit/cornerstone-declarations","type":"npm","description":"``` ///  ```"}
 {"name":"lutils-merge","type":"npm","description":"Merge javascript objects recursively"}
+{"name":"lwc-services","type":"npm","description":"Creating Lightning Web Components projects is a breeze."}
 {"name":"m6rhamza-simple-calc","type":"npm","description":""}
 {"name":"machinepack-sqlserver-adapter","type":"npm","description":"Structured Node.js bindings for SQL Server."}
 {"name":"madewithlove-webpack-config","type":"npm","description":"Configuration for Webpack projects at Madewithlove"}
@@ -3400,6 +3467,7 @@
 {"name":"mapped-replacer","type":"npm","description":"ðŸ—º Zero-dependency Map and RegExp based string replacer with Unicode support. ðŸ"}
 {"name":"@maptalks/gl-layers","type":"npm","description":"All-in-one package for maptalks webgl layers"}
 {"name":"marbles-network","type":"npm","description":"Marble Trading Network"}
+{"name":"@marboris/coreutils","type":"npm","description":"coreutils is suitable for all projects that require database interactions and specific configurations."}
 {"name":"markdown-it-xss","type":"npm","description":"A markdown-it plugin to make your render content more secure "}
 {"name":"markdown-to-ast","type":"npm","description":"Parse Markdown to AST with location info."}
 {"name":"marked-completed","type":"npm","description":"markdown"}
@@ -3409,6 +3477,7 @@
 {"name":"marky-mark","type":"npm","description":"Reads a directory of markdown files with meta-data/front-matter and parses it out. Add your favorite templating language to make your own static site generator"}
 {"name":"marky-markdown","type":"npm","description":"npm's markdown parser"}
 {"name":"@master/css-cli","type":"npm","description":"The CLI of Master CSS"}
+{"name":"@master.technology/websockets","type":"npm","description":"A WebSocket NativeScript module for Android and iOS"}
 {"name":"materialize-css-temp","type":"npm","description":"This package is no longer supported and has been deprecated. To avoid malicious use, npm is hanging on to the package name."}
 {"name":"materialize-css-toom","type":"npm","description":"This package is no longer supported and has been deprecated. To avoid malicious use, npm is hanging on to the package name."}
 {"name":"materialize-loader","type":"npm","description":"A webpack loader for Materialize Css Library"}
@@ -3678,10 +3747,8 @@
 {"name":"@morgs32/addon-knobs","type":"npm","description":"Storybook Addon Prop Editor Component"}
 {"name":"morkdown","type":"npm","description":"A markdown editor built on Chrome & Node"}
 {"name":"@mornich/timecounter","type":"npm","description":"Application that counting time until the end of the work day/ Also counting time until the start of the dinner"}
-{"name":"@morpho-org/test","type":"npm","description":"           <img src=\"https://img.shiel"}
 {"name":"@morpho-org/test-ethers","type":"npm","description":"           <img src=\"htt"}
 {"name":"@morpho-org/test-viem","type":"npm","description":"           <img src=\"https:/"}
-{"name":"@morpho-org/test-wagmi","type":"npm","description":"           <img src=\"https"}
 {"name":"motion-client","type":"npm","description":"Views are a great abstraction on the frontend. But assembling a decent stack takes years of experience, months of building, and never-ending care."}
 {"name":"@motionone/solid","type":"npm","description":"A tiny, performant animation library for SolidJS"}
 {"name":"@motionone/vue","type":"npm","description":"A tiny, performant animation library for Vue"}
@@ -3703,7 +3770,6 @@
 {"name":"ms-signalr-client","type":"npm","description":"packaged version of the Microsoft Javascript SignalR client"}
 {"name":"ms-vcrontab","type":"npm","description":"vue çš„ cron ç»„ä»¶ï¼Œæ”¯æŒè§£æž/åè§£æž cron è¡¨è¾¾å¼ï¼Œç”Ÿæˆæœ€è¿‘äº”æ¬¡çš„ç¬¦åˆæ¡ä»¶æ—¶é—´"}
 {"name":"msx","type":"npm","description":"JSX for Mithril"}
-{"name":"mtl-js-sdk","type":"npm","description":"ynf-fw-mtl-api"}
 {"name":"mtwitter","type":"npm","description":"Node.js Twitter API"}
 {"name":"mucss","type":"npm","description":"Î¼CSS â€” vital CSS utils"}
 {"name":"@mui/core","type":"npm","description":"Unstyled React components with which to implement custom design systems."}
@@ -3720,6 +3786,7 @@
 {"name":"multiline","type":"npm","description":"Multiline strings in JavaScript"}
 {"name":"multi-node","type":"npm","description":"Multi-node provides launching of multiple NodeJS processes for TCP/HTTP serving. With multi-node it is very simple to add utilize multiple processes to concurrently serve HTTP requests, simply pass an http.Server object to the listen function:"}
 {"name":"@multiplechain/solana-walletconnect","type":"npm","description":"This package provides an adapter to enable Solana DApps to connect to WalletConnect."}
+{"name":"multithread-array","type":"npm","description":"Splits an array into multiple subarrays based on the specified options. The reminder elements are added into the subarrays in order. Works in Node.js and web browsers."}
 {"name":"mumath","type":"npm","description":"Practical math utils for components"}
 {"name":"muneem","type":"npm","description":"Fast and simple web framework designed for all team members"}
 {"name":"music-metadata-browser","type":"npm","description":"Browserifed version of music-metadata"}
@@ -3741,11 +3808,14 @@
 {"name":"@mysten/wallet-kit-core","type":"npm","description":"TODO: Write description"}
 {"name":"mzr-api","type":"npm","description":"Simplify a lot of your code using MZR-API"}
 {"name":"mzrdb","type":"npm","description":"User-friendly database module supporting JSON, MongoDB, YAML, and BSON formats for seamless data management."}
+{"name":"mzunipay-sdk-package","type":"npm","description":"A Mzunipay SDK for easy merchant integration with their e-commerce apps"}
+{"name":"@naanlang/naan","type":"npm","description":"Naanâ„¢ software platform"}
 {"name":"nack","type":"npm","description":"Node powered Rack server"}
 {"name":"n-activity-packages","type":"npm","description":"BD N activity packages"}
 {"name":"nam-fork-react-scripts","type":"npm","description":"Configuration and scripts for Create React App."}
 {"name":"@namics/eslint-config","type":"npm","description":"Default configurations for eslint"}
 {"name":"nanomist","type":"npm","description":"A maintained and even tinier version of minimist"}
+{"name":"native-base","type":"npm","description":"Essential cross-platform UI components for React Native"}
 {"name":"native-buffer-browserify","type":"npm","description":"Node.js Buffer API, for the browser"}
 {"name":"native-or-bluebird","type":"npm","description":"use either the native Promise or Bluebird"}
 {"name":"natives","type":"npm","description":"Do stuff with Node.js's native JavaScript modules"}
@@ -3835,6 +3905,7 @@
 {"name":"newman-reporter-htmlextra","type":"npm","description":"A newman reporter with added handlebars helpers and separated request iterations"}
 {"name":"newman-reporter-htmlextra-extended","type":"npm","description":"A newman reporter with added handlebars helpers and separated request iterations"}
 {"name":"new-ng2-template","type":"npm","description":"Modular seed project for Angular 2 apps with fast, statically typed build"}
+{"name":"@newy/dsl","type":"npm","description":"ä¸€ä¸ªæè¿° name, attribute, children ç»“æž„ çš„å†…éƒ¨DSL"}
 {"name":"nexitor-cli","type":"npm","description":"Nexitor CLI tool used to streamline the process of creating a new nexitor project."}
 {"name":"nexjs","type":"npm","description":""}
 {"name":"nextcloud-vue-collections","type":"npm","description":"Nextcloud vue components for collections"}
@@ -3868,7 +3939,9 @@
 {"name":"ngmin","type":"npm","description":"AngularJS Minifier"}
 {"name":"@ngmodule/material-carousel","type":"npm","description":"Carousel component for Angular using Material Design."}
 {"name":"@ngneat/transloco","type":"npm","description":"The internationalization (i18n) library for Angular"}
+{"name":"@ngneat/transloco-keys-manager","type":"npm","description":"Extract translatable keys from projects that uses Transloco"}
 {"name":"@ngneat/transloco-messageformat","type":"npm","description":"Transpiler for Transloco that uses messageformat.js to compile translations using ICU syntax for handling pluralization and gender"}
+{"name":"@ngneat/transloco-scoped-libs","type":"npm","description":"Transloco support tool for libraries with translations"}
 {"name":"@ngneat/transloco-utils","type":"npm","description":"Transloco utils library"}
 {"name":"ng-scrollreveal","type":"npm","description":"Angular 2+ directives for ScrollReveal JS: Easy scroll animations library for web and mobile browsers."}
 {"name":"ng-select2","type":"npm","description":"Angular wrapper component of jQuery select2."}
@@ -3889,6 +3962,7 @@
 {"name":"@ngx-progressbar/http","type":"npm","description":"A nanoscopic progress bar. Featuring realistic trickle animations to convince your users that something is happening!"}
 {"name":"ngx-qrcode2","type":"npm","description":"An Angular component for generating QRCodes "}
 {"name":"ngx-quill-editor","type":"npm","description":"Quill editor component for Angular"}
+{"name":"ngx-reactflow","type":"npm","description":"Angular context menu that works with templates"}
 {"name":"ngx-resource","type":"npm","description":"Angular2 resource module with simple decorators"}
 {"name":"@ngx-share/core","type":"npm","description":"Share buttons components for Angular and Ionic."}
 {"name":"ngx-spinner-loader","type":"npm","description":""}
@@ -3901,6 +3975,7 @@
 {"name":"nicescroll","type":"npm","description":"Nicescroll is a jquery plugin, for nice customizabled scrollbars with a very similar ios/mobile style. It supports DIVs, IFrames and document page (body) scrollbars. Compatible with modern browsers Chrome/Firefox/Edge/Safari/Opera for smartphone ios/andro"}
 {"name":"nigel","type":"npm","description":"BoyerMooreHorspool algorithms"}
 {"name":"nipple","type":"npm","description":"HTTP Client Utilities"}
+{"name":"nist-password-validator.ts","type":"npm","description":"A lightweight password validator that complies with NIST guidelines."}
 {"name":"nitrado.js","type":"npm","description":"A type safe wrapper for the Nitrado API"}
 {"name":"nivo","type":"npm","description":""}
 {"name":"@nl-design-system-unstable/rotterdam-design-tokens","type":"npm","description":"NL Design System design tokens for Gemeente Rotterdam"}
@@ -3928,6 +4003,7 @@
 {"name":"node-decorators","type":"npm","description":"This package is no longer supported and has been deprecated. To avoid malicious use, npm is hanging on to the package name."}
 {"name":"node-dingtalk","type":"npm","description":"dingtalk node sdk"}
 {"name":"node-easypost","type":"npm","description":"EasyPost Node Client Library"}
+{"name":"nodeenv","type":"npm","description":"nodeenv enables tests to control Node.js environment variables."}
 {"name":"node-fetch-npm","type":"npm","description":"An npm cli-oriented fork of the excellent node-fetch"}
 {"name":"node-ffi","type":"npm","description":"A foreign function interface (FFI) for Node.js"}
 {"name":"node-github","type":"npm","description":"DEPRECATED: use 'github' package"}
@@ -3943,6 +4019,7 @@
 {"name":"node-macaddress","type":"npm","description":"Get the MAC addresses (hardware addresses) of the hosts network interfaces."}
 {"name":"node-mailer","type":"npm","description":"Mailer on top of nodemailer"}
 {"name":"node-markdown","type":"npm","description":"Parse Markdown syntax with node.js"}
+{"name":"node-meraki-dashboard","type":"npm","description":"A modern node.js client library for using the Meraki Dashboard API."}
 {"name":"node-mock","type":"npm","description":"Mock existing Node.js modules."}
 {"name":"node-modbus","type":"npm","description":"Sum of implementations for the Serial/TCP Modbus protocol."}
 {"name":"node-module-concat","type":"npm","description":"Lightweight CommonJS module concatenation tool"}
@@ -4001,6 +4078,7 @@
 {"name":"node-xmpp-core","type":"npm","description":"core files for the node-xmpp project"}
 {"name":"node-xmpp-jid","type":"npm","description":"XMPP identifiers (JID) for JavaScript"}
 {"name":"node-xmpp-server","type":"npm","description":"XMPP server libraries for Node.js"}
+{"name":"node-xmpp-tls-connect","type":"npm","description":"tls.connect fallback"}
 {"name":"node-zone","type":"npm","description":"minimal Zone implementation for Node"}
 {"name":"noire","type":"npm","description":"BDD testing minus verbosity"}
 {"name":"@nomiclabs/hardhat-etherscan","type":"npm","description":"Hardhat plugin for verifying contracts on etherscan"}
@@ -4033,6 +4111,7 @@
 {"name":"@npmcli/infer-owner","type":"npm","description":"Infer the owner of a path based on the owner of its nearest existing parent"}
 {"name":"@npmcli/move-file","type":"npm","description":"move a file (fork of move-file)"}
 {"name":"npmconf","type":"npm","description":"The config module for npm circa npm@1 and npm@2"}
+{"name":"npm-go-bin","type":"npm","description":"Distribute and install Go binaries via NPM"}
 {"name":"npm-info","type":"npm","description":"Base class for downloading data from the npm registry"}
 {"name":"npm-install-missing","type":"npm","description":"This module will attempt to reinstall any missing dependencies.  It can be called via the command line or used programmatically."}
 {"name":"npm-lifecycle","type":"npm","description":"JavaScript package lifecycle hook runner"}
@@ -4117,6 +4196,8 @@
 {"name":"onm","type":"npm","description":"Object Namespace Manager (onm) data model, schema-driven JSON factory and in-memory subsystem communication bus for complex data-driven Node.js/HTML 5 client apps."}
 {"name":"@onramper/widget","type":"npm","description":"Onramper allows your users to buy cryptocurrency with fiat, directly from your website or app."}
 {"name":"onscreen","type":"npm","description":"A light library that does stuff when the matched elements enter or leave the viewport"}
+{"name":"@ontario-digital-service/ontario-design-system-design-tokens","type":"npm","description":"Design Tokens defining the base values within the Ontario Design System"}
+{"name":"@ontario-digital-service/ontario-design-system-global-styles","type":"npm","description":"Includes the Ontario Design System global styles that are used for more generic elements and layouts, as well as fonts and favicon files."}
 {"name":"@ontario-lrc/angular-services","type":"npm","description":"A collection of reusable Anggular services, customized for the LRC's needs.  The goal is to provide developers with a centralized location for LRC Angular services to share, collaborate, and leverage reusable code, promoting code reusability and reducing "}
 {"name":"ooomap","type":"npm","description":"ooomap SDK -- å›­åœˆåœ°å›¾SDK"}
 {"name":"opbeat","type":"npm","description":"The official Opbeat agent for Node.js"}
@@ -4129,11 +4210,13 @@
 {"name":"open-device","type":"npm","description":"Creates a terminal web interface for any device."}
 {"name":"openfin-adapter","type":"npm","description":"Allows the use of the OpenFin API from node.js. Please note the launch and connect methods are specific to a node environment."}
 {"name":"openfsm-mail-notification-producer","type":"npm","description":""}
+{"name":"open-im-sdk","type":"npm","description":"OpenIM SDK for MiniProgram"}
 {"name":"openlayers","type":"npm","description":"Build tools and sources for developing OpenLayers based mapping applications"}
 {"name":"@openmaths/utils","type":"npm","description":"A collection of light-weight methods and helpers for defensive programming"}
 {"name":"openneuro-cli","type":"npm","description":"OpenNeuro command line uploader / editor."}
 {"name":"@openpgp/noble-hashes","type":"npm","description":"Audited & minimal JS implementation of SHA2, SHA3, RIPEMD, HMAC"}
 {"name":"openport","type":"npm","description":"Finds open network ports."}
+{"name":"@openrtb-typings/v2.6","type":"npm","description":"TypeScript definitions for OpenRTB v2.6"}
 {"name":"open-sans-fonts","type":"npm","description":"Open Sans font family - incl. usage of CSS, SCSS, LESS"}
 {"name":"openssl","type":"npm","description":"Nodejs openssl wrapper"}
 {"name":"@opensumi/vscode-ripgrep","type":"npm","description":"Downloads the ripgrep binary shipped in OpenSumi"}
@@ -4267,6 +4350,7 @@
 {"name":"payment-icons","type":"npm","description":"payment icon svgs"}
 {"name":"payos-checkout","type":"npm","description":"\n** Warning: ** This library is no longer maintained. Please use the new library @payos/payos-checkout\n"}
 {"name":"@paypal/checkout-server-sdk","type":"npm","description":"NodeJS SDK for PayPal Checkout APIs"}
+{"name":"paypal-rest-sdk","type":"npm","description":"SDK for PayPal REST APIs"}
 {"name":"paytabs_pt2","type":"npm","description":"PayTabs payment integration with nodejs V10.X"}
 {"name":"paytabs_pt3","type":"npm","description":"PayTabs payment integration with nodejs V10.X"}
 {"name":"pbkdf2-sha256","type":"npm","description":"pbkdf2-sha256 is a PBDKF2 implementation using HMAC SHA256"}
@@ -4333,10 +4417,12 @@
 {"name":"pinky","type":"npm","description":"Sweetly small promises/a+ implementation."}
 {"name":"pinky-promise","type":"npm","description":"Promises, with a few extra goodies."}
 {"name":"pino-multi-stream","type":"npm","description":"A wrapper for the Pino logger that provides Bunyan's multipe destination stream API"}
+{"name":"pinyin-cc","type":"npm","description":"æ”¯æŒå¤šéŸ³å­—, ç¹ä½“å­—ï¼Œé¦–å­—æ¯ç¼©å†™çš„æ‹¼éŸ³æœç´¢å¼•æ“Ž"}
 {"name":"piwik-tracker","type":"npm","description":"A wrapper for the Piwik tracking HTTP API"}
 {"name":"pixi","type":"npm","description":"Super fast 2D rendering engine for browserify, that uses WebGL with a context 2d fallback."}
 {"name":"@pixi/particles","type":"npm","description":"Render many sprite particles as efficiently as possible"}
 {"name":"pixi-sound","type":"npm","description":"WebAudio API playback library with filters"}
+{"name":"pjjs","type":"npm","description":"this is pjfun.top js css static"}
 {"name":"p-js-assert","type":"npm","description":"Description {When you're done, you can delete the content in this README and update the file with details for others getting started with your repository}"}
 {"name":"p-js-error","type":"npm","description":"Description {When you're done, you can delete the content in this README and update the file with details for others getting started with your repository}"}
 {"name":"p-js-utils","type":"npm","description":"common tool of js"}
@@ -4346,7 +4432,6 @@
 {"name":"pkg-resolve","type":"npm","description":"Front-end Oriented Package Resolver for JSPM/NPM Packages"}
 {"name":"pkg-up","type":"npm","description":"Find the closest package.json file"}
 {"name":"@pkmn/engine","type":"npm","description":"A minimal, complete, PokÃ©mon battle simulation engine optimized for performance"}
-{"name":"planck-js","type":"npm","description":"2D JavaScript/TypeScript physics engine for cross-platform HTML5 game development"}
 {"name":"@player1os/npm-package-support","type":"npm","description":"A set of common support utilities and scripts to be used in an npm package's development"}
 {"name":"@player1os/tsconfig","type":"npm","description":"A base configuration for typescript projects"}
 {"name":"@player1os/tslint-config","type":"npm","description":"A base tslint configuration for typescript projects"}
@@ -4392,6 +4477,7 @@
 {"name":"postcss-modular-css","type":"npm","description":"Use modular-css via postcss"}
 {"name":"postcss-overflow","type":"npm","description":"PostCSS plugin for overflow shortcut"}
 {"name":"postcss-purgecss","type":"npm","description":"PostCSS plugin for PurgeCSS"}
+{"name":"postcss-short-font-size","type":"npm","description":"Define line-height within the font-size property in CSS"}
 {"name":"postcss-single-charset","type":"npm","description":"A PostCSS plugin for popping first @charset rule up in CSS file"}
 {"name":"postcss-smart-import","type":"npm","description":"PostCSS plugin to import CSS/SugarSS files"}
 {"name":"postcss-svg-fragments","type":"npm","description":"Use SVG fragments in CSS"}
@@ -4739,6 +4825,7 @@
 {"name":"react-colors-picker","type":"npm","description":"color-picker ui component for react"}
 {"name":"react-component-hw","type":"npm","description":"A simple and customizable modal window component for React applications."}
 {"name":"react-context-emission","type":"npm","description":"React context wrapper to safely provide props deeply in the component tree."}
+{"name":"react-coordinate-input","type":"npm","description":"A masked input React component for latitude & longitude coordinates."}
 {"name":"react-countdown-now","type":"npm","description":"A customizable countdown component for React."}
 {"name":"react-datagrid","type":"npm","description":"React DataGrid"}
 {"name":"react-day-picker-kgd","type":"npm","description":"Flexible date picker component for React"}
@@ -4799,8 +4886,10 @@
 {"name":"react-native-blur","type":"npm","description":"React Native Blur component"}
 {"name":"react-native-bugsnag","type":"npm","description":"Community-created Bugsnag package for React Native. It consumes the Bugsnag API to report errors from both the React Native (Javascript) environment AND the native (Obj-C or Java) environment."}
 {"name":"react-native-calendar-with-values","type":"npm","description":"React Native Calendar Components"}
+{"name":"react-native-cloudwisemagent-client","type":"npm","description":"TODO"}
 {"name":"@react-native-community/art","type":"npm","description":"React Native module that allows you to draw vector graphics"}
 {"name":"@react-native-community/async-storage","type":"npm","description":"Asynchronous, persistent, key-value storage system for React Native."}
+{"name":"@react-native-community/cameraroll","type":"npm","description":"React Native Camera Roll for iOS & Android"}
 {"name":"@react-native-community/google-signin","type":"npm","description":"Google Signin for your react native applications"}
 {"name":"@react-native-community/masked-view","type":"npm","description":"React Native MaskedView component"}
 {"name":"@react-native-community/picker","type":"npm","description":"React Native Picker for iOS & Android"}
@@ -4871,16 +4960,20 @@
 {"name":"react-scrollspy","type":"npm","description":"react scrollspy component"}
 {"name":"react-shallow-testutils","type":"npm","description":"Replacement for TestUtils when using React's shallow rendering"}
 {"name":"react-simple-compat","type":"npm","description":"Simple React for compatible use"}
+{"name":"react-spaces","type":"npm","description":"An easy to understand and nestable layout system, React Spaces allow you to divide a page or container into anchored, scrollable and resizable spaces enabling you to build desktop type user interfaces in the browser."}
 {"name":"react-spring-modal","type":"npm","description":"Animatable and accessible modals built with react-spring and @reach/dialog"}
 {"name":"react-sprucebot","type":"npm","description":"React components for your Sprucebot Skill ðŸ’ªðŸ¼"}
 {"name":"react-stepper-wizard","type":"npm","description":"http://stepper.tkwant.de/\n ### Example1\n "}
 {"name":"react-stormpath","type":"npm","description":"Stormpath SDK for React."}
 {"name":"react-style","type":"npm","description":"Maintainable styling for React.js components"}
+{"name":"react-styled-classnames","type":"npm","description":"A tool for managing react component class names and variants with the simplicity of styled-components. ðŸ¦­"}
 {"name":"react-super-select","type":"npm","description":"A flexible replacement for the html select control built with React"}
 {"name":"react-switch-button","type":"npm","description":"A React UI Component to display an awesome Switch (swipe) Button control"}
 {"name":"react-testing-library","type":"npm","description":""}
 {"name":"react-testutil-query","type":"npm","description":"small wrapper around react test utils so I don't have to write long method names"}
 {"name":"react-three-fiber","type":"npm","description":"A React renderer for Threejs"}
+{"name":"react-tks1","type":"npm","description":"React-TKS package for working with component that packaged."}
+{"name":"react-tks2","type":"npm","description":"TypeScript definitions for react-tks"}
 {"name":"react-toggle-switch","type":"npm","description":"Simple iOS inspired toggle switch"}
 {"name":"react-to-image","type":"npm","description":"Hook for converting any React component into image"}
 {"name":"react-toolbox-autocomplete-fix","type":"npm","description":"This package is no longer supported and has been deprecated. To avoid malicious use, npm is hanging on to the package name."}
@@ -4952,6 +5045,7 @@
 {"name":"remark-autolink-headings","type":"npm","description":"Deprecated: this package is no longer maintained. Please use remark-rehype to move from remark (markdown) to rehype (HTML) and then replace remark-autolink-headings with [rehype-autolink-headings][rehype-autolink-headings]."}
 {"name":"remark-external-links","type":"npm","description":"Deprecated: this package is no longer maintained. Please use remark-rehype to move from remark (markdown) to rehype (HTML) and then replace remark-external-links with [rehype-external-links][rehype-external-links]."}
 {"name":"remark-footnotes","type":"npm","description":"Deprecated: this package is no longer maintained. Please use [remark-gfm][gfm] instead. That package match how footnotes work on github.com, which is more likely to match the expectations of authors."}
+{"name":"remark-highlight.js","type":"npm","description":"Deprecated: this package is no longer maintained. Please use remark-rehype to move from remark (markdown) to rehype (HTML) and then replace remark-highlight.js with [rehype-highlight][rehype-highlight] or [rehype-starry-night][rehype-starry-night]"}
 {"name":"remark-html-katex","type":"npm","description":"Deprecated: this package is no longer maintained. Please use remark-rehype to move from remark (markdown) to rehype (HTML) and then replace remark-html-katex with [rehype-katex][rehype-katex] or [rehype-mathjax][rehype-mathjax]."}
 {"name":"remark-lint-no-auto-link-without-protocol","type":"npm","description":"Deprecated: this package is no longer maintained. With CommonMark, all autolinks (except for emails) are required to have a protocol. Otherwise they donâ€™t parse. The previous suggestion to add a protocol to email autolinks was wrong."}
 {"name":"remark-lint-no-inline-padding","type":"npm","description":"Deprecated: this package is no longer maintained. With CommonMark, you canâ€™t have padding in emphasis and strong anymore."}
@@ -5050,6 +5144,7 @@
 {"name":"rocambole-node-update","type":"npm","description":"Update a rocambole AST node"}
 {"name":"rocambole-strip-console","type":"npm","description":"Strip console statements from a rocambole AST"}
 {"name":"rocambole-strip-debugger","type":"npm","description":"Strip debugger statements from a rocambole AST"}
+{"name":"@rocketcode.dev/rocket-log","type":"npm","description":"Finely configurable log with one-touch redactions"}
 {"name":"roi","type":"npm","description":"A dependency-free http module."}
 {"name":"rolex","type":"npm","description":"Drift-minimizing setInterval replacement and high-precision timer utility for Node and browser"}
 {"name":"@rolldown/node","type":"npm","description":"rolldown core binding"}
@@ -5063,6 +5158,8 @@
 {"name":"rollup-plugin-babili","type":"npm","description":"Simple rollup plugin for minifying code using Babili."}
 {"name":"rollup-plugin-buble","type":"npm","description":"Compile ES2015 with buble"}
 {"name":"rollup-plugin-commonjs","type":"npm","description":"Convert CommonJS modules to ES2015"}
+{"name":"rollup-plugin-iconfont","type":"npm","description":"Use svg files to build iconfont files(ttf,woff2,woff,eot,svg), css file, js data file and html preview file."}
+{"name":"rollup-plugin-image","type":"npm","description":"Import JPG, PNG, GIF and SVG images"}
 {"name":"rollup-plugin-index-html","type":"npm","description":"Plugin for generating a index html with rollup"}
 {"name":"rollup-plugin-inject","type":"npm","description":"Scan modules for global variables and inject import statements where necessary"}
 {"name":"rollup-plugin-json","type":"npm","description":"Convert .json files to ES6 modules:"}
@@ -5285,7 +5382,9 @@
 {"name":"@sinonjs/formatio","type":"npm","description":"Human-readable object formatting"}
 {"name":"siriwavejs","type":"npm","description":"The Siri wave replicated in a JS library."}
 {"name":"sitefinity-webservices-sdk","type":"npm","description":"\nSitefinity WebServices SDK package is deprecated and a new package under the Progress domain is created ([Link](https://www.npmjs.com/package/@progress/sitefinity-webservices-s"}
+{"name":"sjbasicsframe","type":"npm","description":"åº”ç”¨ä¸ŽEIPäº¤äº’å…¬ç”¨ä»£ç "}
 {"name":"sjljs","type":"npm","description":"Simple Javascript Library"}
+{"name":"sj-menu-register","type":"npm","description":"è‡ªåŠ¨æ³¨å†Œèœå•"}
 {"name":"sjzt-booknavi","type":"npm","description":"```javascript\n const App = () => {\n     //booknavi.switch()ç”¨æ¥åˆ‡æ¢åœ°å›¾å’Œä¾§é¢å›¾\n     const booknavi = React.useRef(null);\n     //ä¹¦ç±çš„ä½ç½®ä¿¡æ¯\n     let location = {\n         layer: 1,\n         column: 1,\n         shelfNum: 3,\n         direct: 'A',\n     }; \n     //å®¹å™¨å±žæ€§"}
 {"name":"skale-engine","type":"npm","description":"parallel and distributed data processing engine"}
 {"name":"skeets.toast","type":"npm","description":"A simple light-weight toast engine for jquery / bootstrap"}
@@ -5340,6 +5439,7 @@
 {"name":"@so1ve/is-unicode-supported","type":"npm","description":"\nDetect whether the terminal supports Unicode\n"}
 {"name":"socialagi","type":"npm","description":"Cognitive Functions for AI Souls"}
 {"name":"@socialagi/core","type":"npm","description":"Subroutines for AI Souls"}
+{"name":"social-insurance-number","type":"npm","description":"Canadian SIN (Social Insurance Number) parser and generator"}
 {"name":"socket-io","type":"npm","description":"This package is no longer supported and has been deprecated. To avoid malicious use, npm is hanging on to the package name."}
 {"name":"socket.io-client-pure","type":"npm","description":"  ![Downloads](http://img.shields.io/npm/dm/socket.io-client.svg?"}
 {"name":"socket.io-pure","type":"npm","description":"node.js realtime framework server"}
@@ -5403,13 +5503,13 @@
 {"name":"spdlog","type":"npm","description":"Node bindings for spdlog"}
 {"name":"spdx","type":"npm","description":"SPDX License Expression Syntax parser"}
 {"name":"@spectrum-css/inputgroup","type":"npm","description":"The Spectrum CSS inputgroup component"}
-{"name":"@spectrum-web-components/shared","type":"npm","description":"Shared mixins, tools, etc. that support developing Spectrum Web Components."}
 {"name":"spfx-uifabric-themes","type":"npm","description":"Include theme slots in your SharePoint Framework Project"}
 {"name":"sphericalmercator","type":"npm","description":"Transformations between the Web Mercator projection and Latitude Longitude coordinates"}
 {"name":"spice-anthropic-ai-driver","type":"npm","description":"Antropic AI driver for spice framework"}
 {"name":"spice_mail_sendgrid","type":"npm","description":"Sendgrid provider for spice framework"}
 {"name":"spice-openai-ai-driver","type":"npm","description":"Open AI AI driver for spice framework"}
 {"name":"spice-vertexai-ai-driver","type":"npm","description":"VertexAI AI driver for spice framework"}
+{"name":"@splunk/react-sparkline","type":"npm","description":"React sparkline chart components"}
 {"name":"@splunk/react-visualization-utils","type":"npm","description":"Utilities for fetching, parsing, evaluating and manipulating visualization props."}
 {"name":"sp-pnp-js","type":"npm","description":"A JavaScript library for SharePoint development."}
 {"name":"springbokjs-library","type":"npm","description":"SpringbokJS Library"}
@@ -5448,9 +5548,11 @@
 {"name":"steam-tradeoffers","type":"npm","description":"Allows you to automate Steam trading using trade offers in Node.js"}
 {"name":"steam-web-api","type":"npm","description":"Steam Web API for Node.js"}
 {"name":"steam-weblogon","type":"npm","description":"Steam WebLogOn implementation"}
+{"name":"steggy-noencrypt","type":"npm","description":"a basic steganography library for png files (encryption support removed)"}
 {"name":"stellar-base","type":"npm","description":"Low-level support library for the Stellar network."}
 {"name":"stellar-sdk","type":"npm","description":"A library for working with the Stellar network, including communication with the Horizon and Soroban RPC servers."}
 {"name":"@stencil/dev-server","type":"npm","description":"Tiny LiveReload server that watches a single directory"}
+{"name":"@stencil/postcss","type":"npm","description":"The Stencil PostCSS Plugin"}
 {"name":"@stencil/redux","type":"npm","description":"Stencil Redux - A simple redux-connector for Stencil-built web components"}
 {"name":"@stencil/router","type":"npm","description":"Stencil Router"}
 {"name":"@stencil/state-tunnel","type":"npm","description":"Stencil State Tunnel"}
@@ -5545,6 +5647,7 @@
 {"name":"stryker-vue-mutator","type":"npm","description":"A plugin for VueJS projects using Stryker"}
 {"name":"stryker-webpack-transpiler","type":"npm","description":"A plugin for Webpack-based projects using Stryker"}
 {"name":"@studio-freight/lenis","type":"npm","description":"Lenis is a smooth scroll library to normalize and smooth the scrolling experience across devices"}
+{"name":"@studio-freight/tempus","type":"npm","description":"one rAF to rule them all"}
 {"name":"stylable","type":"npm","description":"CSS for Components"}
 {"name":"stylable-integration","type":"npm","description":"Integration utils for stylable"}
 {"name":"@styled-jsx/plugin-sass","type":"npm","description":"Plugin to add Sass support to styled-jsx."}
@@ -5563,10 +5666,13 @@
 {"name":"stylelint-rule-tester","type":"npm","description":"An easy way to test stylelint rules"}
 {"name":"stylelint-statement-max-nesting-depth","type":"npm","description":"A stylelint custom rule to limit nesting depth"}
 {"name":"stylelint-stylistic","type":"npm","description":"Plugin for endangered stylelint stylistic rules"}
+{"name":"@stylexswc/nextjs-swc-plugin","type":"npm","description":"Stylex NextJS plugin with swc plugin"}
+{"name":"@stylexswc/swc-plugin","type":"npm","description":"SWC plugin for transforming StyleX code"}
 {"name":"stylus-brunch","type":"npm","description":"Adds Stylus support to brunch."}
 {"name":"subscriptions-transport-ws","type":"npm","description":"A websocket transport for GraphQL subscriptions"}
 {"name":"subtext","type":"npm","description":"HTTP payload parsing"}
 {"name":"sucrose","type":"npm","description":"Interactive Charts for Business Applications"}
+{"name":"sudo-prompt","type":"npm","description":"Run a command using sudo, prompting the user with an OS dialog if necessary"}
 {"name":"sum","type":"npm","description":"text summarization utility"}
 {"name":"@sumor/base","type":"npm","description":"è½»å‘ˆäº‘åŸºç¡€åº“ï¼Œå¯ç”¨äºŽæµè§ˆå™¨ã€Node.JSç­‰"}
 {"name":"sumsub-node","type":"npm","description":"Description https://developers.sumsub.com/api-reference"}
@@ -5595,6 +5701,7 @@
 {"name":"@swapkit/chainflip","type":"npm","description":"SwapKit Plugin - ChainFlip"}
 {"name":"sw-appcache-behavior","type":"npm","description":"A service worker implementation of the behavior defined in a page's App Cache manifest."}
 {"name":"@swc/register","type":"npm","description":"Super fast alternative for babel-register"}
+{"name":"sweetalert2-preset","type":"npm","description":"5 out-of-the-box presets for sweetalert2."}
 {"name":"@swiftdevil/typeorm","type":"npm","description":"Data-Mapper ORM for TypeScript, ES7, ES6, ES5. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, MongoDB databases."}
 {"name":"swig","type":"npm","description":"A simple, powerful, and extendable templating engine for node.js and browsers, similar to Django, Jinja2, and Twig."}
 {"name":"swig-templates","type":"npm","description":"A simple, powerful, and extendable templating engine for node.js and browsers, similar to Django, Jinja2, and Twig."}
@@ -5743,6 +5850,8 @@
 {"name":"@syncfusion/ej2-splitbuttons","type":"npm","description":"A package of feature-rich Essential JS 2 components such as DropDownButton, SplitButton, ProgressButton and ButtonGroup."}
 {"name":"@syncfusion/ej2-spreadsheet","type":"npm","description":"Feature-rich JavaScript Spreadsheet (Excel) control with built-in support for selection, editing, formatting, importing and exporting to Excel"}
 {"name":"@syncfusion/ej2-svg-base","type":"npm","description":"Essential JS 2 SVG Base Components"}
+{"name":"@syncfusion/ej2-tailwind3-dark-theme","type":"npm","description":"A modern JavaScript UI toolkit that has been built from the ground up to be lightweight, responsive, modular and touch friendly. It is written in TypeScript and has no external dependencies."}
+{"name":"@syncfusion/ej2-tailwind3-theme","type":"npm","description":"A modern JavaScript UI toolkit that has been built from the ground up to be lightweight, responsive, modular and touch friendly. It is written in TypeScript and has no external dependencies."}
 {"name":"@syncfusion/ej2-tailwind-dark-theme","type":"npm","description":"A modern JavaScript UI toolkit that has been built from the ground up to be lightweight, responsive, modular and touch friendly. It is written in TypeScript and has no external dependencies."}
 {"name":"@syncfusion/ej2-tailwind-theme","type":"npm","description":"A modern JavaScript UI toolkit that has been built from the ground up to be lightweight, responsive, modular and touch friendly. It is written in TypeScript and has no external dependencies."}
 {"name":"@syncfusion/ej2-treegrid","type":"npm","description":"Essential JS 2 TreeGrid Component"}
@@ -5801,6 +5910,7 @@
 {"name":"tailwind","type":"npm","description":"tailwind is a base module for streaming and evented CQS applications."}
 {"name":"tailwindcss-counter","type":"npm","description":"Tailwind CSS plugin to generate counter utilities"}
 {"name":"tailwindcss-interaction-variants","type":"npm","description":"Tailwind CSS plugin to add some missing interaction state variants"}
+{"name":"tailwindcss-plugin-ark-ui","type":"npm","description":"TailwindCSS plugin for Ark UI"}
 {"name":"tailwindcss-scroll-snap","type":"npm","description":"A Tailwind CSS plugin that adds scroll-snap utilities."}
 {"name":"tailwindcss-transitions","type":"npm","description":"Tailwind CSS plugin to generate transition utilities"}
 {"name":"takeapeek","type":"npm","description":"A simple static webserver with only one command"}
@@ -5822,6 +5932,7 @@
 {"name":"@tb-dev/utility-types","type":"npm","description":"Utility types for Typescript"}
 {"name":"@tbowmo/node-red-small-timer","type":"npm","description":"Small timer node for Node-RED with support for sunrise, sunset etc. timers"}
 {"name":"tcomb-forked","type":"npm","description":"Type checking and DDD for JavaScript"}
+{"name":"@tconnect.io/evm-provider","type":"npm","description":"Use @tconnect.io/etherlink-provider"}
 {"name":"tcp-socket","type":"npm","description":"This shim brings the W3C Raw Socket API to node.js and Chromium. Its purpose is to enable apps to use the same api in Firefox OS, Chrome OS, and on the server."}
 {"name":"@tdengine/rest","type":"npm","description":"The rest Node.js for TDengine 3.0 version and above. But it is unmaintained. Please use @tdengine/websocket for future development."}
 {"name":"teamsfx-cli","type":"npm","description":""}
@@ -5864,6 +5975,7 @@
 {"name":"testcafe-live","type":"npm","description":"A watcher utility for TestCafe. Watches for changes in test files and automatically runs tests when these changes occur."}
 {"name":"testcafe-reporter-teamcity","type":"npm","description":"teamcity TestCafe reporter plugin."}
 {"name":"testcafe-safe-storage","type":"npm","description":"Encrypted storage for secrets"}
+{"name":"testin-elengo","type":"npm","description":""}
 {"name":"testing-add-four-numbers-lidya","type":"npm","description":"Function adding four numbers"}
 {"name":"testmybot","type":"npm","description":"Continuous Testing for your Chatbots"}
 {"name":"testrpc","type":"npm","description":""}
@@ -5894,6 +6006,7 @@
 {"name":"the-hash","type":"npm","description":"Hash object to hold key-value pairs"}
 {"name":"the-header","type":"npm","description":"Header of the-components"}
 {"name":"the-html","type":"npm","description":"Html of the-components"}
+{"name":"@theia/git","type":"npm","description":"Theia - Git Integration"}
 {"name":"@theia/java-debug","type":"npm","description":"Theia - Java Debug Extension"}
 {"name":"the-icon","type":"npm","description":"Icon of the-components"}
 {"name":"the-image","type":"npm","description":"Image of the-components"}
@@ -5920,6 +6033,7 @@
 {"name":"the-url","type":"npm","description":"URL utility for the-framework"}
 {"name":"the-video","type":"npm","description":"Video for the-components"}
 {"name":"the-window","type":"npm","description":"Browser utility for the-framework"}
+{"name":"thinkgeocloudclient-js","type":"npm","description":"A JavaScript library for ThinkGeo Cloud Server."}
 {"name":"thiqah-angular-secure-config","type":"npm","description":"thiqah-angular-secure-config is a new npm package developed by our company to address a security vulnerability in Angular applications. This package ensures that sensitive configuration data in config.json is protected from being inspected or extracte"}
 {"name":"this-package-is-deprecated","type":"npm","description":"For when you have completely given up on your NPM package and you do not care anymore..."}
 {"name":"three-gltf-loader","type":"npm","description":"three.js GLTFLoader wrapped as a module for easy importing"}
@@ -5994,6 +6108,7 @@
 {"name":"trim-left","type":"npm","description":"Similar to String#trim() but removes only whitespace on the left"}
 {"name":"trim-right","type":"npm","description":"Similar to String#trim() but removes only whitespace on the right"}
 {"name":"@tronscan/client","type":"npm","description":"Tronscan API Client"}
+{"name":"@trpc/react","type":"npm","description":"tRPC React lib"}
 {"name":"@truffle/abi-utils","type":"npm","description":"Utilities for working with ABIs"}
 {"name":"@truffle/artifactor","type":"npm","description":"A contract packager for Ethereum and Javascript"}
 {"name":"truffle-artifactor","type":"npm","description":"A contract packager for Ethereum and Javascript"}
@@ -6019,6 +6134,7 @@
 {"name":"@truffle/contract-sources","type":"npm","description":"Utility for finding all contracts within a directory"}
 {"name":"truffle-contract-sources","type":"npm","description":"Utility for finding all contracts within a directory"}
 {"name":"truffle-core","type":"npm","description":"Core code for Truffle command line tool"}
+{"name":"@truffle/dashboard-hardhat-plugin","type":"npm","description":"Truffle Dashboard for Hardhat plugin"}
 {"name":"@truffle/dashboard-message-bus-client","type":"npm","description":"Client library for accessing the truffle dashboard's message bus"}
 {"name":"@truffle/dashboard-message-bus-common","type":"npm","description":"Message types that are used when communicating with the Truffle dashboard message bus"}
 {"name":"@truffle/db","type":"npm","description":"Smart contract data aggregation"}
@@ -6037,6 +6153,7 @@
 {"name":"truffle-expect","type":"npm","description":"Simple module for ensuring specific options are passed to a function"}
 {"name":"@truffle/external-compile","type":"npm","description":"Wrapper to compile Truffle contracts with arbitrary shell command"}
 {"name":"truffle-external-compile","type":"npm","description":"Wrapper to compile Truffle contracts with arbitrary shell command"}
+{"name":"@truffle/from-hardhat","type":"npm","description":"Import Hardhat project information into Truffle-native formats"}
 {"name":"@truffle/hdwallet","type":"npm","description":"HD Wallet helpers for Truffle"}
 {"name":"@truffle/hdwallet-provider","type":"npm","description":"HD Wallet-enabled Web3 provider"}
 {"name":"truffle-hdwallet-provider","type":"npm","description":"HD Wallet-enabled Web3 provider"}
@@ -6194,6 +6311,9 @@
 {"name":"@turf/within","type":"npm","description":"turf within module"}
 {"name":"turf-within","type":"npm","description":"turf within module"}
 {"name":"@turt2live/matrix-sdk-crypto-nodejs","type":"npm","description":"matrix-sdk-crypto crate for Node JS"}
+{"name":"@turtlecoin/base58","type":"npm","description":"Base58 Encoding"}
+{"name":"@turtlecoin/bytestream","type":"npm","description":"bytestream serialization helper for handling over the wire encoded byte streams"}
+{"name":"@turtlecoin/mnemonics","type":"npm","description":"TurtleCoin Mnemonic Words"}
 {"name":"tv","type":"npm","description":"Interactive debug console plugin for hapi"}
 {"name":"tween","type":"npm","description":"Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations."}
 {"name":"tween.js","type":"npm","description":"Super simple, fast and easy to use tweening engine which incorporates optimised Robert Penner's equations."}
@@ -6358,6 +6478,7 @@
 {"name":"@types/chai-webdriverio","type":"npm","description":"Stub TypeScript definitions entry for chai-webdriverio, which provides its own types definitions"}
 {"name":"@types/chalk","type":"npm","description":"Stub TypeScript definitions entry for chalk, which provides its own types definitions"}
 {"name":"@types/change-case","type":"npm","description":"Stub TypeScript definitions entry for change-case, which provides its own types definitions"}
+{"name":"@types/chardet","type":"npm","description":"Stub TypeScript definitions entry for chardet, which provides its own types definitions"}
 {"name":"@types/chartist","type":"npm","description":"Stub TypeScript definitions entry for chartist, which provides its own types definitions"}
 {"name":"@types/chartjs","type":"npm","description":"TypeScript definitions for Chart.js"}
 {"name":"@types/cheap-ruler","type":"npm","description":"Stub TypeScript definitions entry for cheap-ruler, which provides its own types definitions"}
@@ -6791,6 +6912,7 @@
 {"name":"@types/is-svg","type":"npm","description":"Stub TypeScript definitions entry for is-svg, which provides its own types definitions"}
 {"name":"@types/jasmine-expect","type":"npm","description":"Stub TypeScript definitions entry for jasmine-expect, which provides its own types definitions"}
 {"name":"@types/jest-matchers","type":"npm","description":"Stub TypeScript definitions entry for expect, which provides its own types definitions"}
+{"name":"@types/jest-preset-stylelint","type":"npm","description":"Stub TypeScript definitions entry for jest-preset-stylelint, which provides its own types definitions"}
 {"name":"@types/jimp","type":"npm","description":"Stub TypeScript definitions entry for jimp, which provides its own types definitions"}
 {"name":"@types/joi","type":"npm","description":"Stub TypeScript definitions entry for joi, which provides its own types definitions"}
 {"name":"@types/jointjs","type":"npm","description":"Stub TypeScript definitions entry for JointJS, which provides its own types definitions"}
@@ -6854,6 +6976,7 @@
 {"name":"@types/memoize-one","type":"npm","description":"Stub TypeScript definitions entry for memoize-one, which provides its own types definitions"}
 {"name":"@types/meow","type":"npm","description":"Stub TypeScript definitions entry for meow, which provides its own types definitions"}
 {"name":"@types/mermaid","type":"npm","description":"Stub TypeScript definitions entry for mermaid, which provides its own types definitions"}
+{"name":"@types/meyda","type":"npm","description":"Stub TypeScript definitions entry for meyda, which provides its own types definitions"}
 {"name":"@types/micro","type":"npm","description":"Stub TypeScript definitions entry for micro, which provides its own types definitions"}
 {"name":"@types/mime","type":"npm","description":"Stub TypeScript definitions entry for mime, which provides its own types definitions"}
 {"name":"@types/mini-css-extract-plugin","type":"npm","description":"Stub TypeScript definitions entry for mini-css-extract-plugin, which provides its own types definitions"}
@@ -6883,13 +7006,16 @@
 {"name":"@types/nightwatch","type":"npm","description":"Stub TypeScript definitions entry for nightwatch, which provides its own types definitions"}
 {"name":"@types/nock","type":"npm","description":"Stub TypeScript definitions entry for nock, which provides its own types definitions"}
 {"name":"@types/node-cache","type":"npm","description":"Stub TypeScript definitions entry for node-cache, which provides its own types definitions"}
+{"name":"@types/nodecredstash","type":"npm","description":"Stub TypeScript definitions entry for nodecredstash, which provides its own types definitions"}
 {"name":"@types/node-emoji","type":"npm","description":"Stub TypeScript definitions entry for node-emoji, which provides its own types definitions"}
 {"name":"@types/node-feedparser","type":"npm","description":"TypeScript definitions for feedparser"}
 {"name":"@types/node-form","type":"npm","description":"TypeScript definitions for node-form"}
 {"name":"@types/node-json-db","type":"npm","description":"Stub TypeScript definitions entry for node-json-db, which provides its own types definitions"}
+{"name":"@types/node-ssh","type":"npm","description":"Stub TypeScript definitions entry for node-ssh, which provides its own types definitions"}
 {"name":"@types/node-usb","type":"npm","description":"TypeScript definitions for node-usb 1.1.2"}
 {"name":"@types/node-vault","type":"npm","description":"Stub TypeScript definitions entry for node-vault, which provides its own types definitions"}
 {"name":"@types/node-xlsx","type":"npm","description":"Stub TypeScript definitions entry for node-xlsx, which provides its own types definitions"}
+{"name":"@types/nookies","type":"npm","description":"Stub TypeScript definitions entry for nookies, which provides its own types definitions"}
 {"name":"@types/normalizr","type":"npm","description":"Stub TypeScript definitions entry for Normalizr, which provides its own types definitions"}
 {"name":"@types/nouislider","type":"npm","description":"Stub TypeScript definitions entry for nouislider, which provides its own types definitions"}
 {"name":"@types/o.js","type":"npm","description":"Stub TypeScript definitions entry for o.js, which provides its own types definitions"}
@@ -6925,6 +7051,8 @@
 {"name":"@types/pretty-format","type":"npm","description":"Stub TypeScript definitions entry for pretty-format, which provides its own types definitions"}
 {"name":"@types/promise","type":"npm","description":"TypeScript definitions for promise v7.1.1"}
 {"name":"@types/prosemirror-commands","type":"npm","description":"Stub TypeScript definitions entry for prosemirror-commands, which provides its own types definitions"}
+{"name":"@types/prosemirror-dropcursor","type":"npm","description":"Stub TypeScript definitions entry for prosemirror-dropcursor, which provides its own types definitions"}
+{"name":"@types/prosemirror-gapcursor","type":"npm","description":"Stub TypeScript definitions entry for prosemirror-gapcursor, which provides its own types definitions"}
 {"name":"@types/prosemirror-history","type":"npm","description":"Stub TypeScript definitions entry for prosemirror-history, which provides its own types definitions"}
 {"name":"@types/prosemirror-inputrules","type":"npm","description":"Stub TypeScript definitions entry for prosemirror-inputrules, which provides its own types definitions"}
 {"name":"@types/prosemirror-keymap","type":"npm","description":"Stub TypeScript definitions entry for prosemirror-keymap, which provides its own types definitions"}
@@ -6940,8 +7068,10 @@
 {"name":"@types/puppeteer","type":"npm","description":"Stub TypeScript definitions entry for puppeteer, which provides its own types definitions"}
 {"name":"@types/puppeteer-core","type":"npm","description":"Stub TypeScript definitions entry for puppeteer-core, which provides its own types definitions"}
 {"name":"@types/pusher-js","type":"npm","description":"Stub TypeScript definitions entry for pusher-js, which provides its own types definitions"}
+{"name":"@types/qrcode.react","type":"npm","description":"Stub TypeScript definitions entry for qrcode.react, which provides its own types definitions"}
 {"name":"@types/query-string","type":"npm","description":"Stub TypeScript definitions entry for query-string, which provides its own types definitions"}
 {"name":"@types/raven-js","type":"npm","description":"Stub TypeScript definitions entry for Raven JS, which provides its own types definitions"}
+{"name":"@types/raw-body","type":"npm","description":"Stub TypeScript definitions entry for raw-body, which provides its own types definitions"}
 {"name":"@types/rc-select","type":"npm","description":"Stub TypeScript definitions entry for rc-select, which provides its own types definitions"}
 {"name":"@types/rc-slider","type":"npm","description":"Stub TypeScript definitions entry for rc-slider, which provides its own types definitions"}
 {"name":"@types/rc-tree","type":"npm","description":"Stub TypeScript definitions entry for rc-tree, which provides its own types definitions"}
@@ -6950,6 +7080,7 @@
 {"name":"@types/react-calendar","type":"npm","description":"Stub TypeScript definitions entry for react-calendar, which provides its own types definitions"}
 {"name":"@types/react-chartjs-2","type":"npm","description":"Stub TypeScript definitions entry for react-chartjs-2, which provides its own types definitions"}
 {"name":"@types/react-content-loader","type":"npm","description":"Stub TypeScript definitions entry for react-content-loader, which provides its own types definitions"}
+{"name":"@types/react-cropper","type":"npm","description":"Stub TypeScript definitions entry for react-cropper, which provides its own types definitions"}
 {"name":"@types/react-datepicker","type":"npm","description":"Stub TypeScript definitions entry for react-datepicker, which provides its own types definitions"}
 {"name":"@types/react-dnd","type":"npm","description":"Stub TypeScript definitions entry for react-dnd, which provides its own types definitions"}
 {"name":"@types/react-dnd-html5-backend","type":"npm","description":"Stub TypeScript definitions entry for react-dnd-html5-backend, which provides its own types definitions"}
@@ -6966,6 +7097,7 @@
 {"name":"@types/react-json-tree","type":"npm","description":"Stub TypeScript definitions entry for react-json-tree, which provides its own types definitions"}
 {"name":"@types/react-jss","type":"npm","description":"Stub TypeScript definitions entry for react-jss, which provides its own types definitions"}
 {"name":"@types/react-leaflet","type":"npm","description":"Stub TypeScript definitions entry for react-leaflet, which provides its own types definitions"}
+{"name":"@types/react-leaflet-markercluster","type":"npm","description":"Stub TypeScript definitions entry for react-leaflet-markercluster, which provides its own types definitions"}
 {"name":"@types/react-monaco-editor","type":"npm","description":"Stub TypeScript definitions entry for react-monaco-editor, which provides its own types definitions"}
 {"name":"@types/react-native","type":"npm","description":"Stub TypeScript definitions entry for react-native, which provides its own types definitions"}
 {"name":"@types/react-native-ad-manager","type":"npm","description":"Stub TypeScript definitions entry for react-native-ad-manager, which provides its own types definitions"}
@@ -6980,6 +7112,7 @@
 {"name":"@types/react-phone-number-input","type":"npm","description":"Stub TypeScript definitions entry for react-phone-number-input, which provides its own types definitions"}
 {"name":"@types/react-query","type":"npm","description":"Stub TypeScript definitions entry for react-query, which provides its own types definitions"}
 {"name":"@types/react-resize-detector","type":"npm","description":"Stub TypeScript definitions entry for react-resize-detector, which provides its own types definitions"}
+{"name":"@types/react-responsive","type":"npm","description":"Stub TypeScript definitions entry for react-responsive, which provides its own types definitions"}
 {"name":"@types/react-rnd","type":"npm","description":"Stub TypeScript definitions entry for react-rnd, which provides its own types definitions"}
 {"name":"@types/react-router-native","type":"npm","description":"Stub TypeScript definitions entry for react-router-native, which provides its own types definitions"}
 {"name":"@types/react-select","type":"npm","description":"Stub TypeScript definitions entry for react-select, which provides its own types definitions"}
@@ -7079,6 +7212,7 @@
 {"name":"@types/twilio","type":"npm","description":"Stub TypeScript definitions entry for twilio, which provides its own types definitions"}
 {"name":"@types/typescript","type":"npm","description":"Stub TypeScript definitions entry for TypeScript, which provides its own types definitions"}
 {"name":"@types/typescript-stl","type":"npm","description":"TypeScript definitions for TSTL"}
+{"name":"@types/universal-cookie","type":"npm","description":"Stub TypeScript definitions entry for universal-cookie, which provides its own types definitions"}
 {"name":"@types/universal-router","type":"npm","description":"Stub TypeScript definitions entry for Universal Router, which provides its own types definitions"}
 {"name":"@types/untildify","type":"npm","description":"Stub TypeScript definitions entry for untildify, which provides its own types definitions"}
 {"name":"@types/usb","type":"npm","description":"Stub TypeScript definitions entry for usb, which provides its own types definitions"}
@@ -7121,11 +7255,13 @@
 {"name":"@types/wordpress__plugins","type":"npm","description":"Stub TypeScript definitions entry for @wordpress/plugins, which provides its own types definitions"}
 {"name":"@types/wordpress__redux-routine","type":"npm","description":"Stub TypeScript definitions entry for @wordpress/redux-routine, which provides its own types definitions"}
 {"name":"@types/wordpress__rich-text","type":"npm","description":"Stub TypeScript definitions entry for @wordpress/rich-text, which provides its own types definitions"}
+{"name":"@types/wordpress__shortcode","type":"npm","description":"Stub TypeScript definitions entry for @wordpress/shortcode, which provides its own types definitions"}
 {"name":"@types/workbox-build","type":"npm","description":"Stub TypeScript definitions entry for workbox-build, which provides its own types definitions"}
 {"name":"@types/wrap-ansi","type":"npm","description":"Stub TypeScript definitions entry for wrap-ansi, which provides its own types definitions"}
 {"name":"@types/write-json-file","type":"npm","description":"Stub TypeScript definitions entry for write-json-file, which provides its own types definitions"}
 {"name":"typesx","type":"npm","description":"Typesx an dev depencedie, that is useful to run ts files and to use more things!"}
 {"name":"@types/xadesjs","type":"npm","description":"Stub TypeScript definitions entry for xadesjs, which provides its own types definitions"}
+{"name":"@types/xlsx","type":"npm","description":"Stub TypeScript definitions entry for xlsx, which provides its own types definitions"}
 {"name":"@types/xmlbuilder","type":"npm","description":"Stub TypeScript definitions entry for xmlbuilder, which provides its own types definitions"}
 {"name":"@types/xml-js","type":"npm","description":"Stub TypeScript definitions entry for xml-js, which provides its own types definitions"}
 {"name":"@types/yaml","type":"npm","description":"Stub TypeScript definitions entry for yaml, which provides its own types definitions"}
@@ -7234,7 +7370,6 @@
 {"name":"unimported","type":"npm","description":"Scans your nodejs project folder and shows obsolete files and modules"}
 {"name":"@unipitechnology/node-red-contrib-unipi-evok","type":"npm","description":"EVOK Unipi in Node-RED"}
 {"name":"@unisq-ict/node-red-contrib-oracledb-mod","type":"npm","description":"Node-RED oracle database nodes"}
-{"name":"@unissey-web/web-components","type":"npm","description":"\nUnissey's Web Components Library\n"}
 {"name":"unist","type":"npm","description":""}
 {"name":"unitbezier","type":"npm","description":"unit bezier curve interpolation"}
 {"name":"unity-cache-server","type":"npm","description":"Unity Cache Server"}
@@ -7304,6 +7439,7 @@
 {"name":"vehicle-manufacture-network","type":"npm","description":"Vehicle manufacture network"}
 {"name":"ver","type":"npm","description":"Semantically increment a project's version in multiple files"}
 {"name":"verb-readme-generator","type":"npm","description":"Generate your project's readme with verb. Requires verb v0.9.0 or higher."}
+{"name":"@vernaillen/wpnuxt","type":"npm","description":"WPNuxt"}
 {"name":"vertx3-eventbus-client","type":"npm","description":"Vert.x 3 Event Bus Client as NPM"}
 {"name":"vertx3-full","type":"npm","description":"Vert.x: A tool-kit for building reactive applications on the JVM."}
 {"name":"vertx3-min","type":"npm","description":"Vert.x: A tool-kit for building reactive applications on the JVM."}
@@ -7312,6 +7448,8 @@
 {"name":"@videointelligence/vast-client","type":"npm","description":"JavaScript VAST Client"}
 {"name":"videojs","type":"npm","description":"A placeholder for videojs packages"}
 {"name":"videojs-hlsjs-plugin","type":"npm","description":"Adds HLS playback support to video.js 5.0+ using hls.js library."}
+{"name":"@vidstack/foundation","type":"npm","description":"Foundational functions and classes used by Vidstack products."}
+{"name":"@vidstack/player","type":"npm","description":"Headless web components that make integrating media on the a web a breeze."}
 {"name":"viewlines","type":"npm","description":"Easy way of preview data in your flows ,inspired by 'node-red-contrib-datdp-data-review',it self inspired by 'node-red-contrib-data-view'"}
 {"name":"viewport-mercator-project","type":"npm","description":"Utilities for perspective-enabled Web Mercator projections"}
 {"name":"viewport-units-buggyfill2","type":"npm","description":"Making viewport units (vh|vw|vmin|vmax) work properly in older WebKit and Trident"}
@@ -7330,6 +7468,7 @@
 {"name":"vision","type":"npm","description":"Templates rendering plugin support for hapi.js"}
 {"name":"visionary","type":"npm","description":"Views loader plugin for hapi.js"}
 {"name":"vis-uuid","type":"npm","description":"UUIDv1 and UUIDv4 generator."}
+{"name":"@vitejs/plugin-react-refresh","type":"npm","description":"Provides React Refresh support for Vite."}
 {"name":"vite-plugin-bundle","type":"npm","description":"Create plugins to improve bundeling external chunks."}
 {"name":"vite-plugin-components","type":"npm","description":"Components auto importing for Vite"}
 {"name":"vite-plugin-dotenv-in-html","type":"npm","description":"A simple ViteJS plugin to replace .env variables in index.html"}
@@ -7357,6 +7496,7 @@
 {"name":"@volar/vue-typescript","type":"npm","description":""}
 {"name":"voluptateea","type":"npm","description":"A light-weight, highly optimised JS utility for Ethereum"}
 {"name":"v-owl-carousel","type":"npm","description":"VueJS wrapper for Owl Carousel"}
+{"name":"v-route-generate","type":"npm","description":"Automate the tedious task of creating Vue Router configurations. Simply define your page components, and let this plugin handle the rest.  æ ¹æ®é¡µé¢æ–‡ä»¶ç›®å½•æ ‘ï¼Œè‡ªåŠ¨ç”Ÿæˆè·¯ç”±é…ç½®ã€‚"}
 {"name":"vr-scene","type":"npm","description":""}
 {"name":"@vrx-arco/icon","type":"npm","description":"  "}
 {"name":"vsce","type":"npm","description":"VSCode Extension Manager"}
@@ -7385,12 +7525,14 @@
 {"name":"vso-node-api","type":"npm","description":"Node client for Visual Studio Online/TFS REST APIs"}
 {"name":"vss-web-extension-sdk","type":"npm","description":"Visual Studio Team Services web extension JavaScript library and types."}
 {"name":"vsts-task-lib","type":"npm","description":"VSTS Task SDK"}
+{"name":"@vt7/pintura","type":"npm","description":""}
 {"name":"vue2-animate","type":"npm","description":"SCSS/CSS cross-browser animation library, for use with Vue.js 2.0. Ported from Animate.css."}
 {"name":"vue3-component-svg-sprite","type":"npm","description":"An npm package used to bundle svg icons into the a Vue build. This is opposed to loading svg's from the server at runtime, which can end up svgs loading last on a site."}
 {"name":"vue3-drr-grid-layout","type":"npm","description":"Vue3 grid layout with resize, drag and responsive"}
 {"name":"vue3-grid-layout","type":"npm","description":"A draggable and resizable grid layout, as a Vue component."}
 {"name":"vue-analytics","type":"npm","description":"Google Analytics plugin for Vue"}
 {"name":"vue-antd-ui","type":"npm","description":"An enterprise-class UI design language and Vue-based implementation"}
+{"name":"@vue-async/utils","type":"npm","description":"Utils."}
 {"name":"vue-cli","type":"npm","description":"A simple CLI for scaffolding Vue.js projects."}
 {"name":"vue-cli-plugin-element-plus","type":"npm","description":"vue-cli 4 plugin to add Element Plus"}
 {"name":"vue-component-compiler","type":"npm","description":"Compiler for single file Vue components"}
@@ -7484,11 +7626,16 @@
 {"name":"weapp-qrcode-canvas-2d","type":"npm","description":"generate qrcode in wx"}
 {"name":"weapps-plugin-ynbf-auth","type":"npm","description":"const sdk = require('weapps-plugin-ynbf-auth')"}
 {"name":"@web3auth/core","type":"npm","description":"Multi chain wallet aggregator core for web3Auth"}
+{"name":"@web3-js/scrypt-shim","type":"npm","description":"scrypt shim"}
+{"name":"@web3-js/websocket","type":"npm","description":"Websocket Client & Server Library implementing the WebSocket protocol as specified in RFC 6455."}
 {"name":"web3modal","type":"npm","description":"A single Web3 / Ethereum provider solution for all Wallets"}
+{"name":"@web3modal/core","type":"npm","description":"ðŸ”— Website"}
 {"name":"@web3modal/ethereum","type":"npm","description":"ðŸ”Ž Examples"}
+{"name":"@web3modal/ethers","type":"npm","description":"ðŸ”Ž Examples"}
 {"name":"@web3modal/html","type":"npm","description":"ðŸ”Ž Examples"}
 {"name":"@web3modal/react","type":"npm","description":"ðŸ”Ž Examples"}
 {"name":"@web3modal/standalone","type":"npm","description":"ðŸ”Ž Examples"}
+{"name":"@web3modal/ui","type":"npm","description":"ðŸ”— Website"}
 {"name":"@web3modal/wagmi","type":"npm","description":"ðŸ”— Website"}
 {"name":"web3.storage","type":"npm","description":"API client for web3.storage"}
 {"name":"webamp","type":"npm","description":"Winamp 2 implemented in HTML5 and JavaScript"}
@@ -7498,6 +7645,8 @@
 {"name":"webchat-vue-api","type":"npm","description":"A Vue.js Api"}
 {"name":"webcomponentsjs","type":"npm","description":"The popular WebComponents polyfill in a nice, frequently updated NPM package"}
 {"name":"@web/dev-server-cli","type":"npm","description":"Dev server for web applications"}
+{"name":"@webex/media-engine-webrtc","type":"npm","description":""}
+{"name":"@webex/plugin-phone","type":"npm","description":""}
 {"name":"webext-detect-page","type":"npm","description":"The package was renamed to webext-detect"}
 {"name":"webextension-polyfill-ts","type":"npm","description":"webextension-polyfill for TypeScript"}
 {"name":"web-ifc-three-for-cbim","type":"npm","description":"Base on web-ifc-three@0.0.126 (https://github.com/agviegas/web-ifc-three)"}
@@ -7515,6 +7664,7 @@
 {"name":"web-test-runner","type":"npm","description":"This project has moved to a new repository: https://github.com/modernweb-dev/web/tree/master/packages/test-runner"}
 {"name":"webtorrent-desktop","type":"npm","description":"Install WebTorrent Desktop from the official site: https://webtorrent.io/desktop"}
 {"name":"webtorrent-hybrid","type":"npm","description":"Streaming torrent client"}
+{"name":"webtorrent-swarm","type":"npm","description":"Simple, robust, WebTorrent \"swarm\" implementation"}
 {"name":"weinre","type":"npm","description":"WEb INspector REmote"}
 {"name":"@wes1994/api-axios","type":"npm","description":"è°ƒç”¨åŽå°apiæŽ¥å£åº“-axiosæ–¹å¼è°ƒç”¨0.2.0ç‰ˆæœ¬"}
 {"name":"@wessberg/browserslist-generator","type":"npm","description":"A library that makes generating and validating Browserslists a breeze!"}
@@ -7522,19 +7672,24 @@
 {"name":"@wessberg/ts-clone-node","type":"npm","description":"A library that helps you clone Nodes from a Typescript AST"}
 {"name":"@wessberg/ts-evaluator","type":"npm","description":"An interpreter for Typescript that can evaluate an arbitrary Node within a Typescript AST"}
 {"name":"whereis","type":"npm","description":"Which/Whereis easy helper, find if a program exists"}
+{"name":"@whook/http-server","type":"npm","description":"The Whook base HTTP server"}
+{"name":"@whook/http-transaction","type":"npm","description":"Isolated HTTP Transactions for the Whook framework"}
 {"name":"whoots-js","type":"npm","description":"Request tiles from WMS servers that support EPSG:3857"}
 {"name":"why-did-you-update","type":"npm","description":"Patch React to discover unnecessary re-renders"}
 {"name":"wicg-focus-ring","type":"npm","description":"Polyfill for :focus-ring pseudo-selector"}
 {"name":"wikidata-cli","type":"npm","description":"[OBSOLETE: use wikibase-cli] The command-line interface to Wikidata"}
 {"name":"wikidata-edit","type":"npm","description":"Edit Wikidata from NodeJS"}
 {"name":"wikidata-sdk","type":"npm","description":"A convenience package bundling wikibase-sdk initialized with wikidata.org config"}
+{"name":"wiki-plugin-federatedwiki","type":"npm","description":"Federated Wiki - FederatedWiki Plug-in"}
 {"name":"wincc-unified-nodes","type":"npm","description":"Node-Red custom nodes to connect to WINCC UNIFIED PC RT V18^"}
+{"name":"windows","type":"npm","description":"A collection of utilities for Windows for Node.js"}
 {"name":"windows-build-tools","type":"npm","description":"Install C++ Build Tools for Windows using npm"}
 {"name":"windows-mutex","type":"npm","description":"Expose the Windows CreateMutex API to Node.JS"}
 {"name":"windows-packages","type":"npm","description":"ðŸ’» A Node.js module for reading the Packages registry key on Windows 10. Useful for retrieving Windows 10 installed Store applications. ðŸ“¦"}
 {"name":"windows-process-tree","type":"npm","description":"Fetch a Windows process tree fast"}
 {"name":"win-release","type":"npm","description":"Get the name of a Windows version from the release number: 5.1.2600 â†’ XP"}
 {"name":"win-spawn","type":"npm","description":"Spawn for node.js but in a way that works regardless of which OS you're using"}
+{"name":"winston-context","type":"npm","description":"Creates shallow proxies of Winston loggers with context."}
 {"name":"wire-webapp-cbor","type":"npm","description":"Implementation of Concise Binary Object Representation (CBOR) data format (RFC7049)."}
 {"name":"@withfig/oclif","type":"npm","description":"Generate Fig completion spec from oclif"}
 {"name":"wjm-keen-ui","type":"npm","description":"A lightweight collection of essential UI components written with Vue and inspired by Material Design."}
@@ -7558,9 +7713,11 @@
 {"name":"xapp-webpack-loader","type":"npm","description":"mini-program webpack loader"}
 {"name":"xcomponent","type":"npm","description":"Cross domain components."}
 {"name":"xcraft-core-eventstore","type":"npm","description":"Xcraft event store"}
+{"name":"xernerx","type":"npm","description":""}
 {"name":"@xkeshi/vue-barcode","type":"npm","description":"Barcode component for Vue.js."}
 {"name":"@xkeshi/vue-qrcode","type":"npm","description":"Qrcode component for Vue.js."}
 {"name":"xlsjs","type":"npm","description":"Excel 5.0/95 and 97-2004 spreadsheet (BIFF5 XLS / BIFF8 XLS / XML 2003) parser"}
+{"name":"xlsx-style-elsbiz","type":"npm","description":"Excel (XLSB/XLSX/XLSM/XLS/XML) and ODS spreadsheet parser and writer (extended to enable read/write of cell formats with xlsx files)"}
 {"name":"@xmcl/common","type":"npm","description":"Minecraft common concepts"}
 {"name":"xml2js-es6-promise","type":"npm","description":"ES6 promise wrapper for xml2js"}
 {"name":"xmltv-stream","type":"npm","description":"An XMLTV format reader"}
@@ -7582,6 +7739,7 @@
 {"name":"xterm-headless","type":"npm","description":"A headless terminal component that runs in Node.js"}
 {"name":"@xunnamius/conventional-changelog-projector","type":"npm","description":"â›”ï¸ [DEPRECATED] conventional-changelog @xunnamius/projector preset originally forked from conventional-changelog-conventionalcommits"}
 {"name":"@yaffle/expression","type":"npm","description":"A library to parse expressions, solve and simplify systems of linear equations, find eigenvalues and eigenvectors"}
+{"name":"yammies","type":"npm","description":""}
 {"name":"yar","type":"npm","description":"Cookie jar plugin for Hapi"}
 {"name":"@yard-team/whatsapp-bot","type":"npm","description":"WhatsApp Bot for NodeJs"}
 {"name":"yasgui","type":"npm","description":"Yet Another SPARQL GUI"}
@@ -7604,11 +7762,13 @@
 {"name":"youtube-dl","type":"npm","description":"youtube-dl driver for node"}
 {"name":"youtube-feeds","type":"npm","description":"Deprecated, use googleapis instead. Access public YouTube Data API v2 feeds, mostly with the clean JSON-C results"}
 {"name":"youtube-info","type":"npm","description":"Fetch meta information about YouTube videos"}
+{"name":"you-yuan-ui","type":"npm","description":"å‹å…ƒwebç»„ä»¶"}
 {"name":"ytpl","type":"npm","description":"Simple package to resolve YouTube playlists - no strings attached."}
 {"name":"ytsr","type":"npm","description":"Simple package to search YouTube - no strings attached."}
 {"name":"yubaba","type":"npm","description":"/juËbaËba/ out of the box animated experiences for React.js ðŸ§™âœ¨"}
 {"name":"@zanmato/fastify-vite","type":"npm","description":"Fork of the Fastify plugin for Vite integration."}
 {"name":"zcap-context","type":"npm","description":"An Authorization Capability (zCap) JSON-LD context for JavaScript."}
+{"name":"zd-editor-api","type":"npm","description":"zd-editor-api\n ===================="}
 {"name":"zeebe-node","type":"npm","description":"The Node.js client library for the Zeebe Workflow Automation Engine."}
 {"name":"@zeit/check-updates","type":"npm","description":"Consistent update notifications for packages"}
 {"name":"@zeit/dockerignore","type":"npm","description":"dockerignore is a manager and filter for .dockerignore rules and is a fork of ignore."}
@@ -7669,9 +7829,11 @@
 {"name":"zwserver","type":"npm","description":"a simple weather web server"}
 {"name":"zwwwtxt","type":"npm","description":"wwwtxt plugin for ziggy"}
 {"name":"zxing","type":"npm","description":"A port of LazarSoft's jsqrcode to npm (see https://github.com/LazarSoft/jsqrcode)"}
-{"name":"aimon-llamaindex","type":"pypi","description":"aimon-llamaindex package"}
+{"name":"zzzl-bcakend-ui","type":"npm","description":"A Component Library for Vue.js."}
+{"name":"achya-language","type":"pypi","description":"Bahasa pemrograman Achya Language berbasis Python."}
 {"name":"alx-s3","type":"pypi","description":"Dummy"}
 {"name":"ansible-test","type":"pypi","description":"UNKNOWN"}
+{"name":"apex-agents-py","type":"pypi","description":"apex is a powerful, modular, and highly extensible framework designed for developers building applications that require a seamless blend of performance, flexibility, and scalability. With apex, you can harness the power of modern tools to craft cutting-edge solutions across industries."}
 {"name":"atlassian","type":"pypi","description":""}
 {"name":"audio-similarity","type":"pypi","description":"Audio similarity metrics for audio tasks"}
 {"name":"autoluv","type":"pypi","description":"tool for autoluv"}
@@ -7686,6 +7848,8 @@
 {"name":"flask-user","type":"pypi","description":"Customizable User Authentication & User Management: Register, Confirm, Login, Change username/password, Forgot password and more."}
 {"name":"flick","type":"pypi","description":"flick: watch for something not so special"}
 {"name":"gitlab","type":"pypi","description":"Get GitLab user Details"}
+{"name":"gorgo","type":"pypi","description":""}
+{"name":"hack4utestpg","type":"pypi","description":"Biblioteca para consultar cursos hack4u"}
 {"name":"hashlib","type":"pypi","description":"Secure hash and message digest algorithm library"}
 {"name":"holamundoplayerjosecaicedo","type":"pypi","description":""}
 {"name":"holoviz","type":"pypi","description":"High-level tools to simplify visualization in Python."}
@@ -7699,24 +7863,34 @@
 {"name":"hyo2-ssm","type":"pypi","description":"Visit hydroffice.org."}
 {"name":"ipv4v6","type":"pypi","description":"A model for get ipv4&ipv6 address"}
 {"name":"jinja22","type":"pypi","description":"test"}
+{"name":"jizo","type":"pypi","description":""}
+{"name":"kugel","type":"pypi","description":"Explore Kubernetes resources using SQLite"}
+{"name":"lumigator-schemas","type":"pypi","description":"Schemas used for REST API communication"}
+{"name":"lumigator-sdk","type":"pypi","description":"Lumigator SDK using the REST API"}
+{"name":"medina","type":"pypi","description":""}
 {"name":"meteo-brain","type":"pypi","description":"Adaptive weather prediction algorithm with data collection."}
 {"name":"ni-vision","type":"pypi","description":"Estimation of Joint Points with Tracking and Camera Calibration and Optimization"}
 {"name":"packaging2","type":"pypi","description":"Core utilities for Python packages. Fork to support LegacyVersion"}
 {"name":"pandus","type":"pypi","description":"A simple wrapper around Pandas"}
 {"name":"podman-py","type":"pypi","description":"Bindings for Podman RESTful API"}
+{"name":"pycomgrader","type":"pypi","description":"This module provides a grader for c++ programs."}
 {"name":"pyrfc","type":"pypi","description":"Python bindings for SAP NetWeaver RFC SDK"}
 {"name":"python-apt","type":"pypi","description":"Python bindings for libapt."}
 {"name":"pythonbasic-dangitspang","type":"pypi","description":"A better way to write in TI-Basic"}
 {"name":"qwertzsite-qwertz","type":"pypi","description":"A framework for easily creating and serving websites"}
+{"name":"rabat","type":"pypi","description":""}
 {"name":"renewablesautomate","type":"pypi","description":"Renewable Energy Monitoring Management Interface"}
 {"name":"requests-utils","type":"pypi","description":"Various convenient features about requests."}
 {"name":"rodent-bot","type":"pypi","description":"Free, open-source discord bot with advanced customization."}
 {"name":"s3f","type":"pypi","description":""}
 {"name":"sage","type":"pypi","description":""}
 {"name":"sentry","type":"pypi","description":"A realtime logging and aggregation server."}
+{"name":"smdapi","type":"pypi","description":"Python wrapper for SMD3 and SMD4 motor drives, providing all aspects of configuration and control for these drives."}
 {"name":"snapcache","type":"pypi","description":"Snap-in memory caching for Python, no persistence, just pure function result caching."}
 {"name":"snooty-lextudio","type":"pypi","description":"The Snooty documentation writer's tool."}
+{"name":"takigyo","type":"pypi","description":""}
 {"name":"tehillim","type":"pypi","description":"A library to fetch daily Tehillim (Psalms)"}
+{"name":"tribal","type":"pypi","description":""}
 {"name":"types-pkg-resources","type":"pypi","description":"Typing stubs for pkg_resources"}
 {"name":"types-typing-extensions","type":"pypi","description":"Typing stubs for typing-extensions"}
 {"name":"yt-text-extractor","type":"pypi","description":"Handy yt-dlp wrapper to download Youtube videos transcripts"}
