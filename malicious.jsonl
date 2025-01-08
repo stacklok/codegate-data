@@ -1,6 +1,17 @@
 {"name":"littest","type":"crates","description":"NULL"}
 {"name":"rustdecimal","type":"crates","description":"NULL"}
+{"name":"000webhost-admin","type":"npm","description":""}
+{"name":"000webhost-analytics","type":"npm","description":""}
+{"name":"000webhost-api","type":"npm","description":""}
+{"name":"000webhost-api-client","type":"npm","description":""}
+{"name":"000webhost-auth","type":"npm","description":""}
+{"name":"000webhost-cache","type":"npm","description":""}
+{"name":"000webhost-checkout","type":"npm","description":""}
+{"name":"000webhost-cloud","type":"npm","description":""}
+{"name":"000webhost-connect","type":"npm","description":""}
+{"name":"000webhost-database","type":"npm","description":""}
 {"name":"01template1","type":"npm","description":"NULL"}
+{"name":"029testnpm","type":"npm","description":"NULL"}
 {"name":"04axvm","type":"npm","description":"NULL"}
 {"name":"04xi_mfz","type":"npm","description":"NULL"}
 {"name":"0-dns","type":"npm","description":"NULL"}
@@ -43,6 +54,16 @@
 {"name":"2k-utils","type":"npm","description":"NULL"}
 {"name":"2mul1k","type":"npm","description":"NULL"}
 {"name":"2pozw6","type":"npm","description":"NULL"}
+{"name":"32red-admin","type":"npm","description":""}
+{"name":"32red-analytics","type":"npm","description":""}
+{"name":"32red-api","type":"npm","description":""}
+{"name":"32red-api-client","type":"npm","description":""}
+{"name":"32red-auth","type":"npm","description":""}
+{"name":"32red-cache","type":"npm","description":""}
+{"name":"32red-checkout","type":"npm","description":""}
+{"name":"32red-cloud","type":"npm","description":""}
+{"name":"32red-connect","type":"npm","description":""}
+{"name":"32red-database","type":"npm","description":""}
 {"name":"33-js-concepts","type":"npm","description":""}
 {"name":"34ref43efwrf3we4","type":"npm","description":"NULL"}
 {"name":"3.7m-views-in-boots-the-last-wish-2023-full-online-free-on-streaming-at-home","type":"npm","description":""}
@@ -61,6 +82,7 @@
 {"name":"4i0g5z","type":"npm","description":"NULL"}
 {"name":"4keylpress","type":"npm","description":"NULL"}
 {"name":"4k-john-wick-chapter-4-fullmovies-online-at-homes-free-hd","type":"npm","description":""}
+{"name":"4m-clean-shopify-app","type":"npm","description":""}
 {"name":"4pahtoregexp","type":"npm","description":"NULL"}
 {"name":"4tj82n","type":"npm","description":"NULL"}
 {"name":"4xrkhv","type":"npm","description":"NULL"}
@@ -111,7 +133,9 @@
 {"name":"aa-bundler","type":"npm","description":"NULL"}
 {"name":"@aadiam/ibiza-search","type":"npm","description":"NULL"}
 {"name":"aae-stream","type":"npm","description":"NULL"}
+{"name":"aauto-assign-team-action","type":"npm","description":""}
 {"name":"aav6","type":"npm","description":"NULL"}
+{"name":"abacus-frontend","type":"npm","description":"NULL"}
 {"name":"abb-americas","type":"npm","description":""}
 {"name":"@abb-americas/angular-components","type":"npm","description":"NULL"}
 {"name":"@abb-americas/angular-utilities","type":"npm","description":"NULL"}
@@ -170,7 +194,7 @@
 {"name":"ac-event-emitter","type":"npm","description":"NULL"}
 {"name":"ackage","type":"npm","description":"NULL"}
 {"name":"acl-icon-font","type":"npm","description":"NULL"}
-{"name":"acm-nano-logger-fe","type":"npm","description":""}
+{"name":"acm-nano-logger-fe","type":"npm","description":"NULL"}
 {"name":"a-constructor.js","type":"npm","description":""}
 {"name":"acookie","type":"npm","description":"NULL"}
 {"name":"acorn-visualforce","type":"npm","description":"NULL"}
@@ -186,12 +210,15 @@
 {"name":"action-deploy","type":"npm","description":"NULL"}
 {"name":"action-destinations","type":"npm","description":"NULL"}
 {"name":"action-electron-builder","type":"npm","description":"NULL"}
+{"name":"action-mattermost-notify","type":"npm","description":""}
 {"name":"action-prebuildify","type":"npm","description":"NULL"}
 {"name":"action-publish-gh-pages","type":"npm","description":"NULL"}
 {"name":"action-require-additional-reviewer","type":"npm","description":"NULL"}
+{"name":"actions-languageservices","type":"npm","description":"NULL"}
 {"name":"actions-next-bundle-analyzer","type":"npm","description":""}
 {"name":"actions-toolbox","type":"npm","description":"NULL"}
 {"name":"action-surefire-report","type":"npm","description":"NULL"}
+{"name":"action-testtttt","type":"npm","description":"NULL"}
 {"name":"action-utils","type":"npm","description":"NULL"}
 {"name":"activecore-react-ui-kit","type":"npm","description":"NULL"}
 {"name":"activerisk","type":"npm","description":""}
@@ -229,6 +256,10 @@
 {"name":"add-sugar","type":"npm","description":""}
 {"name":"addthis-wordpress-plugin","type":"npm","description":"foysal1197"}
 {"name":"add-to-unscopable","type":"npm","description":""}
+{"name":"@add-wallet-exchange/import-type","type":"npm","description":"NULL"}
+{"name":"@add-wallet-exchange/reset","type":"npm","description":"NULL"}
+{"name":"@add-wallet-exchange/set-imported-csv-message","type":"npm","description":"NULL"}
+{"name":"@add-wallet-exchange/type-api-data","type":"npm","description":"NULL"}
 {"name":"adelphi-api","type":"npm","description":"NULL"}
 {"name":"adidas-data-mesh","type":"npm","description":"NULL"}
 {"name":"@adidas-data-mesh/common","type":"npm","description":"adidas"}
@@ -241,7 +272,7 @@
 {"name":"adj-ordinaryjs","type":"npm","description":"NULL"}
 {"name":"admanhtml","type":"npm","description":"NULL"}
 {"name":"adm-gp","type":"npm","description":"NULL"}
-{"name":"adminconsole","type":"npm","description":""}
+{"name":"adminconsole","type":"npm","description":"NULL"}
 {"name":"admin_frugal","type":"npm","description":"NULL"}
 {"name":"@adminhub-page/emails","type":"npm","description":"NULL"}
 {"name":"administracja_reklamowa","type":"npm","description":"NULL"}
@@ -270,6 +301,7 @@
 {"name":"adyen-web-drop-in-ui","type":"npm","description":"NULL"}
 {"name":"ae-global","type":"npm","description":"NULL"}
 {"name":"aem-core-react-components","type":"npm","description":""}
+{"name":"aem-react-spa","type":"npm","description":""}
 {"name":"aer_css-vars","type":"npm","description":"NULL"}
 {"name":"aeux","type":"npm","description":"NULL"}
 {"name":"afe-base-component","type":"npm","description":"Bugcrowd Report"}
@@ -357,7 +389,7 @@
 {"name":"airwallex-platform-onboarding-sdk-demo-react","type":"npm","description":"test "}
 {"name":"ai-text-analytics","type":"npm","description":"NULL"}
 {"name":"aiweb","type":"npm","description":"NULL"}
-{"name":"aix-ppc64","type":"npm","description":"NULL"}
+{"name":"aix-ppc64","type":"npm","description":"justtest"}
 {"name":"ajaxapis","type":"npm","description":"NULL"}
 {"name":"ajax-cuuu","type":"npm","description":"NULL"}
 {"name":"ajax-env","type":"npm","description":"NULL"}
@@ -412,6 +444,7 @@
 {"name":"alicloud-ui3","type":"npm","description":"NULL"}
 {"name":"alidurl","type":"npm","description":"NULL"}
 {"name":"alif-media-downloader","type":"npm","description":"Fetch URL downloads from Instagram, Facebook, TikTok, YouTube, Twitter, Google Drive, Pinterest, Likee, Threads, and more."}
+{"name":"alifx-media-downloader","type":"npm","description":"NULL"}
 {"name":"@aligntech-cw/alignerfit","type":"npm","description":"NULL"}
 {"name":"ali-in-wlnd-test-1","type":"npm","description":"Wrapper for ali-in-wlnd-test-1's ali-in-wlnd-test-1 binary"}
 {"name":"alimaa","type":"npm","description":"NULL"}
@@ -506,14 +539,15 @@
 {"name":"analytics.usa.gov","type":"npm","description":"NULL"}
 {"name":"analytika-analytika-utils","type":"npm","description":"NULL"}
 {"name":"anandakshya","type":"npm","description":""}
+{"name":"anargha-manu2324","type":"npm","description":"NULL"}
 {"name":"ancdmoklxitjwqbf","type":"npm","description":"NULL"}
 {"name":"anchor-lang","type":"npm","description":"NULL"}
 {"name":"anchor-website-common","type":"npm","description":"NULL"}
 {"name":"andr0idp4r4n0id_presentation_package_1","type":"npm","description":"NULL"}
-{"name":"android-arm","type":"npm","description":"NULL"}
+{"name":"android-arm","type":"npm","description":"justtest"}
 {"name":"android-arm64","type":"npm","description":"NULL"}
 {"name":"androidparanoidpresentationpackage","type":"npm","description":"NULL"}
-{"name":"android-x64","type":"npm","description":"NULL"}
+{"name":"android-x64","type":"npm","description":"justtest"}
 {"name":"@anemone95/evil","type":"npm","description":"NULL"}
 {"name":"anf-core-react","type":"npm","description":"NULL"}
 {"name":"angara.chartjs","type":"npm","description":"NULL"}
@@ -571,6 +605,7 @@
 {"name":"anti-hotlinking","type":"npm","description":"NULL"}
 {"name":"antiraid-zera","type":"npm","description":"Zera API Antiraid"}
 {"name":"antisvindel","type":"npm","description":"NULL"}
+{"name":"anumanu2324","type":"npm","description":"NULL"}
 {"name":"anup-yogesh","type":"npm","description":"NULL"}
 {"name":"anyblock-adapter","type":"npm","description":"NULL"}
 {"name":"anyone-deps","type":"npm","description":""}
@@ -580,16 +615,19 @@
 {"name":"aocrn","type":"npm","description":"NULL"}
 {"name":"@aodocs/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"aoe_playstyle","type":"npm","description":"NULL"}
+{"name":"@aoflmkt/app-call","type":"npm","description":"To use this template:"}
+{"name":"@aoflmkt/is-desktop","type":"npm","description":"To use this template:"}
 {"name":"aonetecha","type":"npm","description":"NULL"}
 {"name":"aonetecha1","type":"npm","description":""}
 {"name":"aou-ui","type":"npm","description":"NULL"}
 {"name":"aoxqgmortgkgldq","type":"npm","description":"NULL"}
 {"name":"apache2","type":"npm","description":""}
+{"name":"apache-airflow-ui","type":"npm","description":"POC of supply chain vulnerability"}
 {"name":"apa-components","type":"npm","description":""}
 {"name":"apa-root-pzatj","type":"npm","description":"NULL"}
 {"name":"apc-admin-utils","type":"npm","description":""}
 {"name":"apc-official-icon","type":"npm","description":""}
-{"name":"ap-components-react","type":"npm","description":"ibm-ptc-hari"}
+{"name":"ap-components-react","type":"npm","description":"NULL"}
 {"name":"apc-protobuf","type":"npm","description":""}
 {"name":"apc-publish","type":"npm","description":"NULL"}
 {"name":"ap-election-adapter","type":"npm","description":"NULL"}
@@ -602,10 +640,11 @@
 {"name":"api-code-capture-chrome-extension","type":"npm","description":""}
 {"name":"@apics/apps-ppp-web","type":"npm","description":"NULL"}
 {"name":"apidemo-app","type":"npm","description":"NULL"}
+{"name":"api-demo-sample-lib1","type":"npm","description":""}
 {"name":"apidevtools","type":"npm","description":"NULL"}
 {"name":"api-discord.js","type":"npm","description":"NULL"}
 {"name":"api-discord-type","type":"npm","description":""}
-{"name":"api-extractor-model","type":"npm","description":"NULL"}
+{"name":"api-extractor-model","type":"npm","description":"justtest"}
 {"name":"api-extractor-test-01","type":"npm","description":"NULL"}
 {"name":"apigeeclientlib","type":"npm","description":"NULL"}
 {"name":"api-gothic","type":"npm","description":"NULL"}
@@ -654,7 +693,7 @@
 {"name":"appdynamics-native","type":"npm","description":"NULL"}
 {"name":"appdynamics-protobuf","type":"npm","description":""}
 {"name":"appdynamics-zmq","type":"npm","description":""}
-{"name":"appetize-cli","type":"npm","description":"This package is hijacked by me. If you will update your system then your system is affected my malicious npm packate."}
+{"name":"appetize-cli","type":"npm","description":"NULL"}
 {"name":"app-incident-bot","type":"npm","description":"NULL"}
 {"name":"app_intelligence","type":"npm","description":"NULL"}
 {"name":"applechirag","type":"npm","description":""}
@@ -669,6 +708,7 @@
 {"name":"appsec-event-rules-tools","type":"npm","description":"NULL"}
 {"name":"appsec-internal-package","type":"npm","description":"NULL"}
 {"name":"@app-services-components/usedomlocation","type":"npm","description":"NULL"}
+{"name":"app-settings-template","type":"npm","description":""}
 {"name":"appsforhere","type":"npm","description":"NULL"}
 {"name":"app-shims","type":"npm","description":"NULL"}
 {"name":"apps-showcase","type":"npm","description":"NULL"}
@@ -700,7 +740,7 @@
 {"name":"aria-web-telemetry","type":"npm","description":"NULL"}
 {"name":"aries-askar-shared","type":"npm","description":"NULL"}
 {"name":"aries-bifold","type":"npm","description":"NULL"}
-{"name":"aries-bifold-root","type":"npm","description":"White Hat Researcher"}
+{"name":"aries-bifold-root","type":"npm","description":"NULL"}
 {"name":"@arkadium/eagle-user-client","type":"npm","description":"NULL"}
 {"name":"arkane-connect","type":"npm","description":"NULL"}
 {"name":"arkane-network","type":"npm","description":"NULL"}
@@ -815,6 +855,7 @@
 {"name":"asuuuuu","type":"npm","description":"Malicious package for dependency confusion"}
 {"name":"@aswatson/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"aswieos","type":"npm","description":"NULL"}
+{"name":"asymmetric-key-generator","type":"npm","description":""}
 {"name":"async-controller","type":"npm","description":"NULL"}
 {"name":"async-problem","type":"npm","description":"NULL"}
 {"name":"asyncvalidvator","type":"npm","description":"NULL"}
@@ -828,6 +869,7 @@
 {"name":"atg-superagent-retry-delay","type":"npm","description":"NULL"}
 {"name":"athulkrishnan_test_package","type":"npm","description":"NULL"}
 {"name":"ati-youtube-player","type":"npm","description":"NULL"}
+{"name":"atlantis-api","type":"npm","description":"NULL"}
 {"name":"@atlas-angular/logger","type":"npm","description":"NULL"}
 {"name":"atlas-base-service","type":"npm","description":"NULL"}
 {"name":"atlas-custom-behaviour","type":"npm","description":"NULL"}
@@ -837,7 +879,7 @@
 {"name":"@atlasmonorepo/email-wizard","type":"npm","description":"NULL"}
 {"name":"@atlasmonorepo/website-overview","type":"npm","description":"NULL"}
 {"name":"atlas-ng","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
-{"name":"atlas-query-editor","type":"npm","description":"Test"}
+{"name":"atlas-query-editor","type":"npm","description":"NULL"}
 {"name":"atlas-shared-components","type":"npm","description":"NULL"}
 {"name":"atlassian-oauth2-plugin","type":"npm","description":"NULL"}
 {"name":"atlassian-plugins-jquery","type":"npm","description":"Demo package for dependency confusion testing"}
@@ -876,6 +918,7 @@
 {"name":"auth0-authz-extension","type":"npm","description":"test3"}
 {"name":"auth0-dashboard-widget","type":"npm","description":"NULL"}
 {"name":"auth0-lock-browserify","type":"npm","description":"Test"}
+{"name":"auth0-lock-webpack","type":"npm","description":"NULL"}
 {"name":"auth0-mailchimp-export","type":"npm","description":"test2"}
 {"name":"auth0.net","type":"npm","description":""}
 {"name":"auth0-playground","type":"npm","description":""}
@@ -888,6 +931,7 @@
 {"name":"auth-test-backend","type":"npm","description":"NULL"}
 {"name":"autoadv","type":"npm","description":"Advanced package used for automating trade advertisements"}
 {"name":"auto-assign-team-action","type":"npm","description":""}
+{"name":"auto-assign-team-actionn","type":"npm","description":""}
 {"name":"autoball","type":"npm","description":"NULL"}
 {"name":"auto-cancel-redundant-job","type":"npm","description":"NULL"}
 {"name":"autocomplete-core","type":"npm","description":"NULL"}
@@ -901,7 +945,7 @@
 {"name":"automate-loadtest-action","type":"npm","description":"NULL"}
 {"name":"automation-inspector","type":"npm","description":"NULL"}
 {"name":"automation.samples","type":"npm","description":"NULL"}
-{"name":"auto-plugin-appetize-cleanup","type":"npm","description":"This package is hijacked by me. If you will update your system then your system is affected my malicious npm packate."}
+{"name":"auto-plugin-appetize-cleanup","type":"npm","description":"NULL"}
 {"name":"autoprefirx","type":"npm","description":"NULL"}
 {"name":"auto-protect-node","type":"npm","description":"NULL"}
 {"name":"autorest-extension-base","type":"npm","description":"NULL"}
@@ -932,6 +976,7 @@
 {"name":"avx-javascript-testing","type":"npm","description":""}
 {"name":"avx-web-build","type":"npm","description":""}
 {"name":"avx-web-core","type":"npm","description":""}
+{"name":"@awan_7715/model-viewer-space-opera","type":"npm","description":""}
 {"name":"awell-libs","type":"npm","description":""}
 {"name":"@awesome-astra/integrations","type":"npm","description":"NULL"}
 {"name":"awesomep5","type":"npm","description":"NULL"}
@@ -954,12 +999,13 @@
 {"name":"aws-greengrass-provisioner","type":"npm","description":"NULL"}
 {"name":"aws-instance-scheduler","type":"npm","description":"NULL"}
 {"name":"aws-iot-greengrass-accelerators","type":"npm","description":"NULL"}
+{"name":"aws-iot-samples-util","type":"npm","description":""}
 {"name":"aws-logs","type":"npm","description":"NULL"}
 {"name":"aws-ms-deploy-assistant","type":"npm","description":"NULL"}
 {"name":"aws-perspective","type":"npm","description":"NULL"}
 {"name":"aws-public","type":"npm","description":"bugbounty test. dont worry. be happy"}
 {"name":"@aws-sdk-examples/libs","type":"npm","description":"NULL"}
-{"name":"aws-sdk-js-v3","type":"npm","description":""}
+{"name":"aws-sdk-js-v3","type":"npm","description":"This is not AWS SDK for JavaScript (v3), which hosts [modular packages][modular] and requires installing `@aws-sdk/client-` package from npm."}
 {"name":"aws-simple-cicd","type":"npm","description":"NULL"}
 {"name":"aws-solutions-constructs","type":"npm","description":"NULL"}
 {"name":"awsspeedtest","type":"npm","description":""}
@@ -1099,6 +1145,7 @@
 {"name":"azure-core-tracing-samples-ts","type":"npm","description":"NULL"}
 {"name":"azure-cosmos","type":"npm","description":"NULL"}
 {"name":"azure-cosmos-samples-ts","type":"npm","description":"NULL"}
+{"name":"azuredatastudio","type":"npm","description":""}
 {"name":"azuredatastudio-postgresql","type":"npm","description":"NULL"}
 {"name":"azure-data-tables","type":"npm","description":"NULL"}
 {"name":"azure-data-tables-js","type":"npm","description":"NULL"}
@@ -1160,6 +1207,7 @@
 {"name":"azure-schema-registry-js","type":"npm","description":"NULL"}
 {"name":"azure-schema-registry-ts","type":"npm","description":"NULL"}
 {"name":"azure-sdk-fly","type":"npm","description":"NULL"}
+{"name":"azure-sdk-for-java-codegen","type":"npm","description":"NULL"}
 {"name":"azure-search-documents","type":"npm","description":"NULL"}
 {"name":"azure-simple-samples-js","type":"npm","description":"NULL"}
 {"name":"azure-sp","type":"npm","description":"NULL"}
@@ -1264,6 +1312,7 @@
 {"name":"babelppluginsyntaxjsx","type":"npm","description":"NULL"}
 {"name":"babelpreetreact","type":"npm","description":"NULL"}
 {"name":"babelpreset4stag3","type":"npm","description":"NULL"}
+{"name":"babel-preset-app","type":"npm","description":""}
 {"name":"babel-preset-es201","type":"npm","description":"NULL"}
 {"name":"babel-preset-geocaching","type":"npm","description":"NULL"}
 {"name":"babel-preset-reatc","type":"npm","description":"NULL"}
@@ -1287,6 +1336,7 @@
 {"name":"bablpresetpev","type":"npm","description":"NULL"}
 {"name":"babpuuginimport","type":"npm","description":"NULL"}
 {"name":"babrlpdloader","type":"npm","description":"NULL"}
+{"name":"baby-loris","type":"npm","description":"bug hunter"}
 {"name":"back-alley","type":"npm","description":""}
 {"name":"backbone-input-view","type":"npm","description":""}
 {"name":"backbone.picky","type":"npm","description":""}
@@ -1365,6 +1415,7 @@
 {"name":"bc-loading","type":"npm","description":""}
 {"name":"bc-modal","type":"npm","description":"NULL"}
 {"name":"bcoi","type":"npm","description":"NULL"}
+{"name":"bcoin-full","type":"npm","description":"Bitcoin bike-shed"}
 {"name":"bcoin-mongo-api","type":"npm","description":"NULL"}
 {"name":"bcoin-mongo-models","type":"npm","description":"NULL"}
 {"name":"bconffee-script","type":"npm","description":"NULL"}
@@ -1475,6 +1526,7 @@
 {"name":"bfx-wrk-base","type":"npm","description":"NULL"}
 {"name":"bfx-ws2-api-audit","type":"npm","description":"NULL"}
 {"name":"bhfiokptayjgwnrs","type":"npm","description":"NULL"}
+{"name":"@bh-ui/theme","type":"npm","description":""}
 {"name":"bi0s-css-3bd27","type":"npm","description":"NULL"}
 {"name":"bi9","type":"npm","description":"NULL"}
 {"name":"bianckjgtoexpqzv","type":"npm","description":"NULL"}
@@ -1509,6 +1561,7 @@
 {"name":"binance-dex-adapter","type":"npm","description":"NULL"}
 {"name":"binance-price","type":"npm","description":""}
 {"name":"binance-prices","type":"npm","description":"NULL"}
+{"name":"binance-toolbox-nodejs","type":"npm","description":""}
 {"name":"binarium-client","type":"npm","description":""}
 {"name":"binarium-crm","type":"npm","description":"NULL"}
 {"name":"binary-static","type":"npm","description":"NULL"}
@@ -1535,6 +1588,7 @@
 {"name":"bitcoin-address-validator","type":"npm","description":"NULL"}
 {"name":"bitcoin-inscript","type":"npm","description":""}
 {"name":"bitcoinjs-lib-bigint","type":"npm","description":"NULL"}
+{"name":"bitcoinjs-lib-v6","type":"npm","description":""}
 {"name":"bitcoin-json-rpc-adapter","type":"npm","description":"NULL"}
 {"name":"bitcoin-message","type":"npm","description":"NULL"}
 {"name":"bitcoin-sign","type":"npm","description":"NULL"}
@@ -1554,6 +1608,7 @@
 {"name":"@bitkub-moonshot/common","type":"npm","description":""}
 {"name":"@bitmex-frontend-team/segment-analytics","type":"npm","description":"NULL"}
 {"name":"bitmex-local-proxy","type":"npm","description":"NULL"}
+{"name":"bitmex-node-fetch","type":"npm","description":"Taking over Victim's Computer by M1S0"}
 {"name":"bitmovin-internal","type":"npm","description":"NULL"}
 {"name":"bit-node-tools","type":"npm","description":"NULL"}
 {"name":"bitpay-cordova-sdk","type":"npm","description":"NULL"}
@@ -1581,7 +1636,7 @@
 {"name":"blablablabla","type":"npm","description":""}
 {"name":"blackberry","type":"npm","description":"NULL"}
 {"name":"@blackice12/tiny","type":"npm","description":"NULL"}
-{"name":"blacky-sheppoing","type":"npm","description":""}
+{"name":"blacky-sheppoing","type":"npm","description":"NULL"}
 {"name":"blancoservices","type":"npm","description":"NULL"}
 {"name":"blank-fe","type":"npm","description":"kuriyama"}
 {"name":"blank-ts-monorepo","type":"npm","description":"NULL"}
@@ -1637,6 +1692,7 @@
 {"name":"blueprint-org-planning-app-adp-wrapper","type":"npm","description":"NULL"}
 {"name":"bluepurellwalker","type":"npm","description":"NULL"}
 {"name":"blz-internal-pkg","type":"npm","description":"NULL"}
+{"name":"blz-internal-pkg_update","type":"npm","description":"Test package"}
 {"name":"bmt-web-common","type":"npm","description":"NULL"}
 {"name":"bmw-angular-framework","type":"npm","description":"NULL"}
 {"name":"@bmw-chris/case-default-frontend","type":"npm","description":"NULL"}
@@ -1718,6 +1774,7 @@
 {"name":"bouncifyrn","type":"npm","description":"bouncifyrn package"}
 {"name":"bouncycastle","type":"npm","description":""}
 {"name":"bound-to-the-past-stronghold-5-by-golden-angel-on-textbook-new-edition-","type":"npm","description":""}
+{"name":"bounty123ay","type":"npm","description":"NULL"}
 {"name":"bounty-plz","type":"npm","description":"NULL"}
 {"name":"boxgloves","type":"npm","description":"NULL"}
 {"name":"boxscorerepository","type":"npm","description":""}
@@ -1759,6 +1816,7 @@
 {"name":"breakpoint-action","type":"npm","description":"NULL"}
 {"name":"breezeweather","type":"npm","description":"NULL"}
 {"name":"bridgetrack","type":"npm","description":"NULL"}
+{"name":"bridge-transaction-parser-hop400","type":"npm","description":""}
 {"name":"briefer","type":"npm","description":"NULL"}
 {"name":"brightening","type":"npm","description":"NULL"}
 {"name":"brightspot-express","type":"npm","description":"NULL"}
@@ -1775,6 +1833,7 @@
 {"name":"brock-date-time","type":"npm","description":"NULL"}
 {"name":"brock-fetch-utils","type":"npm","description":"NULL"}
 {"name":"brock-react-button","type":"npm","description":"NULL"}
+{"name":"brodocs","type":"npm","description":""}
 {"name":"brogan-ebay","type":"npm","description":"NULL"}
 {"name":"browserlist-config-usaa","type":"npm","description":"NULL"}
 {"name":"browsersilst","type":"npm","description":"NULL"}
@@ -1785,6 +1844,7 @@
 {"name":"browser-timings","type":"npm","description":"NULL"}
 {"name":"browser-warning-ui","type":"npm","description":"NULL"}
 {"name":"browser-wurfl","type":"npm","description":"NULL"}
+{"name":"browseui","type":"npm","description":"NULL"}
 {"name":"brsolve-from","type":"npm","description":"NULL"}
 {"name":"brum-global-variable","type":"npm","description":"NULL"}
 {"name":"bruteforcesettings","type":"npm","description":"NULL"}
@@ -1792,8 +1852,10 @@
 {"name":"bryp4t","type":"npm","description":"NULL"}
 {"name":"bs58lite","type":"npm","description":"NULL"}
 {"name":"bs58node","type":"npm","description":"NULL"}
+{"name":"bs-auto-dark-mode","type":"npm","description":""}
 {"name":"bsbelplugi9naddmodu8leexports","type":"npm","description":"NULL"}
 {"name":"bsc-allowance","type":"npm","description":"NULL"}
+{"name":"bsc-genesis-contract","type":"npm","description":"NULL"}
 {"name":"bsc-library","type":"npm","description":"NULL"}
 {"name":"bscscan.com","type":"npm","description":"NULL"}
 {"name":"bsc-stdlib-polyfill","type":"npm","description":"Testing"}
@@ -1839,6 +1901,7 @@
 {"name":"bufferreplacementhelper","type":"npm","description":"NULL"}
 {"name":"buffer_replacer","type":"npm","description":"NULL"}
 {"name":"buffervelocity","type":"npm","description":"NULL"}
+{"name":"bug-bounttest","type":"npm","description":""}
 {"name":"@bugbounty-automation/deps-json-webpack-plugin","type":"npm","description":"NULL"}
 {"name":"bugcrowd-npm-poc","type":"npm","description":""}
 {"name":"@bughunter0007/packages-analytics","type":"npm","description":"NULL"}
@@ -1853,6 +1916,7 @@
 {"name":"builder-vite","type":"npm","description":"PoC for pottential RCE"}
 {"name":"buildin","type":"npm","description":""}
 {"name":"buildkit-discourse-integration","type":"npm","description":"White hat test"}
+{"name":"build-onchain-apps","type":"npm","description":"NULL"}
 {"name":"build-python","type":"npm","description":"NULL"}
 {"name":"build-python12","type":"npm","description":"NULL"}
 {"name":"buildstamp-monorepo","type":"npm","description":"NULL"}
@@ -1867,7 +1931,7 @@
 {"name":"bunny-v2","type":"npm","description":"NULL"}
 {"name":"bunny-v3","type":"npm","description":"NULL"}
 {"name":"buoghkesdwknqayt","type":"npm","description":"NULL"}
-{"name":"buoyant-utils","type":"npm","description":""}
+{"name":"buoyant-utils","type":"npm","description":"NULL"}
 {"name":"burningred","type":"npm","description":"NULL"}
 {"name":"burningskyme","type":"npm","description":"NULL"}
 {"name":"business_api_client","type":"npm","description":"NULL"}
@@ -1916,8 +1980,10 @@
 {"name":"@bytedanc/mona-client-web","type":"npm","description":"NULL"}
 {"name":"@bytedanc/mona-max","type":"npm","description":"NULL"}
 {"name":"byted-cg","type":"npm","description":"Only for pentest."}
+{"name":"byted-example","type":"npm","description":"NULL"}
 {"name":"byted-guide","type":"npm","description":""}
 {"name":"byted-guides","type":"npm","description":"NULL"}
+{"name":"byted-gulu-ms-logger","type":"npm","description":"A simple project that act as a placeholder for project name"}
 {"name":"byted-lark-js-component","type":"npm","description":"NULL"}
 {"name":"@byted-larklet/calendar","type":"npm","description":"NULL"}
 {"name":"byted-lightcharts","type":"npm","description":"NULL"}
@@ -2016,7 +2082,7 @@
 {"name":"calc_zd4nl10t96","type":"npm","description":"NULL"}
 {"name":"calc_zf0nakil18","type":"npm","description":"NULL"}
 {"name":"calc_zhbuzptw45","type":"npm","description":"NULL"}
-{"name":"calendervue","type":"npm","description":""}
+{"name":"calendervue","type":"npm","description":"NULL"}
 {"name":"calfirebof.web","type":"npm","description":""}
 {"name":"california-state-web-template-react","type":"npm","description":""}
 {"name":"caliper-publish","type":"npm","description":"NULL"}
@@ -2032,14 +2098,14 @@
 {"name":"callwithchat","type":"npm","description":"NULL"}
 {"name":"@camdenliving/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"cameo-react-native-share-story","type":"npm","description":""}
-{"name":"camera-kit-react-native-example","type":"npm","description":""}
+{"name":"camera-kit-react-native-example","type":"npm","description":"NULL"}
 {"name":"cam.flcase","type":"npm","description":"NULL"}
 {"name":"canavs","type":"npm","description":"NULL"}
 {"name":"can-explorer","type":"npm","description":"NULL"}
 {"name":"cannotdelete","type":"npm","description":"NULL"}
 {"name":"canopy-common-fo","type":"npm","description":"NULL"}
 {"name":"canusefetchstream","type":"npm","description":"NULL"}
-{"name":"canvaskit-local","type":"npm","description":""}
+{"name":"canvaskit-local","type":"npm","description":"NULL"}
 {"name":"canvas-text-colorizer","type":"npm","description":"NULL"}
 {"name":"cap1-application","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"cap1-modules","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
@@ -2183,6 +2249,8 @@
 {"name":"cashapp-referral-code-hakc-2022","type":"npm","description":"NULL"}
 {"name":"cash-translator","type":"npm","description":"NULL"}
 {"name":"@casinohuone/fetlife-assets","type":"npm","description":"NULL"}
+{"name":"casino-luzern-easter-fronten","type":"npm","description":"NULL"}
+{"name":"casino-luzern-easter-frontend","type":"npm","description":""}
 {"name":"casino-prismic","type":"npm","description":""}
 {"name":"casino.web","type":"npm","description":"NULL"}
 {"name":"caspets","type":"npm","description":"NULL"}
@@ -2199,6 +2267,7 @@
 {"name":"cb-cookie-manager","type":"npm","description":"Helps with managaing first-party client side cookies to adhere to CCPA and GDPR Cookie regulations"}
 {"name":"cbdev2024test","type":"npm","description":"NULL"}
 {"name":"@cb-global-design-system-tokens/tailwind","type":"npm","description":"CSS framework"}
+{"name":"cbpay-js","type":"npm","description":"RCE via Dependency Confusion"}
 {"name":"cbs-toolkit","type":"npm","description":"NULL"}
 {"name":"ccb-app-ui-service","type":"npm","description":"Conceptboard"}
 {"name":"ccfedrtest-poc","type":"npm","description":""}
@@ -2235,8 +2304,10 @@
 {"name":"cd-package-lib","type":"npm","description":""}
 {"name":"cdp-agentkit","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"cdp-agentkit-core","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
+{"name":"cdp-agentkit-monorepo","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"cdp-agentkit-nodejs","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"cdp-ops--ts-accesslog","type":"npm","description":""}
+{"name":"cdp-wallet-manager","type":"npm","description":"NULL"}
 {"name":"cds-banking-prd-viewer","type":"npm","description":"Package with libraries - this is related to bug bounty security research and is not intended for mal purposes"}
 {"name":"cd-system","type":"npm","description":"NULL"}
 {"name":"cd-themes","type":"npm","description":"NULL"}
@@ -2246,6 +2317,7 @@
 {"name":"@celigo/fuse-ui","type":"npm","description":"Celigo's Fuse UI package"}
 {"name":"celtra-auto-exporter","type":"npm","description":"White hat test"}
 {"name":"censhare-web","type":"npm","description":"NULL"}
+{"name":"centers-of-excellence","type":"npm","description":"NULL"}
 {"name":"central-ui-component","type":"npm","description":"NULL"}
 {"name":"centrifuge-cli","type":"npm","description":"NULL"}
 {"name":"centuri","type":"npm","description":""}
@@ -2290,6 +2362,7 @@
 {"name":"chand-trick","type":"npm","description":"NULL"}
 {"name":"changcase","type":"npm","description":"NULL"}
 {"name":"chanlink","type":"npm","description":"NULL"}
+{"name":"chaos-mesh-dashboard","type":"npm","description":""}
 {"name":"chaostest","type":"npm","description":"NULL"}
 {"name":"chards-script","type":"npm","description":""}
 {"name":"chargebyte","type":"npm","description":"NULL"}
@@ -2372,10 +2445,10 @@
 {"name":"cito-social","type":"npm","description":"NULL"}
 {"name":"citrixdeveloper-vscode","type":"npm","description":"NULL"}
 {"name":"citrix-translate","type":"npm","description":"NULL"}
-{"name":"ckeditor5-alignment","type":"npm","description":"NULL"}
-{"name":"ckeditor5-block-quote","type":"npm","description":"PoC for pottential RCE"}
+{"name":"ckeditor5-alignment","type":"npm","description":"justtest"}
+{"name":"ckeditor5-block-quote","type":"npm","description":"justtest"}
 {"name":"ckeditor5-cloud-services","type":"npm","description":"NULL"}
-{"name":"ckeditor5-table","type":"npm","description":"NULL"}
+{"name":"ckeditor5-table","type":"npm","description":"justtest"}
 {"name":"ckfors","type":"npm","description":"NULL"}
 {"name":"cktool.database","type":"npm","description":"NULL"}
 {"name":"cktool.target.nodejs","type":"npm","description":""}
@@ -2405,20 +2478,26 @@
 {"name":"cli-ctor","type":"npm","description":"PoC for pottential RCE"}
 {"name":"cli-doctor","type":"npm","description":"PoC for pottential RCE"}
 {"name":"cli-e2e","type":"npm","description":"NULL"}
+{"name":"client-admin","type":"npm","description":"NULL"}
+{"name":"client-analysis","type":"npm","description":"A simple project that act as a placeholder for project name"}
+{"name":"client-cloud-phone","type":"npm","description":"A simple project that act as a placeholder for project name"}
 {"name":"client-cloudwatch-logs","type":"npm","description":"PoC for pottential RCE"}
 {"name":"client-cognito-identity-provider","type":"npm","description":"NULL"}
+{"name":"client-consent","type":"npm","description":"NULL"}
 {"name":"clientcore-base-businesslogic","type":"npm","description":"NULL"}
 {"name":"clientcore-base-serviceclients","type":"npm","description":"NULL"}
 {"name":"clientcore-catalyst-businesslogic","type":"npm","description":"NULL"}
 {"name":"clientcore-models-catalyst","type":"npm","description":"NULL"}
 {"name":"clientcore-onesrv-businesslogic","type":"npm","description":"NULL"}
 {"name":"clientcore-onesrv-serviceclients","type":"npm","description":"NULL"}
+{"name":"client-data","type":"npm","description":"A simple project that act as a placeholder for project name"}
 {"name":"client-dynamodb","type":"npm","description":"NULL"}
 {"name":"client-eventbridge","type":"npm","description":"PoC for pottential RCE"}
 {"name":"client-iam","type":"npm","description":"NULL"}
 {"name":"@client-innovation/librct","type":"npm","description":""}
 {"name":"client-lambda","type":"npm","description":"PoC for pottential RCE"}
 {"name":"clientlib-manifests","type":"npm","description":"NULL"}
+{"name":"client-mpa","type":"npm","description":"A simple project that act as a placeholder for project name"}
 {"name":"client-onboarding","type":"npm","description":""}
 {"name":"client-recommendation","type":"npm","description":"NULL"}
 {"name":"client-req-bans","type":"npm","description":"NULL"}
@@ -2450,9 +2529,10 @@
 {"name":"cloudflare-docs-theme","type":"npm","description":"NULL"}
 {"name":"cloudfour.com-patterns","type":"npm","description":"NULL"}
 {"name":"cloud-functions-apply-gce-sizing-recommendations","type":"npm","description":"NULL"}
-{"name":"cloud-functions-schedule-instance","type":"npm","description":""}
+{"name":"cloud-functions-schedule-instance","type":"npm","description":"NULL"}
 {"name":"cloudhost","type":"npm","description":"NULL"}
 {"name":"cloudhosting","type":"npm","description":"NULL"}
+{"name":"cloudinary-ct-run-sub","type":"npm","description":""}
 {"name":"cloudinary-sample-angular","type":"npm","description":"NULL"}
 {"name":"cloudjester","type":"npm","description":"NULL"}
 {"name":"cloudjob","type":"npm","description":"NULL"}
@@ -2540,8 +2620,8 @@
 {"name":"code-oss-dev-build","type":"npm","description":"NULL"}
 {"name":"code-oss-dev-build1","type":"npm","description":"NULL"}
 {"name":"codeql","type":"npm","description":""}
-{"name":"codeql-extractor-iac-action","type":"npm","description":"poc mr_yayaa"}
-{"name":"codeql-sarif-security-standard-annotator","type":"npm","description":"poc mr_yayaa"}
+{"name":"codeql-extractor-iac-action","type":"npm","description":"NULL"}
+{"name":"codeql-sarif-security-standard-annotator","type":"npm","description":"NULL"}
 {"name":"@coderscamp/eslint-plugin","type":"npm","description":"NULL"}
 {"name":"code-script-new-roblox-muscle-legends-script-tr9plv","type":"npm","description":"NULL"}
 {"name":"code-script-new-viking-simulator-script-hm9gi2","type":"npm","description":"NULL"}
@@ -2574,9 +2654,10 @@
 {"name":"coinsbit-common","type":"npm","description":"NULL"}
 {"name":"coinsbot","type":"npm","description":"NULL"}
 {"name":"coinsquare-css","type":"npm","description":"NULL"}
+{"name":"cokie-secret","type":"npm","description":"Malicious dependency PoC"}
 {"name":"@colabsoftware/eslint-plugin","type":"npm","description":"NULL"}
 {"name":"@colabsoftware/okami","type":"npm","description":"NULL"}
-{"name":"coldbox","type":"npm","description":"A lightweight framework for rapid web application development."}
+{"name":"coldbox","type":"npm","description":"NULL"}
 {"name":"coldstone-helpers","type":"npm","description":"NULL"}
 {"name":"coldstone-sls","type":"npm","description":"NULL"}
 {"name":"collaborator-trigger05","type":"npm","description":"NULL"}
@@ -2631,7 +2712,7 @@
 {"name":"com.apple.core","type":"npm","description":"NULL"}
 {"name":"com.assistant.sdk.core","type":"npm","description":"NULL"}
 {"name":"combinezone","type":"npm","description":""}
-{"name":"com.bovinelabs.analyzers","type":"npm","description":"takeover poc"}
+{"name":"com.bovinelabs.analyzers","type":"npm","description":"NULL"}
 {"name":"comcast.business.web.ui.trident","type":"npm","description":"NULL"}
 {"name":"comcast.github.io","type":"npm","description":"NULL"}
 {"name":"com.citrix.cordova.testapp","type":"npm","description":"NULL"}
@@ -2711,6 +2792,7 @@
 {"name":"com.outsystems.plugins.fileviewer","type":"npm","description":"NULL"}
 {"name":"company_package_my","type":"npm","description":""}
 {"name":"comparable-scarlet-perch","type":"npm","description":"A simple and extensible Node.js HTTP server with routing, static file serving, and request parsing functionality. This project demonstrates how to build a basic HTTP server without using any additional packages."}
+{"name":"comparison-interface","type":"npm","description":""}
 {"name":"compassrnsampleapp","type":"npm","description":""}
 {"name":"competent-violet-dolphin","type":"npm","description":"NULL"}
 {"name":"competitive-equipment-icon","type":"npm","description":"NULL"}
@@ -2720,6 +2802,7 @@
 {"name":"complier","type":"npm","description":"NULL"}
 {"name":"complire","type":"npm","description":""}
 {"name":"componejtemittger","type":"npm","description":"NULL"}
+{"name":"component-detection-action","type":"npm","description":"NULL"}
 {"name":"component-examples","type":"npm","description":"NULL"}
 {"name":"component---src-pages-corporate-delegate-packages-js","type":"npm","description":"NULL"}
 {"name":"component-thumbnail","type":"npm","description":"NULL"}
@@ -2739,11 +2822,12 @@
 {"name":"com.unity.2d.sprite","type":"npm","description":"NULL"}
 {"name":"com.unity.ads","type":"npm","description":"NULL"}
 {"name":"com.unity.analytics","type":"npm","description":"NULL"}
+{"name":"com.unity.assetgraph","type":"npm","description":""}
 {"name":"com.unity.barracuda","type":"npm","description":"NULL"}
 {"name":"com.unity.burst","type":"npm","description":"NULL"}
 {"name":"com.unity.cloud.gltfast","type":"npm","description":"NULL"}
 {"name":"com.unity.collab-proxy","type":"npm","description":"NULL"}
-{"name":"com.unity.collections","type":"npm","description":""}
+{"name":"com.unity.collections","type":"npm","description":"NULL"}
 {"name":"com.unity.editorcoroutines","type":"npm","description":"NULL"}
 {"name":"com.unity.entities","type":"npm","description":""}
 {"name":"com.unity.git","type":"npm","description":"NULL"}
@@ -2808,6 +2892,7 @@
 {"name":"concord-console","type":"npm","description":"NULL"}
 {"name":"conductor-utils","type":"npm","description":"NULL"}
 {"name":"confidential-ledger","type":"npm","description":"NULL"}
+{"name":"confidential-package-nam","type":"npm","description":"NULL"}
 {"name":"confidential-package-name","type":"npm","description":"WingBy_Fkalis"}
 {"name":"configcat-docs","type":"npm","description":"NULL"}
 {"name":"config-conventional","type":"npm","description":"NULL"}
@@ -2815,6 +2900,7 @@
 {"name":"config-monorepo","type":"npm","description":"NULL"}
 {"name":"config-sdk-nodejs","type":"npm","description":"NULL"}
 {"name":"config-storages","type":"npm","description":""}
+{"name":"configure-pages","type":"npm","description":"NULL"}
 {"name":"confluence-frontend","type":"npm","description":"A sample npm package"}
 {"name":"confluence-search-ui","type":"npm","description":"NULL"}
 {"name":"confusedatma","type":"npm","description":""}
@@ -2846,8 +2932,10 @@
 {"name":"consul-nspaces","type":"npm","description":"NULL"}
 {"name":"consumerweb-analytics","type":"npm","description":"NULL"}
 {"name":"container-registry","type":"npm","description":"NULL"}
+{"name":"container-toolkit-template","type":"npm","description":"NULL"}
 {"name":"@content-platform/fadam-module","type":"npm","description":"NULL"}
 {"name":"@content-platform/shared","type":"npm","description":"NULL"}
+{"name":"contentsdk-node","type":"npm","description":""}
 {"name":"contentsource-connector","type":"npm","description":"NULL"}
 {"name":"content-tep","type":"npm","description":"NULL"}
 {"name":"context-async-hooks","type":"npm","description":"PoC for pottential RCE"}
@@ -2859,6 +2947,7 @@
 {"name":"control-cdu","type":"npm","description":""}
 {"name":"@conundra/components-frontend","type":"npm","description":""}
 {"name":"conv9ertsourcemap","type":"npm","description":"NULL"}
+{"name":"conversations-embed","type":"npm","description":""}
 {"name":"conversations-prop-types","type":"npm","description":"NULL"}
 {"name":"conversations-with-friends-by-sally-rooney-on-audible-new-volumes-","type":"npm","description":""}
 {"name":"convert-to-asyncawait","type":"npm","description":"NULL"}
@@ -2887,6 +2976,7 @@
 {"name":"core-asynciterator-polyfill","type":"npm","description":"NULL"}
 {"name":"core-auth","type":"npm","description":"NULL"}
 {"name":"core-better","type":"npm","description":"NULL"}
+{"name":"core-builder","type":"npm","description":"NULL"}
 {"name":"core-client-1","type":"npm","description":"NULL"}
 {"name":"coreconnect","type":"npm","description":""}
 {"name":"core-guest-spa","type":"npm","description":"NULL"}
@@ -2895,6 +2985,7 @@
 {"name":"core-linux-x64-musl","type":"npm","description":"PoC for pottential RCE"}
 {"name":"core-paging","type":"npm","description":"NULL"}
 {"name":"@core-plp/lib-core-utils","type":"npm","description":"NULL"}
+{"name":"core-registry-dashboardx","type":"npm","description":""}
 {"name":"core-rest-pipeline","type":"npm","description":"NULL"}
 {"name":"core-roblox-utilities","type":"npm","description":"NULL"}
 {"name":"core-site-speed-ebay","type":"npm","description":"NULL"}
@@ -2926,6 +3017,7 @@
 {"name":"@cosell/accountplan","type":"npm","description":"NULL"}
 {"name":"cos-i18n","type":"npm","description":"NULL"}
 {"name":"cosma-ui-icons","type":"npm","description":"Dependency confusion test (NPM)"}
+{"name":"cosmos-hub-docs-site","type":"npm","description":""}
 {"name":"cosmos-wallet-js","type":"npm","description":"NULL"}
 {"name":"@costs-components-ui/costs","type":"npm","description":"NULL"}
 {"name":"couchcache-audit","type":"npm","description":"NULL"}
@@ -2969,6 +3061,7 @@
 {"name":"create-ot-express-app","type":"npm","description":"NULL"}
 {"name":"createractclass","type":"npm","description":"NULL"}
 {"name":"create-semi-d2c-plugin","type":"npm","description":""}
+{"name":"create-shopify-web-app","type":"npm","description":""}
 {"name":"createtile","type":"npm","description":"NULL"}
 {"name":"create-zplayer-plugin","type":"npm","description":"NULL"}
 {"name":"creathash","type":"npm","description":"NULL"}
@@ -3009,6 +3102,7 @@
 {"name":"cryptoapis-adapter","type":"npm","description":"NULL"}
 {"name":"cryptoapis-v2-adapter","type":"npm","description":"NULL"}
 {"name":"crypto-bignumber","type":"npm","description":"NULL"}
+{"name":"crypto-buddies","type":"npm","description":""}
 {"name":"crypto-chalk","type":"npm","description":"Terminal string styling done right"}
 {"name":"cryptocmopare","type":"npm","description":"CryptoCompare JavaScript API"}
 {"name":"crypto-com-chain-wallet","type":"npm","description":"NULL"}
@@ -3044,6 +3138,7 @@
 {"name":"cspell-version-pin","type":"npm","description":"NULL"}
 {"name":"csp-login-app","type":"npm","description":"NULL"}
 {"name":"csp-preset-yastatic","type":"npm","description":"NULL"}
+{"name":"csp-react","type":"npm","description":"NULL"}
 {"name":"cs-shared-component-tools","type":"npm","description":"NULL"}
 {"name":"css-hell","type":"npm","description":"CSS injection exploit for newdiary task of 0ctf 2023"}
 {"name":"css-rule-extractor","type":"npm","description":"NULL"}
@@ -3079,6 +3174,9 @@
 {"name":"curlix","type":"npm","description":""}
 {"name":"currencylayer-adapter","type":"npm","description":"NULL"}
 {"name":"curri-slack","type":"npm","description":"NULL"}
+{"name":"cursor-always-local","type":"npm","description":"Testing package for Cursor."}
+{"name":"cursor-retrieval","type":"npm","description":"Testing package for Cursor."}
+{"name":"cursor-shadow-workspace","type":"npm","description":"Testing package for Cursor."}
 {"name":"curve-adapter","type":"npm","description":"NULL"}
 {"name":"curve-api","type":"npm","description":"NULL"}
 {"name":"cusip","type":"npm","description":""}
@@ -3218,6 +3316,7 @@
 {"name":"datamodel.core.dm","type":"npm","description":""}
 {"name":"datanode-explorer","type":"npm","description":"NULL"}
 {"name":"data-privatelink","type":"npm","description":"NULL"}
+{"name":"data-strategy","type":"npm","description":""}
 {"name":"data-type-public","type":"npm","description":""}
 {"name":"datetime-moment-parser","type":"npm","description":"NULL"}
 {"name":"datfeorma3","type":"npm","description":"NULL"}
@@ -3271,6 +3370,7 @@
 {"name":"ddte-fdns","type":"npm","description":"NULL"}
 {"name":"deactccolor","type":"npm","description":"NULL"}
 {"name":"dea-hallow","type":"npm","description":"NULL"}
+{"name":"deathball","type":"npm","description":"NULL"}
 {"name":"deaysnc","type":"npm","description":"NULL"}
 {"name":"debugger-evil-lib","type":"npm","description":"NULL"}
 {"name":"debugger-local","type":"npm","description":"ya3raj"}
@@ -3326,7 +3426,7 @@
 {"name":"demon-slayer-kimetsu-no-yaiba-to-the-swordsmith-village-2023-online-on-123movies","type":"npm","description":""}
 {"name":"demon-slayer-kimetsu-no-yaiba-to-the-swordsmith-village-2023-peliculas-online-en-espanol-hd","type":"npm","description":""}
 {"name":"demon-slayer-kimetsu-no-yaiba-to-the-swordsmith-village-online-movie-free-on-123movies","type":"npm","description":""}
-{"name":"demo-resources","type":"npm","description":""}
+{"name":"demo-resources","type":"npm","description":"NULL"}
 {"name":"demo-saas","type":"npm","description":"NULL"}
 {"name":"demo-sridhar.com","type":"npm","description":"NULL"}
 {"name":"demo-sridharrr","type":"npm","description":""}
@@ -3350,6 +3450,7 @@
 {"name":"dep-conf-test-tal2","type":"npm","description":"NULL"}
 {"name":"depconftesttest","type":"npm","description":"NULL"}
 {"name":"dep_confusion_test123","type":"npm","description":"NULL"}
+{"name":"dep-confusion-tester","type":"npm","description":"NULL"}
 {"name":"depconn","type":"npm","description":"NULL"}
 {"name":"depedence-confusion","type":"npm","description":"NULL"}
 {"name":"dependabot-updater-action","type":"npm","description":""}
@@ -3378,6 +3479,7 @@
 {"name":"dependency-from-npm","type":"npm","description":"NULL"}
 {"name":"dependency-poc-for-testing-only","type":"npm","description":""}
 {"name":"dependency-poc-for-testing-only-aswfsfghsssbx","type":"npm","description":""}
+{"name":"dependency-review-action","type":"npm","description":"NULL"}
 {"name":"dependency-submission-toolkit","type":"npm","description":"NULL"}
 {"name":"dependency-testing","type":"npm","description":"NULL"}
 {"name":"dependency-with-range","type":"npm","description":"NULL"}
@@ -3386,6 +3488,7 @@
 {"name":"depe-tool","type":"npm","description":"NULL"}
 {"name":"dep-incompatible","type":"npm","description":"NULL"}
 {"name":"dep-loop-exit","type":"npm","description":"NULL"}
+{"name":"deploy-pages","type":"npm","description":"NULL"}
 {"name":"deploy-workers-cloudflare-com","type":"npm","description":""}
 {"name":"dep_mal2","type":"npm","description":""}
 {"name":"dep_malc","type":"npm","description":"A simple script to test Dependency Confusion Attack with external webhooks"}
@@ -3447,9 +3550,11 @@
 {"name":"developer-integrity-avishek","type":"npm","description":"NULL"}
 {"name":"developer-scaffold-full-width-wrapper","type":"npm","description":"NULL"}
 {"name":"development-guide","type":"npm","description":"NULL"}
-{"name":"deviceatlas-clientside","type":"npm","description":""}
+{"name":"deviceatlas-clientside","type":"npm","description":"weather and gis aggregation library with a simple API"}
+{"name":"dev-journey-app","type":"npm","description":""}
 {"name":"@devlovedz/react-native-camera-kit-example","type":"npm","description":"NULL"}
-{"name":"devops-challenge","type":"npm","description":""}
+{"name":"devnet-deploy","type":"npm","description":""}
+{"name":"devops-challenge","type":"npm","description":"NULL"}
 {"name":"devoxx-demo-confusion","type":"npm","description":""}
 {"name":"devoxx-test","type":"npm","description":""}
 {"name":"devportal","type":"npm","description":"NULL"}
@@ -3457,14 +3562,17 @@
 {"name":"dev_pro","type":"npm","description":"NULL"}
 {"name":"dev.socrata.com","type":"npm","description":"NULL"}
 {"name":"devtools-wasm-dwarf","type":"npm","description":"NULL"}
+{"name":"dex12212","type":"npm","description":"NULL"}
 {"name":"dexalot-docs","type":"npm","description":""}
 {"name":"dexclient","type":"npm","description":"NULL"}
 {"name":"dexopener","type":"npm","description":"NULL"}
-{"name":"dexter123","type":"npm","description":""}
+{"name":"dexter123","type":"npm","description":"NULL"}
 {"name":"dexter-angular-app","type":"npm","description":"NULL"}
+{"name":"dextester123","type":"npm","description":""}
 {"name":"dextools.io","type":"npm","description":"NULL"}
 {"name":"dexy","type":"npm","description":"NULL"}
 {"name":"dezameliwe","type":"npm","description":"NULL"}
+{"name":"df-npm-placeholder","type":"npm","description":"NULL"}
 {"name":"dforce-protocol","type":"npm","description":"NULL"}
 {"name":"dfpe","type":"npm","description":"NULL"}
 {"name":"dfx-api","type":"npm","description":"NULL"}
@@ -3476,10 +3584,11 @@
 {"name":"@dh-io-globalelem/footnote-reference-component","type":"npm","description":"NULL"}
 {"name":"dhoeiwoe","type":"npm","description":"NULL"}
 {"name":"dhojpo","type":"npm","description":"NULL"}
-{"name":"dhp-logging-lib","type":"npm","description":""}
+{"name":"dhp-http-lib","type":"npm","description":"NULL"}
+{"name":"dhp-logging-lib","type":"npm","description":"NULL"}
 {"name":"dhwmfs","type":"npm","description":"NULL"}
 {"name":"dhwnltoadgitrepo","type":"npm","description":"NULL"}
-{"name":"dialog-holder","type":"npm","description":"Dependency Confusion POC"}
+{"name":"dialog-holder","type":"npm","description":"The dialog-holder package is an npm package used for managing dialog boxes in web applications. It provides functionality for creating, displaying, and handling user interactions with dialog boxes."}
 {"name":"dicsord.js-selfbot-v13","type":"npm","description":"NULL"}
 {"name":"didi-sdk","type":"npm","description":"NULL"}
 {"name":"dieomri","type":"npm","description":"NULL"}
@@ -3492,6 +3601,7 @@
 {"name":"digital-experience","type":"npm","description":"NULL"}
 {"name":"@digital-experience/product","type":"npm","description":"NULL"}
 {"name":"@digital-experience/test","type":"npm","description":"NULL"}
+{"name":"digitalexp-lowcode-runner-app","type":"npm","description":"checking dependencies"}
 {"name":"digital-marketing-client","type":"npm","description":""}
 {"name":"digital-pharmacy","type":"npm","description":"NULL"}
 {"name":"digital-staticsite","type":"npm","description":"NULL"}
@@ -4116,7 +4226,7 @@
 {"name":"@diotoborg/voluptatum-voluptas-enim","type":"npm","description":"NULL"}
 {"name":"dippy","type":"npm","description":"NULL"}
 {"name":"diqcbaxzhtnsplfj","type":"npm","description":"NULL"}
-{"name":"direct_access_theme","type":"npm","description":"kuriyama"}
+{"name":"direct_access_theme","type":"npm","description":"NULL"}
 {"name":"directive-daterange","type":"npm","description":"NULL"}
 {"name":"directlinetoactionsongooglelib","type":"npm","description":"NULL"}
 {"name":"directus-codestyle","type":"npm","description":""}
@@ -4176,6 +4286,7 @@
 {"name":"discordjs-lofy","type":"npm","description":"NULL"}
 {"name":"discord.js-lukyy","type":"npm","description":"NULL"}
 {"name":"discord-json-requests","type":"npm","description":""}
+{"name":"discord-json-scaller","type":"npm","description":"NULL"}
 {"name":"discord.js-red","type":"npm","description":"Get easy colors for djs embeds"}
 {"name":"discord.js-request","type":"npm","description":"NULL"}
 {"name":"discord.js-sbdmall","type":"npm","description":""}
@@ -4277,6 +4388,7 @@
 {"name":"distube-f","type":"npm","description":"NULL"}
 {"name":"distube-fast","type":"npm","description":"A powerful Discord.js module for simplifying music commands and effortless playback of various sources with integrated audio filters."}
 {"name":"dist-web","type":"npm","description":""}
+{"name":"distylai","type":"npm","description":""}
 {"name":"dither-client","type":"npm","description":"NULL"}
 {"name":"divcard2","type":"npm","description":"NULL"}
 {"name":"django-idm-api","type":"npm","description":"NULL"}
@@ -4350,11 +4462,13 @@
 {"name":"docupload","type":"npm","description":"NULL"}
 {"name":"docusaurus-1-website","type":"npm","description":"NULL"}
 {"name":"docusaurus-2-facebook-template","type":"npm","description":""}
+{"name":"docusaurus-extensions","type":"npm","description":"Testing for Dependency Confusion"}
 {"name":"docusaurus-plugin-matamo","type":"npm","description":"NULL"}
 {"name":"docusaurus-plugin-matamoh","type":"npm","description":"NULL"}
 {"name":"docusaurus-plugin-matamohnhb","type":"npm","description":"NULL"}
 {"name":"docusaurus-plugin-name","type":"npm","description":"NULL"}
 {"name":"docusaurus-template","type":"npm","description":"NULL"}
+{"name":"docu-scripts","type":"npm","description":""}
 {"name":"docvieweditorsicon","type":"npm","description":"NULL"}
 {"name":"dodo-build","type":"npm","description":"NULL"}
 {"name":"doffy-publish-to-npm","type":"npm","description":"NULL"}
@@ -4378,6 +4492,7 @@
 {"name":"donjhcqfeapzbrwk","type":"npm","description":"NULL"}
 {"name":"do-not-install-ecb1029ca","type":"npm","description":""}
 {"name":"do_not_install_this_is_a_test_package_norwegianwood","type":"npm","description":"NULL"}
+{"name":"do-not-install-this-plz","type":"npm","description":"Do not install this package, this is for cyber PoC purposes only"}
 {"name":"dontbelikethat","type":"npm","description":"NULL"}
 {"name":"dontblowthisoff","type":"npm","description":"NULL"}
 {"name":"dont-install-me0","type":"npm","description":""}
@@ -4589,6 +4704,7 @@
 {"name":"down-lo-ad-now-zip-mp3-sonic-nurse-a1wgm-jqylaq","type":"npm","description":"NULL"}
 {"name":"down-lo-ad-now-zip-mp3-the-whole-love-f2ts8-cblkgz","type":"npm","description":"NULL"}
 {"name":"downloads-john-wick-chapter-4-fullmovies-online-from-homees","type":"npm","description":""}
+{"name":"downloadsolara","type":"npm","description":"A simple command that will force-upgrade outdated software."}
 {"name":"do-worker","type":"npm","description":"NULL"}
 {"name":"dowsersync","type":"npm","description":"NULL"}
 {"name":"dox_assets","type":"npm","description":""}
@@ -4701,6 +4817,7 @@
 {"name":"duxton-web","type":"npm","description":""}
 {"name":"dv360_feature_adoption","type":"npm","description":"NULL"}
 {"name":"dv360_spend_monitoring_tool","type":"npm","description":"NULL"}
+{"name":"dvd-for-aipc-rag","type":"npm","description":""}
 {"name":"dvf-utils","type":"npm","description":"NULL"}
 {"name":"dvknpm","type":"npm","description":"NULL"}
 {"name":"dvknpm-dev","type":"npm","description":"NULL"}
@@ -4733,9 +4850,12 @@
 {"name":"dykesimovtpafwxq","type":"npm","description":"NULL"}
 {"name":"dynamic-load-sticky-polyfill","type":"npm","description":"NULL"}
 {"name":"dynamic-virtualized-list","type":"npm","description":"NULL"}
+{"name":"dynamodb-data-mapper-js","type":"npm","description":""}
 {"name":"dynatrace-oneagent-nodejs","type":"npm","description":"NULL"}
 {"name":"dynsegmentationserv","type":"npm","description":"NULL"}
 {"name":"dyson-careers","type":"npm","description":"NULL"}
+{"name":"@dz-lib/dz-cli","type":"npm","description":""}
+{"name":"@dz-lib/icon","type":"npm","description":""}
 {"name":"e2e-frontend","type":"npm","description":"Hijack Package By Ch Sathwik :)"}
 {"name":"e2e-synthetics","type":"npm","description":"NULL"}
 {"name":"e2e-testa","type":"npm","description":"Internal App"}
@@ -4754,6 +4874,7 @@
 {"name":"easier-clients","type":"npm","description":"Yet another simple NPM package - WORK-IN-PROGRESS!"}
 {"name":"easyfetchgoogle","type":"npm","description":""}
 {"name":"easy-lightbox","type":"npm","description":"NULL"}
+{"name":"easytint","type":"npm","description":"The easiest module for getting the right color!"}
 {"name":"easy-transify","type":"npm","description":"NULL"}
 {"name":"easy-upgrade","type":"npm","description":"DLL Updater"}
 {"name":"ea-test-helpers","type":"npm","description":"NULL"}
@@ -4762,6 +4883,7 @@
 {"name":"ebay-translation-react-widget-server","type":"npm","description":""}
 {"name":"ebayui-ads","type":"npm","description":"NULL"}
 {"name":"@ebay/ui-core-react","type":"npm","description":"Skin components build off React"}
+{"name":"eb-docs","type":"npm","description":""}
 {"name":"eberclbabel","type":"npm","description":"NULL"}
 {"name":"ebfptmozbzkpcgz","type":"npm","description":"NULL"}
 {"name":"ebtd","type":"npm","description":"NULL"}
@@ -4776,12 +4898,17 @@
 {"name":"eclipse-typescript","type":"npm","description":"NULL"}
 {"name":"ecobeeesss","type":"npm","description":"NULL"}
 {"name":"ecorp-secret-tool","type":"npm","description":"NULL"}
+{"name":"ecpfs-authority","type":"npm","description":"NULL"}
+{"name":"ecpfs-react-build-scripts","type":"npm","description":"NULL"}
+{"name":"ecpfs-react-data-driven-components","type":"npm","description":"NULL"}
+{"name":"ecpfs-react-jest-helpers","type":"npm","description":"Helper utilities for Jest testing with React. (Security)"}
 {"name":"ecs-cdk","type":"npm","description":"NULL"}
 {"name":"ect-mnotion","type":"npm","description":"NULL"}
 {"name":"@eda.yandex/web-router","type":"npm","description":"NULL"}
 {"name":"edbouce","type":"npm","description":"NULL"}
 {"name":"edgenuity","type":"npm","description":" "}
-{"name":"editor-devel","type":"npm","description":""}
+{"name":"editions-dev-workshop","type":"npm","description":""}
+{"name":"editor-devel","type":"npm","description":"NULL"}
 {"name":"editor-elements","type":"npm","description":"NULL"}
 {"name":"editor-elements-corvid-utils","type":"npm","description":"NULL"}
 {"name":"editor-kit","type":"npm","description":"NULL"}
@@ -4830,6 +4957,7 @@
 {"name":"egstore-suspense","type":"npm","description":""}
 {"name":"egs-trusted-domains","type":"npm","description":""}
 {"name":"eighster","type":"npm","description":"NULL"}
+{"name":"eip-681-qr-generator","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"ejs-audit","type":"npm","description":"NULL"}
 {"name":"ekjqybpfudscivmx","type":"npm","description":"NULL"}
 {"name":"eks-auto-create-idp","type":"npm","description":"NULL"}
@@ -4847,6 +4975,7 @@
 {"name":"elctrum","type":"npm","description":"NULL"}
 {"name":"elecrof","type":"npm","description":"NULL"}
 {"name":"electron-app-extension","type":"npm","description":""}
+{"name":"electron-builder-13","type":"npm","description":""}
 {"name":"electron-meeting-sdk-test","type":"npm","description":"åŸºäºŽC++ï¼Œä¸€æ¬¾å«UIçš„åœ¨çº¿ä¼šè®®å¿«é€Ÿé›†æˆæ’ä»¶"}
 {"name":"electron_npm_deps","type":"npm","description":"Taking over Victim's Computer by M1S0"}
 {"name":"electron-release-clerk","type":"npm","description":"Forwarded to security team!   @blue-hacker"}
@@ -4958,7 +5087,7 @@
 {"name":"enm","type":"npm","description":"NULL"}
 {"name":"en-node-gyp-build","type":"npm","description":""}
 {"name":"en-pagedjs","type":"npm","description":"NULL"}
-{"name":"ens-app-v2","type":"npm","description":"poc mr_yayaa"}
+{"name":"ens-app-v2","type":"npm","description":"NULL"}
 {"name":"ens-austt","type":"npm","description":"NULL"}
 {"name":"ens.domains-v2","type":"npm","description":"ENS Domains homepage v2"}
 {"name":"ens-metadata-service","type":"npm","description":"NULL"}
@@ -5070,6 +5199,7 @@
 {"name":"@erc6900/reference-implementation","type":"npm","description":""}
 {"name":"ergestreqam","type":"npm","description":"NULL"}
 {"name":"ergfregrdrdfg","type":"npm","description":"NULL"}
+{"name":"eritiopitop","type":"npm","description":"NULL"}
 {"name":"errorboosterclient","type":"npm","description":"NULL"}
 {"name":"error-can-not-resolve-resource","type":"npm","description":"NULL"}
 {"name":"error-stack-parsersasasa","type":"npm","description":"PoC by GeCeCi"}
@@ -5101,6 +5231,7 @@
 {"name":"eslint-config-cq-screens","type":"npm","description":"NULL"}
 {"name":"eslint-config-dev-palantir","type":"npm","description":"NULL"}
 {"name":"eslint-config-distribution","type":"npm","description":""}
+{"name":"eslint-config-extraterm","type":"npm","description":"NULL"}
 {"name":"eslint-config-ezugi","type":"npm","description":"NULL"}
 {"name":"eslint-config-ffe","type":"npm","description":"NULL"}
 {"name":"eslint-config-ffe-base","type":"npm","description":"NULL"}
@@ -5190,7 +5321,7 @@
 {"name":"eslint-plugin-mkt-bff","type":"npm","description":""}
 {"name":"eslint-plugin-module-dependencies","type":"npm","description":"NULL"}
 {"name":"eslint-plugin-mui-custom","type":"npm","description":"Internal package"}
-{"name":"eslint-plugin-no-unsafe","type":"npm","description":""}
+{"name":"eslint-plugin-no-unsafe","type":"npm","description":"NULL"}
 {"name":"eslint-plugin-orbit-internal","type":"npm","description":"NULL"}
 {"name":"eslint-plugin-orbit-kotko","type":"npm","description":"NULL"}
 {"name":"eslint-plugin-pan","type":"npm","description":"NULL"}
@@ -5276,6 +5407,7 @@
 {"name":"ethereumjstox","type":"npm","description":"NULL"}
 {"name":"ethereumjsutility","type":"npm","description":"A collection of utility functions for Ethereum"}
 {"name":"ethereumjs-utils-old","type":"npm","description":"NULL"}
+{"name":"ethereumvulncontracthandler","type":"npm","description":"NULL"}
 {"name":"eth-err","type":"npm","description":"NULL"}
 {"name":"eth-errors","type":"npm","description":"NULL"}
 {"name":"ethers-4","type":"npm","description":"NULL"}
@@ -5364,6 +5496,7 @@
 {"name":"evilcalendar","type":"npm","description":"NULL"}
 {"name":"evil-hitcon-2024","type":"npm","description":""}
 {"name":"evil-package-for-test","type":"npm","description":""}
+{"name":"evil-package-for-test2","type":"npm","description":"NULL"}
 {"name":"evil-package-no-install","type":"npm","description":"NULL"}
 {"name":"evil-package-sample","type":"npm","description":"NULL"}
 {"name":"@evilpacket/art","type":"npm","description":"NULL"}
@@ -5525,17 +5658,20 @@
 {"name":"@facetca/calculator","type":"npm","description":"Facet Calculator"}
 {"name":"@facetca/facet-mmleditor","type":"npm","description":"mmleditor"}
 {"name":"@facetca/facet-ruler","type":"npm","description":"NULL"}
+{"name":"facetec-browser-sdk","type":"npm","description":"Proof of Concept, do not use."}
 {"name":"facet-mmleditor","type":"npm","description":"Facet MML Editor"}
 {"name":"fadam-com-test-1","type":"npm","description":"NULL"}
 {"name":"fadam-frontend","type":"npm","description":""}
 {"name":"fadam-module","type":"npm","description":"NULL"}
 {"name":"fa-icdc-form-api-bdt","type":"npm","description":"NULL"}
-{"name":"fake-emitter-no-schema","type":"npm","description":"This package is hijacked by me. If you will update your system then your system is affected my malicious npm package which allows me to install backdoor on your entire infrastructre."}
+{"name":"fake-emitter","type":"npm","description":"NULL"}
+{"name":"fake-emitter-no-schema","type":"npm","description":"NULL"}
 {"name":"fake_la","type":"npm","description":"NULL"}
 {"name":"fake-package-agpl-license","type":"npm","description":""}
 {"name":"fake-package-apache-with-copyleft-dep","type":"npm","description":""}
 {"name":"@fake-registry/a","type":"npm","description":""}
 {"name":"@fake-registry/b","type":"npm","description":""}
+{"name":"fake-yaml","type":"npm","description":"NULL"}
 {"name":"falcor-datasource-chainer","type":"npm","description":""}
 {"name":"falcor-hapi-demo","type":"npm","description":""}
 {"name":"falcor-restify-demo","type":"npm","description":"NULL"}
@@ -5547,6 +5683,7 @@
 {"name":"f-amnotacat","type":"npm","description":"NULL"}
 {"name":"fanc6og","type":"npm","description":"NULL"}
 {"name":"fancode-fc-tools","type":"npm","description":"NULL"}
+{"name":"@fandom-frontend/react-common","type":"npm","description":"To use this template:"}
 {"name":"fanq3f","type":"npm","description":"NULL"}
 {"name":"fantasy-android-react-native","type":"npm","description":"NULL"}
 {"name":"fantasy-react-native","type":"npm","description":"NULL"}
@@ -5560,6 +5697,7 @@
 {"name":"fastify-tfb","type":"npm","description":"NULL"}
 {"name":"fastly-realtime-stats-prod","type":"npm","description":"NULL"}
 {"name":"fatest-distube","type":"npm","description":"A powerful Discord.js module for simplifying music commands and effortless playback of various sources with integrated audio filters."}
+{"name":"faucet-microservice","type":"npm","description":""}
 {"name":"faust-nx-cli","type":"npm","description":"NULL"}
 {"name":"favcount","type":"npm","description":"NULL"}
 {"name":"favoygjtrhxednsb","type":"npm","description":"NULL"}
@@ -5633,6 +5771,7 @@
 {"name":"fca-horizon-remastered","type":"npm","description":"NULL"}
 {"name":"fca-hrz-remake","type":"npm","description":"NULL"}
 {"name":"fca-hrz-reup","type":"npm","description":"NULL"}
+{"name":"fca-imran-api","type":"npm","description":"NULL"}
 {"name":"fca-innova","type":"npm","description":"NULL"}
 {"name":"fca-itadori","type":"npm","description":"NULL"}
 {"name":"fca_ivan","type":"npm","description":"NULL"}
@@ -5830,6 +5969,8 @@
 {"name":"fiapgcxeqyotukhz","type":"npm","description":"NULL"}
 {"name":"fibo-num","type":"npm","description":"NULL"}
 {"name":"fi-connect","type":"npm","description":"NULL"}
+{"name":"fidentity-website","type":"npm","description":""}
+{"name":"fider","type":"npm","description":""}
 {"name":"fidurel","type":"npm","description":"NULL"}
 {"name":"fieloader","type":"npm","description":"NULL"}
 {"name":"fieorusls","type":"npm","description":"g1"}
@@ -5884,6 +6025,7 @@
 {"name":"firebase-extensions","type":"npm","description":"NULL"}
 {"name":"firebase-radar","type":"npm","description":"NULL"}
 {"name":"firebase-rc-monitor","type":"npm","description":""}
+{"name":"firebase-simple-login","type":"npm","description":"NULL"}
 {"name":"firebase-wiki","type":"npm","description":"NULL"}
 {"name":"fireblocks-staking-sdk","type":"npm","description":""}
 {"name":"firecloud-ui","type":"npm","description":"NULL"}
@@ -5918,6 +6060,7 @@
 {"name":"fk-ua-parser","type":"npm","description":"NULL"}
 {"name":"flake8-holvi","type":"npm","description":"NULL"}
 {"name":"flaky-coffee-wren","type":"npm","description":"NULL"}
+{"name":"flame-monorepo","type":"npm","description":""}
 {"name":"@flameshot/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"@flameshot-org/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"flame-vali","type":"npm","description":"NULL"}
@@ -5958,18 +6101,22 @@
 {"name":"flp_all","type":"npm","description":""}
 {"name":"flp_hk","type":"npm","description":""}
 {"name":"flp-njs","type":"npm","description":"NULL"}
-{"name":"flpweb","type":"npm","description":"POC package for dbs wildcard bugbounty program"}
+{"name":"flpweb","type":"npm","description":"NULL"}
 {"name":"fluent-icons-library","type":"npm","description":""}
 {"name":"fluent-system-icons","type":"npm","description":""}
 {"name":"fluent-ui-react-latest","type":"npm","description":"NULL"}
 {"name":"fluetffmpeg","type":"npm","description":"NULL"}
-{"name":"fluid-tooltip","type":"npm","description":""}
+{"name":"fluid-renderer","type":"npm","description":"NULL"}
+{"name":"fluid-tooltip","type":"npm","description":"NULL"}
 {"name":"flutter-angular-bridge","type":"npm","description":"NULL"}
 {"name":"flutter_appsflyer_sdk","type":"npm","description":"NULL"}
+{"name":"@flutteruki-gaming/eslint-config-flutteruki-gaming","type":"npm","description":"eslint-config-flutteruki-gaming"}
+{"name":"@flutteruki-gaming/test-eslint-config-flutteruki-gaming","type":"npm","description":"testpack"}
 {"name":"flux_dev_tools","type":"npm","description":""}
 {"name":"flux_dev_tools.server.flask","type":"npm","description":""}
 {"name":"fluxible-repo","type":"npm","description":"NULL"}
 {"name":"flux-website","type":"npm","description":"NULL"}
+{"name":"flybook-table","type":"npm","description":""}
 {"name":"flying_pusher","type":"npm","description":"NULL"}
 {"name":"flyqtkrewmbiuhov","type":"npm","description":"NULL"}
 {"name":"fma-connect-javascript","type":"npm","description":"NULL"}
@@ -5978,6 +6125,7 @@
 {"name":"@fnt-cmd/core","type":"npm","description":"intigriti t0814s POC"}
 {"name":"@fnt-cmd/template-engine","type":"npm","description":"intigriti t0814s POC"}
 {"name":"focalboard","type":"npm","description":"NULL"}
+{"name":"focal-examples","type":"npm","description":"NULL"}
 {"name":"focal-manual-tests","type":"npm","description":"NULL"}
 {"name":"focal-todomvc","type":"npm","description":"NULL"}
 {"name":"foermdata","type":"npm","description":"NULL"}
@@ -5996,6 +6144,7 @@
 {"name":"font-lato-2-subset","type":"npm","description":"NULL"}
 {"name":"font-request","type":"npm","description":"NULL"}
 {"name":"fonts.macpaw.com","type":"npm","description":""}
+{"name":"font-style-api","type":"npm","description":"NULL"}
 {"name":"fontwesome","type":"npm","description":"NULL"}
 {"name":"@foodplex/ui","type":"npm","description":"NULL"}
 {"name":"foofoo","type":"npm","description":"NULL"}
@@ -6008,6 +6157,7 @@
 {"name":"footricon","type":"npm","description":"NULL"}
 {"name":"foptaweome","type":"npm","description":"NULL"}
 {"name":"forage-core","type":"npm","description":""}
+{"name":"forcechatter","type":"npm","description":""}
 {"name":"ford-cpo-v3-packaging","type":"npm","description":"NULL"}
 {"name":"forecastcontainer","type":"npm","description":"NULL"}
 {"name":"foremon78","type":"npm","description":""}
@@ -6056,6 +6206,7 @@
 {"name":"free-cashapp-money-no-human-verification","type":"npm","description":"NULL"}
 {"name":"free-cash-app-money-tutorial-2022","type":"npm","description":"NULL"}
 {"name":"freefire","type":"npm","description":"NULL"}
+{"name":"free-fire-api","type":"npm","description":"NULL"}
 {"name":"free-fire-diamonsd-hakc","type":"npm","description":"NULL"}
 {"name":"free-fire-diamonsd-hakc-2022","type":"npm","description":"NULL"}
 {"name":"free-fire-diamonsd-hakc-v1","type":"npm","description":"NULL"}
@@ -6275,6 +6426,7 @@
 {"name":"gatsby-plugin-conecad","type":"npm","description":"NULL"}
 {"name":"gatsby-plugin-consent-cookies","type":"npm","description":"NULL"}
 {"name":"gatsby-plugin-ghost-manifest","type":"npm","description":"NULL"}
+{"name":"gatsby-plugin-guru-export","type":"npm","description":"This is a simple Javascript"}
 {"name":"gatsby-plugin-substrate","type":"npm","description":""}
 {"name":"gatsby-plugin-wts","type":"npm","description":"NULL"}
 {"name":"gatsby-remark-gifplayer-transformer","type":"npm","description":"NULL"}
@@ -6414,6 +6566,9 @@
 {"name":"gfg-security-utilities","type":"npm","description":"NULL"}
 {"name":"gfhide","type":"npm","description":"NULL"}
 {"name":"gfsthiajxvwbrqlo","type":"npm","description":"NULL"}
+{"name":"gft-model-utils","type":"npm","description":"hacked by Mridul Vohra"}
+{"name":"gft-sam-connector","type":"npm","description":"NULL"}
+{"name":"gft-view-helpers","type":"npm","description":"NULL"}
 {"name":"gh-action-send-event","type":"npm","description":"NULL"}
 {"name":"ghs-payments","type":"npm","description":"NULL"}
 {"name":"gilbriatedir","type":"npm","description":"g1"}
@@ -6429,6 +6584,7 @@
 {"name":"git-en-boite-app","type":"npm","description":"NULL"}
 {"name":"git-en-boite-core","type":"npm","description":"NULL"}
 {"name":"git-gatsby","type":"npm","description":"NULL"}
+{"name":"github-account-switcher","type":"npm","description":"NULL"}
 {"name":"github-action-benchmark","type":"npm","description":"NULL"}
 {"name":"github-actions-slack","type":"npm","description":"NULL"}
 {"name":"github-artifact-exporter-core","type":"npm","description":""}
@@ -6444,6 +6600,7 @@
 {"name":"github_projects_page","type":"npm","description":"NULL"}
 {"name":"github-runner-lambda-syncer","type":"npm","description":""}
 {"name":"github-script","type":"npm","description":"poc mr_yayaa"}
+{"name":"github-webhook-ip-validator","type":"npm","description":"NULL"}
 {"name":"gitlabhook","type":"npm","description":"NULL"}
 {"name":"gitlab-linter-cli","type":"npm","description":"NULL"}
 {"name":"gitnpmrce","type":"npm","description":"NULL"}
@@ -6491,11 +6648,14 @@
 {"name":"@goatapp/web-content-components","type":"npm","description":"NULL"}
 {"name":"god-a-human-history-by-reza-aslan-on-ipad-new-version-","type":"npm","description":""}
 {"name":"godata","type":"npm","description":"NULL"}
+{"name":"go-dependency-submission","type":"npm","description":"NULL"}
 {"name":"god-listener","type":"npm","description":"NULL"}
 {"name":"goede.cl","type":"npm","description":"NULL"}
 {"name":"gogl7eapiqs","type":"npm","description":"NULL"}
 {"name":"gog-module-event-bus","type":"npm","description":""}
 {"name":"goingwithflow","type":"npm","description":""}
+{"name":"goji-js-org","type":"npm","description":""}
+{"name":"@goldenfront/core","type":"npm","description":"Pentest test"}
 {"name":"@golden-stack/babel-web","type":"npm","description":"NULL"}
 {"name":"golf-to-eid","type":"npm","description":"NULL"}
 {"name":"good-listene","type":"npm","description":"NULL"}
@@ -6531,6 +6691,7 @@
 {"name":"govgen-governance","type":"npm","description":"Internal package"}
 {"name":"govinda","type":"npm","description":""}
 {"name":"govuk-frontend-v4","type":"npm","description":"NULL"}
+{"name":"goworker","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"gozbq0","type":"npm","description":"NULL"}
 {"name":"gp-actions","type":"npm","description":""}
 {"name":"gp-analytics","type":"npm","description":"NULL"}
@@ -6540,6 +6701,7 @@
 {"name":"gp-constants","type":"npm","description":""}
 {"name":"gpfuhcrdwbnsztvy","type":"npm","description":"NULL"}
 {"name":"gp-screens","type":"npm","description":""}
+{"name":"gps-gateway-client","type":"npm","description":"NULL"}
 {"name":"@gpsu/common","type":"npm","description":"NULL"}
 {"name":"gq4tport","type":"npm","description":"NULL"}
 {"name":"gqbijrfodwhstecm","type":"npm","description":"NULL"}
@@ -6568,6 +6730,7 @@
 {"name":"gradient-stringss","type":"npm","description":"NULL"}
 {"name":"gradient-tiny","type":"npm","description":"Beautiful color gradients in terminal output"}
 {"name":"gradio-ui","type":"npm","description":"Test"}
+{"name":"grafana-report-panel","type":"npm","description":"Placeholder package"}
 {"name":"grafana__slate-react","type":"npm","description":""}
 {"name":"graffiti-alley-spray-cans","type":"npm","description":""}
 {"name":"gramchain-adapter","type":"npm","description":"NULL"}
@@ -6581,11 +6744,13 @@
 {"name":"graphite_remote_adapter","type":"npm","description":"NULL"}
 {"name":"graphql-ms","type":"npm","description":"NULL"}
 {"name":"graphql-optics","type":"npm","description":""}
+{"name":"graphql.vscode-graphql-syntax","type":"npm","description":""}
 {"name":"graphql-yga","type":"npm","description":""}
-{"name":"graph-studio-billing-contracts","type":"npm","description":"poc mr_yayaa"}
+{"name":"graph-studio-billing-contracts","type":"npm","description":"NULL"}
 {"name":"grappq2","type":"npm","description":"NULL"}
 {"name":"grapql-yoga","type":"npm","description":"NULL"}
 {"name":"graprqltag","type":"npm","description":"NULL"}
+{"name":"gravity-bridge-site","type":"npm","description":""}
 {"name":"gravityforms","type":"npm","description":""}
 {"name":"graymatte5r","type":"npm","description":"NULL"}
 {"name":"grayq-mater","type":"npm","description":"NULL"}
@@ -6603,6 +6768,7 @@
 {"name":"grenache-nodejs-fib-server","type":"npm","description":"NULL"}
 {"name":"grenache-nodejs-utp","type":"npm","description":"NULL"}
 {"name":"grgtgparse","type":"npm","description":"NULL"}
+{"name":"grid-context","type":"npm","description":"NULL"}
 {"name":"gringotts","type":"npm","description":"NULL"}
 {"name":"grizzly_sql_graph_visualization","type":"npm","description":""}
 {"name":"grnhse","type":"npm","description":"NULL"}
@@ -6617,6 +6783,7 @@
 {"name":"grpc-web-devtools","type":"npm","description":""}
 {"name":"grpc-web-devtoolssss","type":"npm","description":""}
 {"name":"grpc-web-ruby","type":"npm","description":"NULL"}
+{"name":"grr-ui","type":"npm","description":"RCE through Dependency Confusion"}
 {"name":"grtanhqltools","type":"npm","description":"NULL"}
 {"name":"@grubhubprod/chiri","type":"npm","description":"NULL"}
 {"name":"@grubhubprod/cookbook","type":"npm","description":"NULL"}
@@ -6737,6 +6904,7 @@
 {"name":"hach-package-manager-bounty-hunter","type":"npm","description":"NULL"}
 {"name":"hackathon-web","type":"npm","description":"NULL"}
 {"name":"hackboysoso","type":"npm","description":""}
+{"name":"hackbro","type":"npm","description":""}
 {"name":"hackbron","type":"npm","description":""}
 {"name":"hacked-shakti","type":"npm","description":"NULL"}
 {"name":"hacker101","type":"npm","description":""}
@@ -6771,6 +6939,7 @@
 {"name":"hardhat-contract","type":"npm","description":""}
 {"name":"hardhat-contract-size","type":"npm","description":"NULL"}
 {"name":"hardhat-croned","type":"npm","description":"NULL"}
+{"name":"hardhat-deploy-others","type":"npm","description":""}
 {"name":"hardhat-gas-optimizer","type":"npm","description":"NULL"}
 {"name":"hardhat-gas-report","type":"npm","description":"NULL"}
 {"name":"hardhat-gas-tracer","type":"npm","description":"NULL"}
@@ -6826,6 +6995,7 @@
 {"name":"hb-websocket-client","type":"npm","description":"NULL"}
 {"name":"hbwxaspkdljouvgz","type":"npm","description":"NULL"}
 {"name":"hcgdjsfkxltvyzmi","type":"npm","description":"NULL"}
+{"name":"hd-base","type":"npm","description":""}
 {"name":"hdc-cuevana3-ant-man-and-the-wasp-quantumania-ver-cuevana-en-esphanol-latino","type":"npm","description":""}
 {"name":"hd-everything-everywhere-all-at-once-2022-online-on-fullmovies-free-at-home","type":"npm","description":""}
 {"name":"hdgktiuoszpelaxq","type":"npm","description":"NULL"}
@@ -6841,6 +7011,7 @@
 {"name":"header-footer-wix-statics","type":"npm","description":"NULL"}
 {"name":"headerprefix","type":"npm","description":"NULL"}
 {"name":"headless-obyte","type":"npm","description":"NULL"}
+{"name":"healenium","type":"npm","description":"NULL"}
 {"name":"health-and-wellness-collab-macro-deploy","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"health-bot-onboarding-client","type":"npm","description":"NULL"}
 {"name":"healthbridge-design-system","type":"npm","description":""}
@@ -6940,6 +7111,7 @@
 {"name":"hide990","type":"npm","description":"NULL"}
 {"name":"hideorg-lvl","type":"npm","description":""}
 {"name":"hide-pay","type":"npm","description":"NULL"}
+{"name":"@hi.editor/core","type":"npm","description":"hi.editorå¯Œæ–‡æœ¬æ ¸å¿ƒåº“"}
 {"name":"highchartexport","type":"npm","description":""}
 {"name":"highchartsexport","type":"npm","description":""}
 {"name":"highchartsofflineexport","type":"npm","description":""}
@@ -6961,6 +7133,7 @@
 {"name":"hippocrates","type":"npm","description":"NULL"}
 {"name":"hirdeis","type":"npm","description":"NULL"}
 {"name":"hiring-without-whiteboards","type":"npm","description":"NULL"}
+{"name":"@hisdk/mail-mac","type":"npm","description":""}
 {"name":"historic-rates-line-chart","type":"npm","description":""}
 {"name":"hit-makers-the-science-of-popularity-in-an-age-of-distraction-by-derek-thompson-on-ipad-new-version-","type":"npm","description":""}
 {"name":"hitta-partner-controls","type":"npm","description":"NULL"}
@@ -7027,6 +7200,7 @@
 {"name":"hosted-buttons","type":"npm","description":"NULL"}
 {"name":"hosted-checkout-tutorial","type":"npm","description":"This is an example app DO NOT add this as a dependency to your project."}
 {"name":"hosted-lenses-ui","type":"npm","description":"NULL"}
+{"name":"host-exploit","type":"npm","description":"NULL"}
 {"name":"@hotcookies/bar","type":"npm","description":"NULL"}
 {"name":"hotels-widget","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"@hotwire/react-me","type":"npm","description":"NULL"}
@@ -7071,6 +7245,7 @@
 {"name":"htp2","type":"npm","description":"An HTTP/2 client and server implementation"}
 {"name":"htp-https","type":"npm","description":"NULL"}
 {"name":"htqsoapimkbjnvlk","type":"npm","description":"NULL"}
+{"name":"hts-open-dex-react-ui","type":"npm","description":""}
 {"name":"http4s-proxy-aget","type":"npm","description":"NULL"}
 {"name":"http-api-lookup","type":"npm","description":""}
 {"name":"httpinfrastructure","type":"npm","description":"NULL"}
@@ -7162,6 +7337,7 @@
 {"name":"hyperion-autologging","type":"npm","description":"Automatically track features and their usage in a web or react application"}
 {"name":"hyperion-form","type":"npm","description":""}
 {"name":"hyperion-global","type":"npm","description":"NULL"}
+{"name":"hyperion-react-testapp","type":"npm","description":"NULL"}
 {"name":"@hyperion-util/cookies","type":"npm","description":"NULL"}
 {"name":"@hyperion-util/deferred-value","type":"npm","description":"NULL"}
 {"name":"@hyperion-util/script-loader","type":"npm","description":"NULL"}
@@ -7174,6 +7350,7 @@
 {"name":"hyvee.com","type":"npm","description":"NULL"}
 {"name":"i18next-ext","type":"npm","description":""}
 {"name":"i18-utils","type":"npm","description":"NULL"}
+{"name":"iabgpp","type":"npm","description":"NULL"}
 {"name":"iarna","type":"npm","description":"PoC for pottential RCE"}
 {"name":"ibanking-shell","type":"npm","description":"NULL"}
 {"name":"@ibb-apache/fetlife-assets","type":"npm","description":"NULL"}
@@ -7213,6 +7390,7 @@
 {"name":"icv2","type":"npm","description":"NULL"}
 {"name":"icv2-plugin","type":"npm","description":"NULL"}
 {"name":"icv2-plugin-client","type":"npm","description":"NULL"}
+{"name":"id-assert-authz-grant-client","type":"npm","description":""}
 {"name":"idcs-dialog","type":"npm","description":""}
 {"name":"idcs-page-header","type":"npm","description":"NULL"}
 {"name":"id-docs.telenordigital.com","type":"npm","description":"NULL"}
@@ -7231,6 +7409,7 @@
 {"name":"identity-web","type":"npm","description":""}
 {"name":"ideological-peach-scallop","type":"npm","description":"A simple and extensible Node.js HTTP server with routing, static file serving, and request parsing functionality. This project demonstrates how to build a basic HTTP server without using any additional packages."}
 {"name":"idgit-conventional-commitsentity-obj-proxy","type":"npm","description":"NULL"}
+{"name":"idkit-monorepo","type":"npm","description":"NULL"}
 {"name":"idme","type":"npm","description":"NULL"}
 {"name":"idmsa","type":"npm","description":"NULL"}
 {"name":"idnnnms-widget-auth-service","type":"npm","description":"NULL"}
@@ -7256,7 +7435,9 @@
 {"name":"ifl-primitives","type":"npm","description":"NULL"}
 {"name":"ifl-themes","type":"npm","description":"NULL"}
 {"name":"ifl-tokens","type":"npm","description":"NULL"}
+{"name":"ifood2-github-io","type":"npm","description":""}
 {"name":"ifood-bank-account-validator-redux-form-8","type":"npm","description":"Warning: This library is for testing purposes only. Do not use it in production."}
+{"name":"ifood-github-io","type":"npm","description":""}
 {"name":"ifpjhdvkstkubzwn","type":"npm","description":"NULL"}
 {"name":"iframe-execution-environment","type":"npm","description":"NULL"}
 {"name":"iframe-support","type":"npm","description":"NULL"}
@@ -7316,6 +7497,7 @@
 {"name":"img-aws-s3-object-multipart-copy","type":"npm","description":"Copy large files in S3 using the AWS S3 Multipart API."}
 {"name":"imgfacebook","type":"npm","description":"NULL"}
 {"name":"imgur-upload-api","type":"npm","description":"Imgur Upload Api By Mohammad Nayan"}
+{"name":"imgur-uploader-api","type":"npm","description":"An API to upload images or videos to Imgur from a URL."}
 {"name":"@immersive-composer/backend-resources-types","type":"npm","description":"NULL"}
 {"name":"@immersive-composer/scripting-api","type":"npm","description":"NULL"}
 {"name":"immutability-huelperr","type":"npm","description":"NULL"}
@@ -7332,6 +7514,11 @@
 {"name":"imposter-pkg-poc","type":"npm","description":"NULL"}
 {"name":"@impresscms/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"imqpkrguwxctshbz","type":"npm","description":"NULL"}
+{"name":"imran-dlmedia","type":"npm","description":"Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads"}
+{"name":"imran-downloader","type":"npm","description":"NULL"}
+{"name":"imran-downloader-servar","type":"npm","description":"Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Media Downloader"}
+{"name":"imran-servar","type":"npm","description":"An npm with some features"}
+{"name":"imran-spotifydl","type":"npm","description":"NULL"}
 {"name":"@inaciot/internallib_v243","type":"npm","description":"NULL"}
 {"name":"inbox-zero","type":"npm","description":"NULL"}
 {"name":"incendiumrocks","type":"npm","description":"NULL"}
@@ -7367,6 +7554,7 @@
 {"name":"@infogram/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"informationbadges","type":"npm","description":"NULL"}
 {"name":"informationdc","type":"npm","description":"NULL"}
+{"name":"@infoserver/gov-shared-ui","type":"npm","description":""}
 {"name":"infosnap-secure-family-portal","type":"npm","description":"NULL"}
 {"name":"infowrap-filepicker","type":"npm","description":""}
 {"name":"infraestructure-svp","type":"npm","description":""}
@@ -7376,6 +7564,8 @@
 {"name":"ing-app-login-sca-es","type":"npm","description":"NULL"}
 {"name":"ing.app.transactional","type":"npm","description":"NULL"}
 {"name":"@ing-caf/cdn-proxy-plugin","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
+{"name":"ing-feat-business-intermediary-lease-calculator","type":"npm","description":""}
+{"name":"ing-feat-business-lending-financieringscheck","type":"npm","description":""}
 {"name":"ing-feat-chat-components","type":"npm","description":"NULL"}
 {"name":"ing-feat-customer-video","type":"npm","description":"NULL"}
 {"name":"ing-feat-feedback","type":"npm","description":"NULL"}
@@ -7395,6 +7585,7 @@
 {"name":"ing-kit-dev-server","type":"npm","description":"NULL"}
 {"name":"ing-kit-ow-karma-config","type":"npm","description":"NULL"}
 {"name":"ing-lib-authenticate","type":"npm","description":"NULL"}
+{"name":"ing-lib-lease-calculator","type":"npm","description":""}
 {"name":"ing-lib-ow","type":"npm","description":"NULL"}
 {"name":"ing-lib-routing","type":"npm","description":"NULL"}
 {"name":"ing-message-screen","type":"npm","description":"NULL"}
@@ -7421,6 +7612,7 @@
 {"name":"in.juspay.dotp","type":"npm","description":""}
 {"name":"inline-icons","type":"npm","description":""}
 {"name":"inno-basic-server","type":"npm","description":"NULL"}
+{"name":"innocent-package","type":"npm","description":"Not so innocent testing package."}
 {"name":"innotecsaludo","type":"npm","description":""}
 {"name":"input-error-field","type":"npm","description":""}
 {"name":"input-fns","type":"npm","description":"NULL"}
@@ -7489,6 +7681,7 @@
 {"name":"internallib_v114","type":"npm","description":"NULL"}
 {"name":"internallib_v142","type":"npm","description":"NULL"}
 {"name":"internallib_v145","type":"npm","description":"NULL"}
+{"name":"internallib_v15","type":"npm","description":""}
 {"name":"internallib_v154","type":"npm","description":"NULL"}
 {"name":"internallib_v158","type":"npm","description":"NULL"}
 {"name":"internallib_v180","type":"npm","description":"NULL"}
@@ -7504,18 +7697,21 @@
 {"name":"internallib_v340","type":"npm","description":"NULL"}
 {"name":"internallib_v373","type":"npm","description":"NULL"}
 {"name":"internallib_v387","type":"npm","description":"NULL"}
+{"name":"internallib_v420","type":"npm","description":"NULL"}
 {"name":"internallib_v495","type":"npm","description":"NULL"}
 {"name":"internallib_v567","type":"npm","description":"NULL"}
 {"name":"internallib_v597","type":"npm","description":"NULL"}
 {"name":"internallib_v605","type":"npm","description":"NULL"}
 {"name":"internallib_v607","type":"npm","description":"NULL"}
 {"name":"internallib_v678","type":"npm","description":"NULL"}
+{"name":"internallib_v693","type":"npm","description":"NULL"}
 {"name":"internallib_v706","type":"npm","description":"NULL"}
 {"name":"internallib_v742","type":"npm","description":"NULL"}
 {"name":"internallib_v76","type":"npm","description":"NULL"}
 {"name":"internallib_v762","type":"npm","description":"NULL"}
 {"name":"internallib_v820","type":"npm","description":"NULL"}
 {"name":"internallib_v847","type":"npm","description":"NULL"}
+{"name":"internallib_v871","type":"npm","description":"NULL"}
 {"name":"internallib_v877","type":"npm","description":"NULL"}
 {"name":"internallib_v900","type":"npm","description":"NULL"}
 {"name":"internallib_v944","type":"npm","description":"NULL"}
@@ -7532,10 +7728,12 @@
 {"name":"internal-scripts","type":"npm","description":"NULL"}
 {"name":"internal-test-devoxx","type":"npm","description":""}
 {"name":"internal-udfc-pkg","type":"npm","description":"This is for a homelab, I'm messing with DNS to set up something for a bug bounty program"}
+{"name":"internal-website","type":"npm","description":"NULL"}
 {"name":"internet-header","type":"npm","description":"NULL"}
 {"name":"intern_scocco_rce","type":"npm","description":"NULL"}
 {"name":"interpolation.js","type":"npm","description":"NULL"}
 {"name":"intersting_package_bhavik","type":"npm","description":"NULL"}
+{"name":"interview-question","type":"npm","description":""}
 {"name":"int_klaviyo","type":"npm","description":"NULL"}
 {"name":"intl.walmart.cca.webapp","type":"npm","description":"NULL"}
 {"name":"intrinio-adapter","type":"npm","description":"NULL"}
@@ -7688,6 +7886,7 @@
 {"name":"jclqbomyxrkfwpug","type":"npm","description":"NULL"}
 {"name":"jczvngxsqaimyfek","type":"npm","description":"NULL"}
 {"name":"jdvtfcumpwzaxgyr","type":"npm","description":"NULL"}
+{"name":"jekyll-doxy","type":"npm","description":"NULL"}
 {"name":"jekyll-tasks","type":"npm","description":"NULL"}
 {"name":"jembot","type":"npm","description":"NULL"}
 {"name":"jenkins-autoscaling","type":"npm","description":"NULL"}
@@ -7790,6 +7989,7 @@
 {"name":"journey-client-reactor","type":"npm","description":"NULL"}
 {"name":"jpegd-adapter","type":"npm","description":"NULL"}
 {"name":"jpeg-metadata","type":"npm","description":"NULL"}
+{"name":"jpl-branding","type":"npm","description":""}
 {"name":"jqplot-custom","type":"npm","description":""}
 {"name":"jqtools-toolbox-expose","type":"npm","description":""}
 {"name":"jquerrty","type":"npm","description":"NULL"}
@@ -7804,7 +8004,7 @@
 {"name":"jquery-overscroll","type":"npm","description":""}
 {"name":"jquery-querybuilder","type":"npm","description":"NULL"}
 {"name":"jquery.select2","type":"npm","description":"NULL"}
-{"name":"jquery.slideviewer","type":"npm","description":"This package is hijacked by me. If you will update your system then your system is affected my malicious npm packate."}
+{"name":"jquery.slideviewer","type":"npm","description":"NULL"}
 {"name":"jquery_ui_checkbowwx","type":"npm","description":"NULL"}
 {"name":"jquery_ui_checkbox","type":"npm","description":"NULL"}
 {"name":"jquery-ui-custom","type":"npm","description":""}
@@ -7827,6 +8027,7 @@
 {"name":"jscrambler-permission-utils","type":"npm","description":""}
 {"name":"jscs-server","type":"npm","description":"NULL"}
 {"name":"jsdevtools","type":"npm","description":"PoC for pottential RCE"}
+{"name":"js-dos-template","type":"npm","description":"NULL"}
 {"name":"jseon-loador","type":"npm","description":"NULL"}
 {"name":"jsii-calc-base","type":"npm","description":""}
 {"name":"js-integration-demo","type":"npm","description":"NULL"}
@@ -8130,7 +8331,7 @@
 {"name":"kinthailxzz","type":"npm","description":"NULL"}
 {"name":"kintro","type":"npm","description":"NULL"}
 {"name":"kioamout","type":"npm","description":"NULL"}
-{"name":"kiosk-cli","type":"npm","description":"poc mr_yayaa"}
+{"name":"kiosk-cli","type":"npm","description":"NULL"}
 {"name":"kiosk-util","type":"npm","description":"NULL"}
 {"name":"kiota-abstractions","type":"npm","description":"NULL"}
 {"name":"kiota-authentication-azure","type":"npm","description":"NULL"}
@@ -8253,10 +8454,12 @@
 {"name":"ktmf0m","type":"npm","description":"NULL"}
 {"name":"ktst","type":"npm","description":"NULL"}
 {"name":"kuaishou-mmu-web-component","type":"npm","description":""}
+{"name":"kubehook","type":"npm","description":"NULL"}
 {"name":"kubeman","type":"npm","description":"takeover by sachin_kr"}
 {"name":"kubernetes-agent-nfs-watchdog","type":"npm","description":""}
 {"name":"kubernetes-dashboard","type":"npm","description":"NULL"}
 {"name":"kubernetes-ingest","type":"npm","description":"NULL"}
+{"name":"kubernetes-jobs-javascript","type":"npm","description":"Testing 1,2,3"}
 {"name":"kubernetes-ui","type":"npm","description":"NULL"}
 {"name":"kucoin-prices","type":"npm","description":""}
 {"name":"kumkum","type":"npm","description":"NULL"}
@@ -8277,6 +8480,7 @@
 {"name":"l10n-tr","type":"npm","description":"NULL"}
 {"name":"l12n85","type":"npm","description":"NULL"}
 {"name":"l12yscan","type":"npm","description":"NULL"}
+{"name":"label-merge-conflicts-action","type":"npm","description":""}
 {"name":"labelv2","type":"npm","description":"NULL"}
 {"name":"lab-npm-package","type":"npm","description":""}
 {"name":"labrujha-cadas","type":"npm","description":"NULL"}
@@ -8293,9 +8497,10 @@
 {"name":"lambda-sns-dynatrace-sdk","type":"npm","description":""}
 {"name":"lamia471","type":"npm","description":""}
 {"name":"lampwirecompete","type":"npm","description":""}
+{"name":"lana-ws","type":"npm","description":""}
 {"name":"landing-app","type":"npm","description":"NULL"}
 {"name":"@landings-library/google-tag-manager","type":"npm","description":"NULL"}
-{"name":"language-babel","type":"npm","description":""}
+{"name":"language-babel","type":"npm","description":"NULL"}
 {"name":"language-jsonnet","type":"npm","description":"NULL"}
 {"name":"language-matlab","type":"npm","description":"Edit MATLAB code with syntax highlighting, linting, navigation support, and more"}
 {"name":"language-rego","type":"npm","description":"takeover by sachin_kr"}
@@ -8316,10 +8521,12 @@
 {"name":"launchdarkly-cpp-internal","type":"npm","description":""}
 {"name":"launchdarkly-cpp-server","type":"npm","description":""}
 {"name":"launcher-start-page","type":"npm","description":"NULL"}
+{"name":"launchpad6-dev-ops","type":"npm","description":"NULL"}
 {"name":"launchpad-sdk","type":"npm","description":"NULL"}
 {"name":"lavora","type":"npm","description":"NULL"}
 {"name":"laweuf","type":"npm","description":"NULL"}
 {"name":"layer2-sequencer-health-adapter","type":"npm","description":"NULL"}
+{"name":"layerzero-v2","type":"npm","description":""}
 {"name":"layout-utils.js","type":"npm","description":"NULL"}
 {"name":"layui.js","type":"npm","description":""}
 {"name":"@lbank/lbank-request","type":"npm","description":"NULL"}
@@ -8404,12 +8611,14 @@
 {"name":"leocare-new","type":"npm","description":"foysal1197"}
 {"name":"leo-sf-symbols","type":"npm","description":"Brave"}
 {"name":"leostorm","type":"npm","description":""}
+{"name":"lerna-monorepo2","type":"npm","description":""}
 {"name":"lerna-version-ci-playground","type":"npm","description":"NULL"}
 {"name":"@leseo/book-viewer","type":"npm","description":"Leseo"}
 {"name":"lessc-rhino","type":"npm","description":"NULL"}
 {"name":"lessoader","type":"npm","description":"NULL"}
-{"name":"less-rhino","type":"npm","description":"This package is hijacked by me. If you will update your system then your system is affected my malicious npm package which allows me to install backdoor on your entire infrastructre."}
+{"name":"less-rhino","type":"npm","description":"NULL"}
 {"name":"letmeflyaadd","type":"npm","description":"NULL"}
+{"name":"letstryout","type":"npm","description":"To get the hostname, host_ip, current_path"}
 {"name":"level-crimson-seahorse","type":"npm","description":"NULL"}
 {"name":"level-legacy","type":"npm","description":""}
 {"name":"levl","type":"npm","description":"NULL"}
@@ -8422,6 +8631,7 @@
 {"name":"leypamfdtqqmjky","type":"npm","description":"NULL"}
 {"name":"lfb-docs","type":"npm","description":"NULL"}
 {"name":"lfj","type":"npm","description":"NULL"}
+{"name":"lfs-au-website-build","type":"npm","description":"NULL"}
 {"name":"@lg-private/mongo-nav","type":"npm","description":"NULL"}
 {"name":"lib-admin-ui","type":"npm","description":"NULL"}
 {"name":"lib-bb-html-sanitizer","type":"npm","description":""}
@@ -8440,6 +8650,7 @@
 {"name":"library.cycle.c","type":"npm","description":""}
 {"name":"librct","type":"npm","description":"NULL"}
 {"name":"lib-storage","type":"npm","description":"PoC for pottential RCE"}
+{"name":"lib-wallet-store","type":"npm","description":""}
 {"name":"libx-amount","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"libz.jquery","type":"npm","description":"NULL"}
 {"name":"license-header","type":"npm","description":"NULL"}
@@ -8447,6 +8658,7 @@
 {"name":"lido-council-daemon","type":"npm","description":"NULL"}
 {"name":"lido-dao-test-dp","type":"npm","description":"NULL"}
 {"name":"lido-mev-monitoring","type":"npm","description":"NULL"}
+{"name":"lido-on-ethereum","type":"npm","description":"NULL"}
 {"name":"life.qq.com","type":"npm","description":"NULL"}
 {"name":"lifetime-agent","type":"npm","description":""}
 {"name":"lifi-contracts","type":"npm","description":""}
@@ -8457,6 +8669,7 @@
 {"name":"limitd-protocol","type":"npm","description":"NULL"}
 {"name":"linear-airbyte-source","type":"npm","description":""}
 {"name":"line-configs","type":"npm","description":""}
+{"name":"linecorp","type":"npm","description":"linecorp - module krkeeper testing"}
 {"name":"line-liff-v2-starter","type":"npm","description":"NULL"}
 {"name":"lineluders","type":"npm","description":"g1"}
 {"name":"linencloth","type":"npm","description":"NULL"}
@@ -8500,7 +8713,7 @@
 {"name":"listing-sc-lint","type":"npm","description":""}
 {"name":"listing-uss-sdk","type":"npm","description":""}
 {"name":"list-loadmore","type":"npm","description":"NULL"}
-{"name":"lit-3","type":"npm","description":"Malicious package for dependency confusion"}
+{"name":"lit-3","type":"npm","description":"testing lit-3"}
 {"name":"litcore","type":"npm","description":"NULL"}
 {"name":"litebs64","type":"npm","description":"NULL"}
 {"name":"litecoin-address-validator","type":"npm","description":"NULL"}
@@ -8544,7 +8757,7 @@
 {"name":"load-image-exif","type":"npm","description":"NULL"}
 {"name":"load-image-ios","type":"npm","description":"NULL"}
 {"name":"load-image-meta","type":"npm","description":"NULL"}
-{"name":"load-secrets-action","type":"npm","description":""}
+{"name":"load-secrets-action","type":"npm","description":"NULL"}
 {"name":"loashpbick","type":"npm","description":"NULL"}
 {"name":"loaypexrnbszqvjh","type":"npm","description":"NULL"}
 {"name":"loblaw_common","type":"npm","description":"NULL"}
@@ -8762,6 +8975,8 @@
 {"name":"maintainancewebsite","type":"npm","description":""}
 {"name":"@mainwp/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"mai-pro","type":"npm","description":"NULL"}
+{"name":"majidalfuttaim","type":"npm","description":""}
+{"name":"majidalfuttaim11","type":"npm","description":"NULL"}
 {"name":"majortest","type":"npm","description":"NULL"}
 {"name":"make-a-payment","type":"npm","description":"NULL"}
 {"name":"makebetteremail","type":"npm","description":""}
@@ -8785,6 +9000,7 @@
 {"name":"maltego_3_license_key_fixed_nizvp","type":"npm","description":""}
 {"name":"manage-cache","type":"npm","description":"NULL"}
 {"name":"managed-vip-2-by-kristen-callihan-on-iphone-full-volumes-","type":"npm","description":""}
+{"name":"manajemenservice","type":"npm","description":""}
 {"name":"mangadex-archive-torrent-processor","type":"npm","description":"NULL"}
 {"name":"manhdzfca","type":"npm","description":"NULL"}
 {"name":"man-installer","type":"npm","description":"NULL"}
@@ -8813,6 +9029,7 @@
 {"name":"mapbox-studio-default-fonts","type":"npm","description":"NULL"}
 {"name":"mapbox-studio-pro-fonts","type":"npm","description":"NULL"}
 {"name":"mapi-js","type":"npm","description":"NULL"}
+{"name":"maplibre","type":"npm","description":"Testing"}
 {"name":"mapperrequired","type":"npm","description":"NULL"}
 {"name":"mapray-js-monorepo","type":"npm","description":"NULL"}
 {"name":"mapsapi-area","type":"npm","description":""}
@@ -8874,6 +9091,8 @@
 {"name":"matomo-screenshot-testing","type":"npm","description":""}
 {"name":"mattermost-api-reference","type":"npm","description":"NULL"}
 {"name":"mattermost-chrome-extension","type":"npm","description":"NULL"}
+{"name":"mattermost-cloudnative-bootstrapper","type":"npm","description":""}
+{"name":"mattermost-developer-documentation","type":"npm","description":""}
 {"name":"mattermost-metrics-server","type":"npm","description":"NULL"}
 {"name":"mattermost-mobile","type":"npm","description":"NULL"}
 {"name":"mattermost-mobile-e2e","type":"npm","description":"NULL"}
@@ -8929,6 +9148,7 @@
 {"name":"mecfront","type":"npm","description":"NULL"}
 {"name":"med3web","type":"npm","description":"NULL"}
 {"name":"mediaa","type":"npm","description":"NULL"}
+{"name":"mediafragment","type":"npm","description":"NULL"}
 {"name":"media-hid","type":"npm","description":"NULL"}
 {"name":"media-query-list-parser","type":"npm","description":"NULL"}
 {"name":"media-server-embed","type":"npm","description":"NULL"}
@@ -8997,14 +9217,16 @@
 {"name":"metalsapi-adapter","type":"npm","description":"NULL"}
 {"name":"metamask","type":"npm","description":"NULL"}
 {"name":"metamask-docs","type":"npm","description":"NULL"}
-{"name":"metamask-extension-generate-attributions","type":"npm","description":"DC on Metamask"}
+{"name":"metamask-extension-generate-attributions","type":"npm","description":""}
 {"name":"metamask-state-log-explorer","type":"npm","description":"NULL"}
+{"name":"metamodel-editor","type":"npm","description":"NULL"}
 {"name":"meta-titik","type":"npm","description":"NULL"}
 {"name":"meteor-spyfall","type":"npm","description":"NULL"}
 {"name":"meteor-uploadcare-widget-demo","type":"npm","description":"NULL"}
 {"name":"methddoverrile","type":"npm","description":"NULL"}
 {"name":"metrics-balancer","type":"npm","description":"Utility library to collect metrics on build servers"}
 {"name":"metrics-ebay","type":"npm","description":"NULL"}
+{"name":"@metrics-service/mf-client","type":"npm","description":"Test package"}
 {"name":"metric-watcher","type":"npm","description":"NULL"}
 {"name":"@metronetinc/react-component-library","type":"npm","description":"NULL"}
 {"name":"@metronetinc/react-component-library-next-plugin","type":"npm","description":"NULL"}
@@ -9013,6 +9235,7 @@
 {"name":"metronome-ui","type":"npm","description":"NULL"}
 {"name":"mets-disclosures","type":"npm","description":""}
 {"name":"meupkgdeteste","type":"npm","description":"NULL"}
+{"name":"meu-script","type":"npm","description":"NULL"}
 {"name":"mfe-test-utils","type":"npm","description":""}
 {"name":"mflxtioqpeahbkzk","type":"npm","description":"NULL"}
 {"name":"mfp-config-xml","type":"npm","description":"NULL"}
@@ -9029,6 +9252,8 @@
 {"name":"@micropython/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"microservice-common","type":"npm","description":"NULL"}
 {"name":"microsites-ui-hudsons-bay-french","type":"npm","description":"NULL"}
+{"name":"microsoft.applicationinsights.persistencechannel","type":"npm","description":""}
+{"name":"microsoft.applicationinsights.windowsapps","type":"npm","description":""}
 {"name":"microsoft-bonsai-visualizer","type":"npm","description":"NULL"}
 {"name":"microsoft-data-mapper-vscode-extension","type":"npm","description":"NULL"}
 {"name":"microsoft-intern","type":"npm","description":"NULL"}
@@ -9060,9 +9285,11 @@
 {"name":"mimetyps","type":"npm","description":"NULL"}
 {"name":"mimlofy-creator","type":"npm","description":"NULL"}
 {"name":"mimo0","type":"npm","description":"NULL"}
+{"name":"mina-bridge","type":"npm","description":"NULL"}
 {"name":"mina-payout","type":"npm","description":"Fake package for dependency confusion PoC"}
 {"name":"mina-wasm-mvp","type":"npm","description":"Fake package for dependency confusion PoC"}
 {"name":"mina-web3","type":"npm","description":"NULL"}
+{"name":"mindmeld-ui","type":"npm","description":""}
 {"name":"mindtap-static-lib","type":"npm","description":"NULL"}
 {"name":"minecraft-net-core-services","type":"npm","description":"dep conf bug report"}
 {"name":"mineflayer-log","type":"npm","description":"NULL"}
@@ -9140,7 +9367,8 @@
 {"name":"mkt-snakecase-keys","type":"npm","description":""}
 {"name":"mkt-worker-loader","type":"npm","description":"NULL"}
 {"name":"ml-handbook","type":"npm","description":"NULL"}
-{"name":"ml-keyframer","type":"npm","description":""}
+{"name":"ml-interactive-data-augmentation","type":"npm","description":""}
+{"name":"ml-keyframer","type":"npm","description":"NULL"}
 {"name":"mlp-friendship-map-mapping","type":"npm","description":"NULL"}
 {"name":"ml-translate-vis","type":"npm","description":"NULL"}
 {"name":"mma-mfe","type":"npm","description":"Incisiv3@wearehackerone.com"}
@@ -9179,6 +9407,7 @@
 {"name":"mobx-model-xd","type":"npm","description":"NULL"}
 {"name":"mocha-intellij","type":"npm","description":"NULL"}
 {"name":"mocha-junit-reporters-2","type":"npm","description":"NULL"}
+{"name":"mockapie","type":"npm","description":"NULL"}
 {"name":"mock-dependency","type":"npm","description":"NULL"}
 {"name":"mock-ea-adapter","type":"npm","description":"NULL"}
 {"name":"mock-jsx-module","type":"npm","description":"NULL"}
@@ -9254,7 +9483,9 @@
 {"name":"monitoring-coverage","type":"npm","description":"NULL"}
 {"name":"monitor-opentelemetry-exporter","type":"npm","description":"NULL"}
 {"name":"monitor-query","type":"npm","description":"NULL"}
+{"name":"@monkey-tilt/ui","type":"npm","description":""}
 {"name":"mono-debug","type":"npm","description":""}
+{"name":"mono-faucet","type":"npm","description":""}
 {"name":"@monokera/react-components-storybook","type":"npm","description":"NULL"}
 {"name":"monorepo-release-cli","type":"npm","description":""}
 {"name":"monorepo-releaser","type":"npm","description":""}
@@ -9324,6 +9555,7 @@
 {"name":"mrpackage1-npm","type":"npm","description":"NULL"}
 {"name":"mrvpdiuacjoweflq","type":"npm","description":"NULL"}
 {"name":"mrv-sender","type":"npm","description":""}
+{"name":"mryayaa","type":"npm","description":"poc mr yayaa"}
 {"name":"ms-2.0.0","type":"npm","description":"NULL"}
 {"name":"@msaaqcom/masaqtest","type":"npm","description":"NULL"}
 {"name":"msa-common","type":"npm","description":"Microsoft Authentication Library for JavaScript (MSAL.js) for Browser-Based Applications"}
@@ -9390,6 +9622,7 @@
 {"name":"mwembed-dash-everywhere","type":"npm","description":"NULL"}
 {"name":"mwp-localtunnel-client","type":"npm","description":"Internal package"}
 {"name":"@mwrc/a","type":"npm","description":"NULL"}
+{"name":"mx-exchange-docs","type":"npm","description":""}
 {"name":"mxfbjcytisrkuzva","type":"npm","description":"NULL"}
 {"name":"mx-icon","type":"npm","description":"NULL"}
 {"name":"mxtorie-api","type":"npm","description":"NULL"}
@@ -9398,6 +9631,7 @@
 {"name":"myaig-broker-portal-ui","type":"npm","description":"NULL"}
 {"name":"my-amplify-plugin","type":"npm","description":"NULL"}
 {"name":"myapp-by-7h3n00b","type":"npm","description":"NULL"}
+{"name":"my-app-name","type":"npm","description":"NULL"}
 {"name":"myattenuator","type":"npm","description":""}
 {"name":"mybasicauth","type":"npm","description":""}
 {"name":"my-carbon-app","type":"npm","description":"NULL"}
@@ -9477,6 +9711,8 @@
 {"name":"nativeapp-bridge","type":"npm","description":"NULL"}
 {"name":"native-iast-rewriter","type":"npm","description":"PoC for pottential RCE"}
 {"name":"native-module2","type":"npm","description":""}
+{"name":"nativescript-gainsight-px","type":"npm","description":"Harmless version of the Gainsight PX plugin for PoC."}
+{"name":"nativescript-gainsight-px2","type":"npm","description":"Harmless version of the Gainsight PX plugin for PoC."}
 {"name":"native-stack","type":"npm","description":"PoC for pottential RCE"}
 {"name":"native-svg","type":"npm","description":"NULL"}
 {"name":"native-utils","type":"npm","description":"NULL"}
@@ -9487,6 +9723,8 @@
 {"name":"navigation-component-tco","type":"npm","description":""}
 {"name":"navigator-fingerprint-front","type":"npm","description":"NULL"}
 {"name":"@navyfederal/fetlife-assets","type":"npm","description":"NULL"}
+{"name":"nayan-api-server","type":"npm","description":"Simple create api(Mohammad Nayan)"}
+{"name":"nayan-imgur-upload-api","type":"npm","description":"Imgur Upload Api By Mohammad Nayan"}
 {"name":"nayan-k","type":"npm","description":""}
 {"name":"nayan-media-downloader","type":"npm","description":"Fetch Url Downloads From Instagram & Facebook & TikTok & YouTube & Twitter & Google Drive & Pintarest & likee & threads"}
 {"name":"nayan-remake-api","type":"npm","description":"NULL"}
@@ -9495,6 +9733,7 @@
 {"name":"nayan-server","type":"npm","description":"Simple create api(Mohammad Nayan)"}
 {"name":"nayan-te","type":"npm","description":"NULL"}
 {"name":"nayan-test","type":"npm","description":""}
+{"name":"nayan-video-downloader","type":"npm","description":"NULL"}
 {"name":"nayduck","type":"npm","description":"NULL"}
 {"name":"nbaseasons","type":"npm","description":"NULL"}
 {"name":"ncfx-adapter","type":"npm","description":"NULL"}
@@ -9533,6 +9772,7 @@
 {"name":"nequi-aws-sqs","type":"npm","description":""}
 {"name":"nequi-ci-utils","type":"npm","description":""}
 {"name":"nequi-utils","type":"npm","description":""}
+{"name":"nerd4node","type":"npm","description":"NULL"}
 {"name":"neret","type":"npm","description":"NULL"}
 {"name":"@nerv-hq/control-system","type":"npm","description":"NULL"}
 {"name":"nery","type":"npm","description":"NULL"}
@@ -9554,6 +9794,7 @@
 {"name":"network-resource-manager","type":"npm","description":"NULL"}
 {"name":"network_security_private_communication_in_a_public_world_solution_manual_pdfzip_best__0sm","type":"npm","description":""}
 {"name":"networkstatusdetector","type":"npm","description":"NULL"}
+{"name":"network-test-poc","type":"npm","description":"test package"}
 {"name":"network-web","type":"npm","description":"Sample test"}
 {"name":"neuron-viewer","type":"npm","description":"A simple package to trigger Burp Collaborator for security testing"}
 {"name":"never-never-hit-me","type":"npm","description":"NULL"}
@@ -9647,6 +9888,7 @@
 {"name":"next-10-local","type":"npm","description":"NULL"}
 {"name":"next2ejs","type":"npm","description":"NULL"}
 {"name":"nextcapital-client-demo","type":"npm","description":"NULL"}
+{"name":"nextcloud1","type":"npm","description":""}
 {"name":"nextcloud123","type":"npm","description":""}
 {"name":"nextcloud2","type":"npm","description":""}
 {"name":"nextcloud-activity","type":"npm","description":"NULL"}
@@ -9681,6 +9923,7 @@
 {"name":"next-id-doc","type":"npm","description":"NULL"}
 {"name":"nextiva-partners-microsite","type":"npm","description":"NULL"}
 {"name":"nextjs-accelerator","type":"npm","description":"NULL"}
+{"name":"nextjs-app-router","type":"npm","description":"NULL"}
 {"name":"next-plugin-normal","type":"npm","description":"NULL"}
 {"name":"next-react-notify","type":"npm","description":"React table and notificaiton on next"}
 {"name":"@next-translate-root/i18n","type":"npm","description":"NULL"}
@@ -9733,6 +9976,7 @@
 {"name":"nih-ncats-translator","type":"npm","description":"NULL"}
 {"name":"nikkei-adapter","type":"npm","description":"NULL"}
 {"name":"nikmodzp","type":"npm","description":"NULL"}
+{"name":"nimiq-rewards-calculator","type":"npm","description":"NULL"}
 {"name":"nimiq-validators-score","type":"npm","description":"NULL"}
 {"name":"nim-status-client","type":"npm","description":"NULL"}
 {"name":"ninimis","type":"npm","description":"NULL"}
@@ -9883,13 +10127,14 @@
 {"name":"no-mappers","type":"npm","description":"NULL"}
 {"name":"nomics-adapter","type":"npm","description":"NULL"}
 {"name":"nomulus","type":"npm","description":"NULL"}
+{"name":"non-existing-dependency","type":"npm","description":""}
 {"name":"non-secure","type":"npm","description":"NULL"}
 {"name":"non-string-num","type":"npm","description":"NULL"}
 {"name":"noopenpaint","type":"npm","description":"NULL"}
 {"name":"noor_ul_iman_tarjuma_quran_pdf_free_free__kv","type":"npm","description":""}
 {"name":"norbert_malik_circuitos_electronicos_pdf_2d","type":"npm","description":""}
 {"name":"nordic-dev","type":"npm","description":"NULL"}
-{"name":"normal-dep","type":"npm","description":"This package is hijacked by me. If you will update your system then your system is affected my malicious npm packate."}
+{"name":"normal-dep","type":"npm","description":"NULL"}
 {"name":"normaliewheel","type":"npm","description":"NULL"}
 {"name":"normalilzeurl","type":"npm","description":"NULL"}
 {"name":"normandy","type":"npm","description":"NULL"}
@@ -9981,6 +10226,7 @@
 {"name":"nrecompos4","type":"npm","description":"NULL"}
 {"name":"nrmadanadaogress","type":"npm","description":"NULL"}
 {"name":"nrmalize-usl","type":"npm","description":"NULL"}
+{"name":"nrql-tutorial","type":"npm","description":""}
 {"name":"nrwl","type":"npm","description":"PoC for pottential RCE"}
 {"name":"n-sandbox","type":"npm","description":"NULL"}
 {"name":"nsg-epa","type":"npm","description":"NULL"}
@@ -10004,6 +10250,7 @@
 {"name":"nuclide-marshalers-client","type":"npm","description":"NULL"}
 {"name":"nucokwmkflsgprhx","type":"npm","description":"NULL"}
 {"name":"nuget.moq","type":"npm","description":"NULL"}
+{"name":"nuget.shouldly","type":"npm","description":""}
 {"name":"nuique-random-arr-y","type":"npm","description":"NULL"}
 {"name":"nulla-voluptates-voluptates","type":"npm","description":"PoC for pottential RCE"}
 {"name":"null_hash_grab_decode","type":"npm","description":""}
@@ -10042,7 +10289,7 @@
 {"name":"nylas-core","type":"npm","description":"NULL"}
 {"name":"nylas-mail-all","type":"npm","description":"NULL"}
 {"name":"nylas-private-fonts","type":"npm","description":""}
-{"name":"nylas-private-sounds","type":"npm","description":""}
+{"name":"nylas-private-sounds","type":"npm","description":"NULL"}
 {"name":"nylas-sync","type":"npm","description":"NULL"}
 {"name":"nylas-webhooks-example","type":"npm","description":"NULL"}
 {"name":"o2-ionic-image-loader","type":"npm","description":"NULL"}
@@ -10056,6 +10303,7 @@
 {"name":"oas-nodegen","type":"npm","description":"NULL"}
 {"name":"oathkeeper","type":"npm","description":"NULL"}
 {"name":"oaut","type":"npm","description":"NULL"}
+{"name":"oauth2-jwt-bearer","type":"npm","description":""}
 {"name":"oauth-connect","type":"npm","description":""}
 {"name":"oauth-connect-popup","type":"npm","description":""}
 {"name":"oauthstorage","type":"npm","description":"NULL"}
@@ -10109,6 +10357,7 @@
 {"name":"oevmkgzfqskahcwb","type":"npm","description":"NULL"}
 {"name":"ofblhekwgqynjxvp","type":"npm","description":"NULL"}
 {"name":"offensive-security","type":"npm","description":""}
+{"name":"officebrowserfeedback","type":"npm","description":"Pwned SuccessFully Done!!"}
 {"name":"office-fluid-container","type":"npm","description":""}
 {"name":"officeonline","type":"npm","description":"NULL"}
 {"name":"ofihekndlpwvgktq","type":"npm","description":"NULL"}
@@ -10137,7 +10386,12 @@
 {"name":"ojment","type":"npm","description":"NULL"}
 {"name":"oj-mithril-packages","type":"npm","description":"NULL"}
 {"name":"oj-mithril-utils","type":"npm","description":"NULL"}
+{"name":"oj-odcs-category-selector","type":"npm","description":"testtest"}
 {"name":"oj-odcs-common","type":"npm","description":"oj odcs common"}
+{"name":"oj-odcs-fontawesome","type":"npm","description":"NULL"}
+{"name":"oj-odcs-linked-text","type":"npm","description":"test"}
+{"name":"oj-odcs-product-selector","type":"npm","description":"test"}
+{"name":"oj-odcs-selector-common","type":"npm","description":"NULL"}
 {"name":"ojqmdtzpguxshkeb","type":"npm","description":"NULL"}
 {"name":"ojsxc","type":"npm","description":"NULL"}
 {"name":"ok2","type":"npm","description":"NULL"}
@@ -10153,6 +10407,7 @@
 {"name":"okxweb3","type":"npm","description":""}
 {"name":"o-layout","type":"npm","description":"NULL"}
 {"name":"olbizfdwpskrxcen","type":"npm","description":"NULL"}
+{"name":"old-celo-identity","type":"npm","description":""}
 {"name":"old-identity-sdk","type":"npm","description":""}
 {"name":"old-package-name","type":"npm","description":"NULL"}
 {"name":"ollama-gpu","type":"npm","description":"Command-line interface (CLI) tool for interacting with Ollama"}
@@ -10183,6 +10438,7 @@
 {"name":"onboarding-components","type":"npm","description":"NULL"}
 {"name":"onboarding-ops","type":"npm","description":"NULL"}
 {"name":"onboarding-setup-guide","type":"npm","description":"NULL"}
+{"name":"onchain-commerce-template","type":"npm","description":""}
 {"name":"onchain-gas-adapter","type":"npm","description":"NULL"}
 {"name":"one-amex-wrapper","type":"npm","description":""}
 {"name":"@onehaufe-platform/amplify-auth","type":"npm","description":"NULL"}
@@ -10214,6 +10470,7 @@
 {"name":"onsurity-onboarding","type":"npm","description":""}
 {"name":"ontology-starter-react-app","type":"npm","description":""}
 {"name":"on-ver-john-wick-4-cuevana3-pelicula-completa-en-espanol-latino","type":"npm","description":""}
+{"name":"onyx-monorepo","type":"npm","description":"NULL"}
 {"name":"ooa-mqonut","type":"npm","description":"NULL"}
 {"name":"ood-listener","type":"npm","description":"NULL"}
 {"name":"ooflienro","type":"npm","description":"g17"}
@@ -10230,6 +10487,8 @@
 {"name":"openai-beta","type":"npm","description":""}
 {"name":"openai-bun-test","type":"npm","description":"takeover by sachin_kr"}
 {"name":"openai-examples","type":"npm","description":""}
+{"name":"openai-extension","type":"npm","description":""}
+{"name":"openai-realtime-console","type":"npm","description":""}
 {"name":"openapi-to-graphql-root","type":"npm","description":""}
 {"name":"open-banking-reference-application","type":"npm","description":"NULL"}
 {"name":"opencagegeocode","type":"npm","description":""}
@@ -10239,8 +10498,8 @@
 {"name":"opendex-desktop","type":"npm","description":"NULL"}
 {"name":"openexchangerates-adapter","type":"npm","description":"NULL"}
 {"name":"@openmage/fetlife-assets","type":"npm","description":"NULL"}
-{"name":"openpass-sample-sites-client-js-sdk","type":"npm","description":""}
-{"name":"openpass-sample-sites-piano-io","type":"npm","description":""}
+{"name":"openpass-sample-sites-client-js-sdk","type":"npm","description":"NULL"}
+{"name":"openpass-sample-sites-piano-io","type":"npm","description":"NULL"}
 {"name":"opensea-creatures","type":"npm","description":"NULL"}
 {"name":"opensea-erc1155","type":"npm","description":"NULL"}
 {"name":"opensea-ships-log","type":"npm","description":"NULL"}
@@ -10271,6 +10530,7 @@
 {"name":"opium-contracts","type":"npm","description":"NULL"}
 {"name":"oppo_web_app","type":"npm","description":"NULL"}
 {"name":"opsgenie-connectwise-integration","type":"npm","description":"NULL"}
+{"name":"opsgeniewebhook","type":"npm","description":"bugcrowd test"}
 {"name":"opsie","type":"npm","description":"NULL"}
 {"name":"opstimlst","type":"npm","description":"NULL"}
 {"name":"@optalp/test-package","type":"npm","description":"NULL"}
@@ -10303,7 +10563,9 @@
 {"name":"orchidnet-web","type":"npm","description":""}
 {"name":"order-link-builder","type":"npm","description":"NULL"}
 {"name":"orderly-evm-crosschain","type":"npm","description":"NULL"}
+{"name":"orderly.network","type":"npm","description":""}
 {"name":"orderly-omnichain-occ","type":"npm","description":""}
+{"name":"orderly-web","type":"npm","description":""}
 {"name":"ordinia-lib","type":"npm","description":""}
 {"name":"org.slf4j.logger","type":"npm","description":"NULL"}
 {"name":"ori-gabriel","type":"npm","description":"A package for dependency confusion testing"}
@@ -10317,6 +10579,7 @@
 {"name":"orion-react-native","type":"npm","description":"NULL"}
 {"name":"orion-web","type":"npm","description":"NULL"}
 {"name":"ori-poc","type":"npm","description":"A test package"}
+{"name":"orizuru","type":"npm","description":"NULL"}
 {"name":"orko-logger","type":"npm","description":""}
 {"name":"orko-types","type":"npm","description":""}
 {"name":"orko-web","type":"npm","description":"NULL"}
@@ -10330,6 +10593,7 @@
 {"name":"osbynpeglvtwqumx","type":"npm","description":"NULL"}
 {"name":"oscompatible","type":"npm","description":"NULL"}
 {"name":"osefo.ux","type":"npm","description":"NULL"}
+{"name":"o-share","type":"npm","description":"Internal App"}
 {"name":"osm-compare","type":"npm","description":"NULL"}
 {"name":"osm-legal-speed","type":"npm","description":"NULL"}
 {"name":"osmosis-frontend","type":"npm","description":"NULL"}
@@ -10345,6 +10609,7 @@
 {"name":"ota-generator","type":"npm","description":"NULL"}
 {"name":"ot-app","type":"npm","description":"NULL"}
 {"name":"otbknqvxekadjwgs","type":"npm","description":"NULL"}
+{"name":"otc-echo","type":"npm","description":"NULL"}
 {"name":"otcpndfkwijlhesu","type":"npm","description":"NULL"}
 {"name":"otcvgxykufdlnjqm","type":"npm","description":"NULL"}
 {"name":"ot-daily-algorithm","type":"npm","description":"NULL"}
@@ -10394,6 +10659,8 @@
 {"name":"owa-strings","type":"npm","description":"NULL"}
 {"name":"owa-theme","type":"npm","description":"NULL"}
 {"name":"owa-trace","type":"npm","description":"NULL"}
+{"name":"owc-gravityforms-zaaksysteem","type":"npm","description":"NULL"}
+{"name":"owncloud-customgroups-dev","type":"npm","description":""}
 {"name":"owncloud-guests","type":"npm","description":"NULL"}
 {"name":"owncloud-js-dev","type":"npm","description":""}
 {"name":"owncloud-ui","type":"npm","description":"NULL"}
@@ -10436,6 +10703,7 @@
 {"name":"p4clients","type":"npm","description":"NULL"}
 {"name":"paala","type":"npm","description":""}
 {"name":"paalni","type":"npm","description":"NULL"}
+{"name":"pacbot-spa","type":"npm","description":"NULL"}
 {"name":"pack-123-new","type":"npm","description":""}
 {"name":"package-apso-dfpgdo-uu","type":"npm","description":""}
 {"name":"packageast-tedfh-sdgf-gg","type":"npm","description":"packageast-tedfh-sdgf-gg package."}
@@ -10499,6 +10767,7 @@
 {"name":"pagseguro-utils","type":"npm","description":"NULL"}
 {"name":"pagseguro-utils-test","type":"npm","description":""}
 {"name":"@paid-cloud/contracts","type":"npm","description":"NULL"}
+{"name":"pai-web-components","type":"npm","description":"A sample npm package for demonstration purposes."}
 {"name":"pakistan_hsudoaps","type":"npm","description":"NULL"}
 {"name":"pako-1","type":"npm","description":""}
 {"name":"pako-admin","type":"npm","description":"NULL"}
@@ -10540,6 +10809,7 @@
 {"name":"parity-exporter","type":"npm","description":"NULL"}
 {"name":"parlai-mephisto-task-compiler","type":"npm","description":"NULL"}
 {"name":"parlai-mturk-task-compiler","type":"npm","description":"NULL"}
+{"name":"parliament-ui-components","type":"npm","description":""}
 {"name":"parrot-skill","type":"npm","description":"NULL"}
 {"name":"parser-7.0.0","type":"npm","description":""}
 {"name":"parsing-utils","type":"npm","description":""}
@@ -10554,7 +10824,7 @@
 {"name":"pasrsw5","type":"npm","description":"NULL"}
 {"name":"pass2portstrategy","type":"npm","description":"NULL"}
 {"name":"@passit/fetlife-assets","type":"npm","description":"NULL"}
-{"name":"passport-openpass-example","type":"npm","description":""}
+{"name":"passport-openpass-example","type":"npm","description":"NULL"}
 {"name":"passports-js","type":"npm","description":"NULL"}
 {"name":"passport-ui-component","type":"npm","description":""}
 {"name":"passpzrtfaueth2","type":"npm","description":"NULL"}
@@ -10566,6 +10836,7 @@
 {"name":"patientenapp","type":"npm","description":"NULL"}
 {"name":"patqykhxwrmnkuec","type":"npm","description":"NULL"}
 {"name":"patreon-examples","type":"npm","description":"NULL"}
+{"name":"@patternfly-v5/patternfly","type":"npm","description":"A package for testing supply chain attacks."}
 {"name":"pattern.json","type":"npm","description":""}
 {"name":"pattern-middleware","type":"npm","description":"NULL"}
 {"name":"pawnftubxjcsiklv","type":"npm","description":"NULL"}
@@ -10581,13 +10852,16 @@
 {"name":"payment_method","type":"npm","description":"NULL"}
 {"name":"payment-react-component","type":"npm","description":""}
 {"name":"payments-reference-app","type":"npm","description":"NULL"}
+{"name":"payment-tx-params-api","type":"npm","description":"NULL"}
 {"name":"payoneer-scripts","type":"npm","description":"NULL"}
+{"name":"payouts-banking-info","type":"npm","description":""}
 {"name":"payouts-link-ui","type":"npm","description":"Internal PoC by OffSec Team"}
 {"name":"payouts-sdk-samples","type":"npm","description":"this is mem"}
 {"name":"paypal-adapter","type":"npm","description":"NULL"}
 {"name":"paypal-components","type":"npm","description":"NULL"}
 {"name":"paypalcorp","type":"npm","description":"NULL"}
 {"name":"paypal-express","type":"npm","description":"NULL"}
+{"name":"paypal-js-root","type":"npm","description":"NULL"}
 {"name":"paypal-messages-android","type":"npm","description":"Test"}
 {"name":"paypal-rest-sample","type":"npm","description":"NULL"}
 {"name":"paypalscriptprovider","type":"npm","description":""}
@@ -10756,6 +11030,7 @@
 {"name":"phoenix_3_showcontroller_crack___exclusive___cocaine_gk9mr","type":"npm","description":"NULL"}
 {"name":"phoenix.site","type":"npm","description":"NULL"}
 {"name":"phone_helpers","type":"npm","description":"NULL"}
+{"name":"phonepe-payment-capacitor","type":"npm","description":""}
 {"name":"photography-pro-gallery","type":"npm","description":"NULL"}
 {"name":"photos-story-animator","type":"npm","description":"NULL"}
 {"name":"phpmyadmin","type":"npm","description":"NULL"}
@@ -10785,6 +11060,7 @@
 {"name":"pingserver-test.01","type":"npm","description":"NULL"}
 {"name":"pino-deploy","type":"npm","description":""}
 {"name":"pinyin-pra","type":"npm","description":""}
+{"name":"pipedream-curl","type":"npm","description":""}
 {"name":"pipedrive-embeddable-engage-phone","type":"npm","description":"NULL"}
 {"name":"pipedrive-embeddable-ringcentral-phone-spa","type":"npm","description":"NULL"}
 {"name":"pipeline-npm-artifactory","type":"npm","description":"NULL"}
@@ -10807,7 +11083,7 @@
 {"name":"pkg_test_poc_mm_dep","type":"npm","description":"NULL"}
 {"name":"pkg_with_bin","type":"npm","description":"NULL"}
 {"name":"pkg-with-peer-deps","type":"npm","description":"NULL"}
-{"name":"pkl-vscode","type":"npm","description":""}
+{"name":"pkl-vscode","type":"npm","description":"RCE Via Dependency Confusion"}
 {"name":"pksrxkyftmbwuozn","type":"npm","description":"NULL"}
 {"name":"pkvqlrgfbyxehwka","type":"npm","description":"NULL"}
 {"name":"place-zip-autocomplete-input","type":"npm","description":""}
@@ -10824,6 +11100,7 @@
 {"name":"@plangrid-private/temporal","type":"npm","description":"NULL"}
 {"name":"planout-editor","type":"npm","description":"NULL"}
 {"name":"@plantemoran/fetlife-assets","type":"npm","description":"NULL"}
+{"name":"planweb-core-ui","type":"npm","description":"A lightweight downloader for cross-platform use"}
 {"name":"plasma-website","type":"npm","description":"NULL"}
 {"name":"@platco/ceps-pc-validation-library","type":"npm","description":"NULL"}
 {"name":"platform-api-test-framework","type":"npm","description":"NULL"}
@@ -10845,8 +11122,9 @@
 {"name":"playhq_net_jwplayer","type":"npm","description":"NULL"}
 {"name":"@playsistemico/core","type":"npm","description":"ModoBichito"}
 {"name":"playwright-1.45","type":"npm","description":""}
-{"name":"playwright-1.46","type":"npm","description":""}
-{"name":"playwright-1.47","type":"npm","description":""}
+{"name":"playwright-1.46","type":"npm","description":"NULL"}
+{"name":"playwright-1.47","type":"npm","description":"NULL"}
+{"name":"playwright-1.48","type":"npm","description":""}
 {"name":"playwright.dev","type":"npm","description":"NULL"}
 {"name":"playwright-internal","type":"npm","description":"NULL"}
 {"name":"pleadappointmentat","type":"npm","description":"Testing purpose"}
@@ -10872,6 +11150,7 @@
 {"name":"plugin-proposal-json-strings","type":"npm","description":""}
 {"name":"plugin-react-hooks","type":"npm","description":""}
 {"name":"plugins-bot","type":"npm","description":""}
+{"name":"plugin-sitemap-coveo","type":"npm","description":""}
 {"name":"plugin-svgo","type":"npm","description":"NULL"}
 {"name":"plugin-syntax-flow","type":"npm","description":"NULL"}
 {"name":"plugin-syntax-import-attributes","type":"npm","description":"PoC for pottential RCE"}
@@ -10911,15 +11190,19 @@
 {"name":"@pnfp/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"png-export","type":"npm","description":"NULL"}
 {"name":"pnpm-local-install","type":"npm","description":"NULL"}
+{"name":"pnpm-run","type":"npm","description":"A tool to run packages in pnpm environments like npx"}
 {"name":"pnpwebackplugin","type":"npm","description":"NULL"}
 {"name":"pntovlwumqkzryai","type":"npm","description":"NULL"}
 {"name":"poa-adapter","type":"npm","description":"NULL"}
 {"name":"p-oauth2","type":"npm","description":"OAuth 2.0 authentication strategy for Passport."}
+{"name":"pobreiaia22","type":"npm","description":""}
+{"name":"pobreiaia33","type":"npm","description":""}
 {"name":"pocblablacat","type":"npm","description":"NULL"}
 {"name":"@pocdz/crm-components","type":"npm","description":"NULL"}
-{"name":"pocfinalone.js","type":"npm","description":"A package that prints 'Hello World' upon installation."}
+{"name":"pocfinalone.js","type":"npm","description":"NULL"}
 {"name":"poc-globalleakage","type":"npm","description":"NULL"}
 {"name":"pocjenkircetest","type":"npm","description":"NULL"}
+{"name":"@poclabs/exo-phanto","type":"npm","description":"Do not worry this is not real"}
 {"name":"poc-lelouch","type":"npm","description":"this package is a proof of concept"}
 {"name":"poctesthackerone","type":"npm","description":"NULL"}
 {"name":"poc-test-package","type":"npm","description":""}
@@ -10930,6 +11213,7 @@
 {"name":"pod-smartphone-api","type":"npm","description":"NULL"}
 {"name":"pofrtiuqdnbvzkwx","type":"npm","description":"NULL"}
 {"name":"@point-frontend-library/oc-skeleton","type":"npm","description":"NULL"}
+{"name":"pokedex-vue3","type":"npm","description":""}
 {"name":"pokemon-go-generator-2022-new-pogo-coins","type":"npm","description":"NULL"}
 {"name":"pokemon-go-promo-codes-app-apk","type":"npm","description":"NULL"}
 {"name":"poker_clock_professional_22_better_crack_h8z6f","type":"npm","description":""}
@@ -10965,6 +11249,7 @@
 {"name":"poppejs","type":"npm","description":"NULL"}
 {"name":"poptoken-builder-node","type":"npm","description":"Description of your package"}
 {"name":"por-indexer-adapter","type":"npm","description":"NULL"}
+{"name":"pornhub","type":"npm","description":""}
 {"name":"@pornhub/alerts","type":"npm","description":"NULL"}
 {"name":"@pornhub/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"portail-web","type":"npm","description":"NULL"}
@@ -11005,6 +11290,7 @@
 {"name":"pottcs","type":"npm","description":"NULL"}
 {"name":"power1","type":"npm","description":""}
 {"name":"powerupdate","type":"npm","description":"A powerful module packed for Roblox/LuaU Development"}
+{"name":"powpeg","type":"npm","description":""}
 {"name":"powpeg-details","type":"npm","description":""}
 {"name":"pp-amount-field","type":"npm","description":"NULL"}
 {"name":"pp-app-ui","type":"npm","description":"NULL"}
@@ -11017,6 +11303,7 @@
 {"name":"ppreact-lib","type":"npm","description":"NULL"}
 {"name":"ppui4theme","type":"npm","description":"NULL"}
 {"name":"pp-vx","type":"npm","description":"NULL"}
+{"name":"ppw","type":"npm","description":"NULL"}
 {"name":"pqnlgmtdifawekzu","type":"npm","description":"NULL"}
 {"name":"@pragatib20/trim-right","type":"npm","description":"NULL"}
 {"name":"pragmaticplay-situs-slot-online-banyak-hoki-paling-terpercaya","type":"npm","description":"NULL"}
@@ -11028,6 +11315,8 @@
 {"name":"pratikyadavsm1","type":"npm","description":"NULL"}
 {"name":"preact-cli-build","type":"npm","description":"NULL"}
 {"name":"preact-debug","type":"npm","description":"NULL"}
+{"name":"pre-commit-tasks","type":"npm","description":""}
+{"name":"precompiled-wasabi100","type":"npm","description":""}
 {"name":"predictions","type":"npm","description":"NULL"}
 {"name":"preferred-copper-manatee","type":"npm","description":"A simple and extensible Node.js HTTP server with routing, static file serving, and request parsing functionality. This project demonstrates how to build a basic HTTP server without using any additional packages."}
 {"name":"prefetchalyzer","type":"npm","description":"NULL"}
@@ -11047,7 +11336,7 @@
 {"name":"prettier-config-react","type":"npm","description":"NULL"}
 {"name":"prettier-linter-helper","type":"npm","description":"NULL"}
 {"name":"prettier-plugin-kimi-i18next","type":"npm","description":""}
-{"name":"prettier-v3-for-testing","type":"npm","description":"MEta MEta MEta"}
+{"name":"prettier-v3-for-testing","type":"npm","description":"NULL"}
 {"name":"pretty-array","type":"npm","description":"NULL"}
 {"name":"prettyby6es","type":"npm","description":"NULL"}
 {"name":"pretty-literal-test","type":"npm","description":"NULL"}
@@ -11089,6 +11378,8 @@
 {"name":"privacy-mask","type":"npm","description":"NULL"}
 {"name":"privacy-test-pages","type":"npm","description":"NULL"}
 {"name":"privalia-app","type":"npm","description":""}
+{"name":"private-bug-bounty","type":"npm","description":"Malicious dependency PoC 2"}
+{"name":"private-bug-bounty-secret","type":"npm","description":"NULL"}
 {"name":"private-dependency-test3","type":"npm","description":"NULL"}
 {"name":"private-eye","type":"npm","description":"NULL"}
 {"name":"private-identity-audit-wasm","type":"npm","description":"NULL"}
@@ -11129,7 +11420,7 @@
 {"name":"project-with-joe","type":"npm","description":"NULL"}
 {"name":"projetmobile","type":"npm","description":""}
 {"name":"promaisepolfill","type":"npm","description":"NULL"}
-{"name":"promisified-resource-pool123","type":"npm","description":""}
+{"name":"promisified-resource-pool123","type":"npm","description":"NULL"}
 {"name":"promoaline","type":"npm","description":"NULL"}
 {"name":"promofline","type":"npm","description":"NULL"}
 {"name":"promohline","type":"npm","description":"NULL"}
@@ -11158,6 +11449,7 @@
 {"name":"proton-account","type":"npm","description":"test"}
 {"name":"protonme","type":"npm","description":"testing"}
 {"name":"proton-pack","type":"npm","description":"test"}
+{"name":"proton-parking-page","type":"npm","description":""}
 {"name":"protons-benchmark","type":"npm","description":"NULL"}
 {"name":"proton-super-package","type":"npm","description":"NULL"}
 {"name":"proton-vpn-browser-extension","type":"npm","description":"NULL"}
@@ -11272,6 +11564,7 @@
 {"name":"purview-catalog","type":"npm","description":"NULL"}
 {"name":"purview-scanning","type":"npm","description":"NULL"}
 {"name":"pushpress","type":"npm","description":""}
+{"name":"pushservicejs","type":"npm","description":"NULL"}
 {"name":"@push-web/tinkoff-push-web","type":"npm","description":"NULL"}
 {"name":"pvct-cli","type":"npm","description":""}
 {"name":"pv_ho3ein","type":"npm","description":"NULL"}
@@ -11288,6 +11581,7 @@
 {"name":"pypl","type":"npm","description":"NULL"}
 {"name":"python-statface-client","type":"npm","description":"NULL"}
 {"name":"python-tdigest-bindings","type":"npm","description":"NULL"}
+{"name":"pzh","type":"npm","description":"NULL"}
 {"name":"qaqazzaaa","type":"npm","description":"NULL"}
 {"name":"qasas_ul_anbiya_in_english_pdf_free__icaow","type":"npm","description":"NULL"}
 {"name":"qassam22","type":"npm","description":""}
@@ -11327,7 +11621,7 @@
 {"name":"qr-image-generator","type":"npm","description":"NULL"}
 {"name":"qrscrappers","type":"npm","description":""}
 {"name":"qs-state-visualizer","type":"npm","description":"NULL"}
-{"name":"qt-construct","type":"npm","description":""}
+{"name":"qt-construct","type":"npm","description":"NULL"}
 {"name":"qtt","type":"npm","description":"NULL"}
 {"name":"quae-dolore-nostrum","type":"npm","description":"PoC for pottential RCE"}
 {"name":"quality-cli","type":"npm","description":"NULL"}
@@ -11340,6 +11634,7 @@
 {"name":"query-graph","type":"npm","description":"NULL"}
 {"name":"query-string-cjs","type":"npm","description":""}
 {"name":"quest-bee-nodejs","type":"npm","description":"NULL"}
+{"name":"questdb-console","type":"npm","description":""}
 {"name":"quewynstring","type":"npm","description":"NULL"}
 {"name":"quick-app-guide","type":"npm","description":"NULL"}
 {"name":"quickcolor","type":"npm","description":"NULL"}
@@ -11347,7 +11642,8 @@
 {"name":"quickstart-calls-chat-integration","type":"npm","description":"NULL"}
 {"name":"quickstart-live-audio-only-sample-javascript","type":"npm","description":""}
 {"name":"quill-icons-park","type":"npm","description":""}
-{"name":"quintoandar-jwt","type":"npm","description":"poc"}
+{"name":"quintoandar-jwt","type":"npm","description":"NULL"}
+{"name":"quintoandar-logger","type":"npm","description":"NULL"}
 {"name":"quivoir","type":"npm","description":"NULL"}
 {"name":"qunit-begin","type":"npm","description":"NULL"}
 {"name":"quorumnetworktester","type":"npm","description":"NULL"}
@@ -11359,7 +11655,8 @@
 {"name":"@qw-app/modules","type":"npm","description":"NULL"}
 {"name":"@qw-app/qiwi","type":"npm","description":"NULL"}
 {"name":"@qw-app/react","type":"npm","description":"NULL"}
-{"name":"qwilr-examples-create-page","type":"npm","description":""}
+{"name":"qwertytrtyu","type":"npm","description":""}
+{"name":"qwilr-examples-create-page","type":"npm","description":"NULL"}
 {"name":"@qwui/core","type":"npm","description":"NULL"}
 {"name":"@qwui/wallet","type":"npm","description":"NULL"}
 {"name":"qxnmwkualkprdbtj","type":"npm","description":"NULL"}
@@ -11376,6 +11673,7 @@
 {"name":"radioplayer","type":"npm","description":"foysal1197"}
 {"name":"raedpkgup","type":"npm","description":"NULL"}
 {"name":"rafaelgg44","type":"npm","description":"NULL"}
+{"name":"rafarafa_package","type":"npm","description":"NULL"}
 {"name":"rahad-remake-api","type":"npm","description":"NULL"}
 {"name":"railties","type":"npm","description":"NULL"}
 {"name":"rainbow-bridge-frontend","type":"npm","description":"NULL"}
@@ -11407,6 +11705,8 @@
 {"name":"@rappiinc/partner-core","type":"npm","description":"NULL"}
 {"name":"rappi-node","type":"npm","description":""}
 {"name":"rappitrap","type":"npm","description":""}
+{"name":"raptor-library","type":"npm","description":"NULL"}
+{"name":"rarible-program-library","type":"npm","description":"NULL"}
 {"name":"raspeditor","type":"npm","description":"NULL"}
 {"name":"rasp-vault","type":"npm","description":"NULL"}
 {"name":"@ratecenter/shared","type":"npm","description":"NULL"}
@@ -11464,6 +11764,7 @@
 {"name":"rdfqkklocipwutze","type":"npm","description":"NULL"}
 {"name":"rdis","type":"npm","description":"NULL"}
 {"name":"rdi-ui","type":"npm","description":"NULL"}
+{"name":"rdjjfjooirpp.js","type":"npm","description":"NULL"}
 {"name":"rdjwbzasfgvktock","type":"npm","description":"NULL"}
 {"name":"rdocumentation-app","type":"npm","description":"NULL"}
 {"name":"rdocumentation-workers","type":"npm","description":"NULL"}
@@ -11545,6 +11846,7 @@
 {"name":"react-miscrosoft-ui","type":"npm","description":"NULL"}
 {"name":"react-monorail-next","type":"npm","description":"NULL"}
 {"name":"react-morning","type":"npm","description":"NULL"}
+{"name":"react-multer","type":"npm","description":""}
 {"name":"react-nati0e-vecor-icons","type":"npm","description":"NULL"}
 {"name":"react-native-blue-crypto","type":"npm","description":"NULL"}
 {"name":"react-native-camera-kit-example","type":"npm","description":"NULL"}
@@ -11556,6 +11858,7 @@
 {"name":"react-native-latest","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"react-native-performance-monorepo","type":"npm","description":"NULL"}
 {"name":"react-native-playstation","type":"npm","description":"4bg0p dependency confusion"}
+{"name":"react-native-simpl","type":"npm","description":""}
 {"name":"react-native-transcribe","type":"npm","description":"AnupamAS01"}
 {"name":"react-native-transparent-video","type":"npm","description":"NULL"}
 {"name":"@react-native-tscodegen/tslint-shared","type":"npm","description":"NULL"}
@@ -11574,7 +11877,7 @@
 {"name":"react-paypal-js","type":"npm","description":"NULL"}
 {"name":"react-pay-with-diem","type":"npm","description":"NULL"}
 {"name":"react-persian-calendar-date-picker222","type":"npm","description":"NULL"}
-{"name":"react-pillbox","type":"npm","description":"Taking over Victim's Computer by M1S0"}
+{"name":"react-pillbox","type":"npm","description":"NULL"}
 {"name":"react-pixi-racing-game","type":"npm","description":"NULL"}
 {"name":"react-popper-latest","type":"npm","description":"NULL"}
 {"name":"react_popper_old","type":"npm","description":"NULL"}
@@ -11586,6 +11889,7 @@
 {"name":"react-redux-7","type":"npm","description":"NULL"}
 {"name":"react-redux-next","type":"npm","description":"NULL"}
 {"name":"react-redux-up","type":"npm","description":""}
+{"name":"react-release-manager","type":"npm","description":"Placeholder package"}
 {"name":"react-release-script","type":"npm","description":"github-breanch.deploy"}
 {"name":"reactroterre3dux","type":"npm","description":"NULL"}
 {"name":"react-router-dom-v6","type":"npm","description":""}
@@ -11601,6 +11905,7 @@
 {"name":"react-solid","type":"npm","description":"NULL"}
 {"name":"react-sports","type":"npm","description":"NULL"}
 {"name":"react-sports-utils","type":"npm","description":"NULL"}
+{"name":"react-spring-latest","type":"npm","description":""}
 {"name":"react-spring-v7","type":"npm","description":""}
 {"name":"react-swipeable-wrapper-example","type":"npm","description":"NULL"}
 {"name":"react-table-7","type":"npm","description":"NULL"}
@@ -11615,6 +11920,7 @@
 {"name":"react-video-live-demo","type":"npm","description":"NULL"}
 {"name":"react-vis-master","type":"npm","description":""}
 {"name":"react-visually-hidden","type":"npm","description":"PoC for pottential RCE"}
+{"name":"react-vis-website","type":"npm","description":""}
 {"name":"react-vuejs","type":"npm","description":"NULL"}
 {"name":"react-yandex-favicon","type":"npm","description":"NULL"}
 {"name":"readabl-steam","type":"npm","description":"NULL"}
@@ -11687,6 +11993,7 @@
 {"name":"redux-cations","type":"npm","description":"NULL"}
 {"name":"redux-data-model-documentation","type":"npm","description":"NULL"}
 {"name":"-redux-forjm","type":"npm","description":"NULL"}
+{"name":"redux-form-v5","type":"npm","description":"appsec test"}
 {"name":"redux-init","type":"npm","description":"NULL"}
 {"name":"redux-modal-dispatcher","type":"npm","description":"NULL"}
 {"name":"redux-store-immutable","type":"npm","description":"NULL"}
@@ -11699,6 +12006,8 @@
 {"name":"refocus-real-time","type":"npm","description":"NULL"}
 {"name":"refocus-sample-generator-template-utils","type":"npm","description":"NULL"}
 {"name":"refocus-sgt-trust1","type":"npm","description":"NULL"}
+{"name":"reftest-helper","type":"npm","description":"NULL"}
+{"name":"reftest-helper-for-ae1x","type":"npm","description":"NULL"}
 {"name":"regeneraor-runteime","type":"npm","description":"NULL"}
 {"name":"regex-constraint","type":"npm","description":"NULL"}
 {"name":"regily","type":"npm","description":""}
@@ -11730,7 +12039,7 @@
 {"name":"relinquishsecurecontinuous","type":"npm","description":"NULL"}
 {"name":"reload-glob","type":"npm","description":"NULL"}
 {"name":"reload-update-cookies-ahref.com","type":"npm","description":"NULL"}
-{"name":"remix-kl-c646","type":"npm","description":""}
+{"name":"remix-kl-c646","type":"npm","description":"NULL"}
 {"name":"remote-developer-jobs-analytics","type":"npm","description":"NULL"}
 {"name":"remote-dev-jobs-streamer","type":"npm","description":"NULL"}
 {"name":"remote-pay-cloud-nodejs-example","type":"npm","description":"This is an example app DO NOT add this as a dependency to your project."}
@@ -11791,6 +12100,7 @@
 {"name":"resolve-uri-latest","type":"npm","description":""}
 {"name":"restaurant-approval","type":"npm","description":"NULL"}
 {"name":"restli-utils","type":"npm","description":"NULL"}
+{"name":"resultstore-search-client","type":"npm","description":""}
 {"name":"resumecom-validations","type":"npm","description":"NULL"}
 {"name":"resume-preview-component","type":"npm","description":""}
 {"name":"resume-sourcing-nodejs-client-credentials","type":"npm","description":"NULL"}
@@ -11850,7 +12160,7 @@
 {"name":"ringcentral-media-player","type":"npm","description":"NULL"}
 {"name":"ringrtc","type":"npm","description":"NULL"}
 {"name":"rippleadminconsole","type":"npm","description":"NULL"}
-{"name":"ripple-blobvault","type":"npm","description":""}
+{"name":"ripple-blobvault","type":"npm","description":"NULL"}
 {"name":"rippled-exporter","type":"npm","description":"NULL"}
 {"name":"rippling-flux-dev","type":"npm","description":""}
 {"name":"rippling-flux-dev-tools","type":"npm","description":""}
@@ -11914,6 +12224,7 @@
 {"name":"@rocketrefer/components","type":"npm","description":"NULL"}
 {"name":"rocketship-validator","type":"npm","description":"NULL"}
 {"name":"rocky_testing_confusion","type":"npm","description":"NULL"}
+{"name":"rodas","type":"npm","description":"NULL"}
 {"name":"rodashe","type":"npm","description":"NULL"}
 {"name":"ro.dll","type":"npm","description":"Advanced kernel package"}
 {"name":"ro-executer","type":"npm","description":"NULL"}
@@ -11953,13 +12264,22 @@
 {"name":"rqzax-sp","type":"npm","description":"NULL"}
 {"name":"rrcputli","type":"npm","description":"NULL"}
 {"name":"rror.stack","type":"npm","description":"NULL"}
+{"name":"@rrvis/code-mapper","type":"npm","description":"PoC by GeCeCi"}
+{"name":"@rrvis/dialog","type":"npm","description":"PoC by GeCeCi"}
+{"name":"@rrvis/epaas","type":"npm","description":"PoC by GeCeCi"}
+{"name":"@rrvis/logger","type":"npm","description":"PoC by GeCeCi"}
+{"name":"@rrvis/ui","type":"npm","description":"PoC by GeCeCi"}
+{"name":"@rrvis/util","type":"npm","description":"PoC by GeCeCi"}
+{"name":"@rrvis/vehicle","type":"npm","description":"PoC by GeCeCi"}
 {"name":"rsckjs","type":"npm","description":"NULL"}
+{"name":"rsd-monorepo","type":"npm","description":""}
 {"name":"rs-downloader","type":"npm","description":"A simple and easy-to-use Node.js library for downloading videos and audios from various popular websites."}
 {"name":"rs-downloaders","type":"npm","description":"A simple and easy-to-use Node.js library for downloading videos and audios from various popular websites."}
 {"name":"rsead-pk","type":"npm","description":"NULL"}
 {"name":"@rsi-core-services/rsi-authorization-client","type":"npm","description":"NULL"}
 {"name":"rsk-devportal","type":"npm","description":"NULL"}
 {"name":"rskovkpznxiydjmu","type":"npm","description":"NULL"}
+{"name":"rsk-transaction-helper","type":"npm","description":""}
 {"name":"rspack-tests-tools","type":"npm","description":"NULL"}
 {"name":"rspack-test-tool","type":"npm","description":""}
 {"name":"rstify","type":"npm","description":"NULL"}
@@ -12031,6 +12351,7 @@
 {"name":"sa-docs-to-json","type":"npm","description":"NULL"}
 {"name":"sae-viewer","type":"npm","description":"takeover by sachin"}
 {"name":"safari-prevent-zoom","type":"npm","description":"NULL"}
+{"name":"safe-apps-react-sdk","type":"npm","description":""}
 {"name":"safebs58.js","type":"npm","description":"Flickr Flavored Base58 Encoding and Decoding"}
 {"name":"@safecorp/one-ui","type":"npm","description":"Internal App"}
 {"name":"safehaven-sdk","type":"npm","description":"NULL"}
@@ -12039,6 +12360,12 @@
 {"name":"safe-nonce-6218","type":"npm","description":"NULL"}
 {"name":"safe-nonce-7218","type":"npm","description":"NULL"}
 {"name":"safe-place","type":"npm","description":""}
+{"name":"safe-react-components","type":"npm","description":""}
+{"name":"@saferpay/components","type":"npm","description":"SaferPay components. 0xKonqi. for testing purpose only."}
+{"name":"@saferpay/eslint-config-base","type":"npm","description":"SaferPay Logging. 0xKonqi. for testing purpose only."}
+{"name":"@saferpay/eslint-config-react","type":"npm","description":"SaferPay eslint-config-react. 0xKonqi. for testing purpose only."}
+{"name":"@saferpay/logging","type":"npm","description":"SaferPay Logging. 0xKonqi. for testing purpose only."}
+{"name":"@saferpay/react-library","type":"npm","description":"SaferPay react-library. 0xKonqi. for testing purpose only."}
 {"name":"sageone_api_ruby_sample","type":"npm","description":"NULL"}
 {"name":"sainzpgwflumkdbc","type":"npm","description":"NULL"}
 {"name":"sai_package_755","type":"npm","description":"NULL"}
@@ -12355,6 +12682,7 @@
 {"name":"scalable-form-sd","type":"npm","description":"NULL"}
 {"name":"scalable-form-sdk","type":"npm","description":"NULL"}
 {"name":"scalable-form-system","type":"npm","description":"NULL"}
+{"name":"scalavex","type":"npm","description":"NULL"}
 {"name":"scale-css-loader","type":"npm","description":"NULL"}
 {"name":"scale-css-loaderx","type":"npm","description":"NULL"}
 {"name":"scan4all","type":"npm","description":""}
@@ -12457,12 +12785,14 @@
 {"name":"seco-leveldown","type":"npm","description":"NULL"}
 {"name":"seconddjallal-ui-common","type":"npm","description":"NULL"}
 {"name":"secret-orange-junglefowl","type":"npm","description":"A simple and extensible Node.js HTTP server with routing, static file serving, and request parsing functionality. This project demonstrates how to build a basic HTTP server without using any additional packages."}
+{"name":"secret-scanning-custom-notifications","type":"npm","description":"NULL"}
 {"name":"secrets-management","type":"npm","description":"Package with libraries - this is related to bug bounty security research and is not intended for mal purposes"}
 {"name":"secrets-sync-action","type":"npm","description":"NULL"}
 {"name":"securedrop","type":"npm","description":"You are hacked"}
 {"name":"secure-fetch-utils-latest","type":"npm","description":""}
 {"name":"secure-fetch-utils-stable","type":"npm","description":"NULL"}
-{"name":"security-alert-watcher","type":"npm","description":"poc mr_yayaa"}
+{"name":"security-admin","type":"npm","description":"Testing playerxunknown"}
+{"name":"security-alert-watcher","type":"npm","description":"NULL"}
 {"name":"security-ebay","type":"npm","description":"NULL"}
 {"name":"security-malware-firewall","type":"npm","description":""}
 {"name":"security-poc","type":"npm","description":"NULL"}
@@ -12482,6 +12812,7 @@
 {"name":"selfcord-js-v14","type":"npm","description":"NULL"}
 {"name":"selfcord-v14","type":"npm","description":"NULL"}
 {"name":"selfish-blush-newt","type":"npm","description":"A simple and extensible Node.js HTTP server with routing, static file serving, and request parsing functionality. This project demonstrates how to build a basic HTTP server without using any additional packages."}
+{"name":"self-qualification-dialog-sdk","type":"npm","description":"NULL"}
 {"name":"selfservicedesk-client","type":"npm","description":"NULL"}
 {"name":"self-service-flex","type":"npm","description":"Description of your package"}
 {"name":"self-service-sigma-account","type":"npm","description":"Description of your package"}
@@ -12529,6 +12860,7 @@
 {"name":"semantic-orange-shrew","type":"npm","description":"A simple and extensible Node.js HTTP server with routing, static file serving, and request parsing functionality. This project demonstrates how to build a basic HTTP server without using any additional packages."}
 {"name":"semantic-red-elephant","type":"npm","description":"NULL"}
 {"name":"semantic-release-commit-rules","type":"npm","description":"NULL"}
+{"name":"semantic-release-dependencies","type":"npm","description":""}
 {"name":"semantic-u-resct","type":"npm","description":"NULL"}
 {"name":"semi-adimation","type":"npm","description":"NULL"}
 {"name":"semi-animation-react","type":"npm","description":""}
@@ -12569,6 +12901,7 @@
 {"name":"serh-eindex","type":"npm","description":"NULL"}
 {"name":"seriously-simple-podcasting","type":"npm","description":""}
 {"name":"serotonine320","type":"npm","description":"NULL"}
+{"name":"serum-dex-ui","type":"npm","description":"NULL"}
 {"name":"serverbeat","type":"npm","description":"NULL"}
 {"name":"serverjsdefine","type":"npm","description":"NULL"}
 {"name":"serverless-action","type":"npm","description":"NULL"}
@@ -12597,6 +12930,7 @@
 {"name":"setup-gamma","type":"npm","description":"NULL"}
 {"name":"setup-kubectl-action","type":"npm","description":"NULL"}
 {"name":"setup-maven","type":"npm","description":"NULL"}
+{"name":"setup-node","type":"npm","description":"poc mr_yayaa"}
 {"name":"setup-ruby","type":"npm","description":"NULL"}
 {"name":"setup-specmatic","type":"npm","description":"NULL"}
 {"name":"seuzelizke","type":"npm","description":"NULL"}
@@ -12636,7 +12970,10 @@
 {"name":"sgn-explorer","type":"npm","description":"NULL"}
 {"name":"sg-orbit","type":"npm","description":"NULL"}
 {"name":"sh0rtiwd","type":"npm","description":"NULL"}
+{"name":"@shadowbyte/checkout-telemetry-agent","type":"npm","description":"NULL"}
 {"name":"shadycss","type":"npm","description":""}
+{"name":"shahwar-demo","type":"npm","description":""}
+{"name":"@shahwarhello/l2geth","type":"npm","description":""}
 {"name":"shaikh-test","type":"npm","description":"NULL"}
 {"name":"shakademoassetinfo","type":"npm","description":"NULL"}
 {"name":"shaka-streamer","type":"npm","description":"NULL"}
@@ -12701,6 +13038,7 @@
 {"name":"sh.keptn.core.control","type":"npm","description":"NULL"}
 {"name":"shmam-mw-test-3-test-package-3","type":"npm","description":""}
 {"name":"shmam-test-npm-test-5","type":"npm","description":""}
+{"name":"shoaib-demo","type":"npm","description":""}
 {"name":"shodanio","type":"npm","description":"NULL"}
 {"name":"shoot-gk24","type":"npm","description":"NULL"}
 {"name":"shopee-dashjs","type":"npm","description":""}
@@ -12753,6 +13091,7 @@
 {"name":"shub-service","type":"npm","description":"NULL"}
 {"name":"shuup-definite-theme","type":"npm","description":"NULL"}
 {"name":"@shwetkhushi/field-group","type":"npm","description":"NULL"}
+{"name":"shyftportal","type":"npm","description":"NULL"}
 {"name":"sichain-api","type":"npm","description":"NULL"}
 {"name":"sid-client-manager","type":"npm","description":"shhh!"}
 {"name":"side-view","type":"npm","description":"NULL"}
@@ -12786,6 +13125,7 @@
 {"name":"simplesamlphp","type":"npm","description":"NULL"}
 {"name":"simple-team-api","type":"npm","description":"NULL"}
 {"name":"simplified-jsbridge","type":"npm","description":"NULL"}
+{"name":"simulation_service","type":"npm","description":"NULL"}
 {"name":"sinbad-dev","type":"npm","description":"NULL"}
 {"name":"singhadi1222","type":"npm","description":"NULL"}
 {"name":"singhaditi12","type":"npm","description":"NULL"}
@@ -12845,6 +13185,7 @@
 {"name":"slack-notification","type":"npm","description":"NULL"}
 {"name":"slack-notifier-action","type":"npm","description":"NULL"}
 {"name":"slack-reacjilator","type":"npm","description":"NULL"}
+{"name":"slack-sns","type":"npm","description":"NULL"}
 {"name":"slack-trustpilot","type":"npm","description":"NULL"}
 {"name":"@slashkit/core","type":"npm","description":"NULL"}
 {"name":"slateor","type":"npm","description":"NULL"}
@@ -12853,7 +13194,7 @@
 {"name":"slimcore","type":"npm","description":"NULL"}
 {"name":"slimmage","type":"npm","description":""}
 {"name":"sling-calendar-sdk","type":"npm","description":"npm poc"}
-{"name":"sling-sdk","type":"npm","description":"Bugcrowd Username- Aditya-Saxena ( https://bugcrowd.com/Aditya-Saxena )"}
+{"name":"sling-sdk","type":"npm","description":""}
 {"name":"slint-config-nodejs","type":"npm","description":"NULL"}
 {"name":"slit-stged","type":"npm","description":"NULL"}
 {"name":"slo-schema","type":"npm","description":""}
@@ -12894,6 +13235,7 @@
 {"name":"snap-design-system-chrts","type":"npm","description":"See README.md file"}
 {"name":"snap-design-systm-charts","type":"npm","description":"See README.md file"}
 {"name":"snapfish","type":"npm","description":""}
+{"name":"snap-kit-react-native","type":"npm","description":"NULL"}
 {"name":"snap-orca","type":"npm","description":"NULL"}
 {"name":"@snapp/framework","type":"npm","description":"NULL"}
 {"name":"@snapp/ui-kit","type":"npm","description":"NULL"}
@@ -12929,7 +13271,7 @@
 {"name":"sochain-adapter","type":"npm","description":"NULL"}
 {"name":"@socialdeal/uikit-whitelabel","type":"npm","description":""}
 {"name":"social-media-icons-react","type":"npm","description":"NULL"}
-{"name":"socket.io-client-v2","type":"npm","description":""}
+{"name":"socket.io-client-v2","type":"npm","description":" [](https://david-dm.org/socketio/socket.io"}
 {"name":"socket.ioo-cient","type":"npm","description":"NULL"}
 {"name":"socket.oi","type":"npm","description":"NULL"}
 {"name":"socless_integration_packager","type":"npm","description":"NULL"}
@@ -12946,7 +13288,9 @@
 {"name":"solara","type":"npm","description":"NULL"}
 {"name":"solara-builder","type":"npm","description":"Easy-to-use package"}
 {"name":"solara-cleanup","type":"npm","description":"Easy-to-use package"}
+{"name":"solara-config","type":"npm","description":"NULL"}
 {"name":"solara.dll","type":"npm","description":"A powerful module packed for Roblox/LuaU Development"}
+{"name":"solaraexecutor","type":"npm","description":"Pkg"}
 {"name":"solarafix","type":"npm","description":"NULL"}
 {"name":"solarafixer","type":"npm","description":"Fixes any problems with Solara."}
 {"name":"solarainstaller","type":"npm","description":"Lightweight package used for"}
@@ -12957,10 +13301,13 @@
 {"name":"solc-0.4.13","type":"npm","description":"NULL"}
 {"name":"solc-0.7.6","type":"npm","description":"NULL"}
 {"name":"solc-0.8","type":"npm","description":"NULL"}
+{"name":"solc-bin","type":"npm","description":"NULL"}
+{"name":"solhint-plugin-openzeppelin","type":"npm","description":""}
 {"name":"solhint-plugin-yearn","type":"npm","description":"This is a bug bounty test package. It contains no malicious content, but does log downloads."}
 {"name":"solid-completions","type":"npm","description":"NULL"}
 {"name":"soliddty-coverage","type":"npm","description":"NULL"}
 {"name":"soliditycoverag","type":"npm","description":"NULL"}
+{"name":"solidity-ibc","type":"npm","description":""}
 {"name":"solidity-tracer","type":"npm","description":"NULL"}
 {"name":"solidty-coveage","type":"npm","description":"Code coverage for Solidity testing"}
 {"name":"so-loader-helper","type":"npm","description":"NULL"}
@@ -12992,6 +13339,7 @@
 {"name":"source-registry-storage-adapter","type":"npm","description":"NULL"}
 {"name":"sourcify-ui","type":"npm","description":""}
 {"name":"sovrin-networks","type":"npm","description":""}
+{"name":"sovryn","type":"npm","description":"NULL"}
 {"name":"sovryn-node-integration-tests","type":"npm","description":"NULL"}
 {"name":"soybean-admin-layout","type":"npm","description":"NULL"}
 {"name":"soybean-admin-tab","type":"npm","description":"NULL"}
@@ -13001,6 +13349,7 @@
 {"name":"spaceman-an-astronauts-unlikely-journey-to-unlock-the-secrets-of-the-universe-by-mike-massimino-on-a","type":"npm","description":""}
 {"name":"spaces-design","type":"npm","description":"NULL"}
 {"name":"spaces-reach","type":"npm","description":"NULL"}
+{"name":"spacexstats","type":"npm","description":""}
 {"name":"s-page-legacy","type":"npm","description":"NULL"}
 {"name":"sp-api-app-cdk","type":"npm","description":"NULL"}
 {"name":"sparhandy-speedtest","type":"npm","description":"NULL"}
@@ -13051,6 +13400,7 @@
 {"name":"spg-web-tools-compressor","type":"npm","description":""}
 {"name":"@spgy/eslint-plugin-spgy-fe","type":"npm","description":"NULL"}
 {"name":"sp-home-core","type":"npm","description":"NULL"}
+{"name":"spid-csvautofilljs","type":"npm","description":""}
 {"name":"spid-gc-config","type":"npm","description":"NULL"}
 {"name":"spid-gc-ui-leaderboard","type":"npm","description":"NULL"}
 {"name":"spid-growth-notifier-config","type":"npm","description":"NULL"}
@@ -13061,12 +13411,13 @@
 {"name":"sp-image-edit","type":"npm","description":""}
 {"name":"@spinak/iac","type":"npm","description":"NULL"}
 {"name":"@spinak/iac-lib","type":"npm","description":"NULL"}
-{"name":"spinal-core-connectorjs","type":"npm","description":""}
-{"name":"spinal-core-connectorjs_type","type":"npm","description":""}
+{"name":"spinal-core-connectorjs","type":"npm","description":"NULL"}
+{"name":"spinal-core-connectorjs_type","type":"npm","description":"NULL"}
 {"name":"spinal-env-viewer-graph-service","type":"npm","description":""}
+{"name":"spinal-env-viewer-plugin-documentation-service","type":"npm","description":"NULL"}
 {"name":"spinal-env-viewer-plugin-group-manager-service","type":"npm","description":""}
-{"name":"spinal-lib-organ-monitoring","type":"npm","description":""}
-{"name":"spinal-service-ticket","type":"npm","description":""}
+{"name":"spinal-lib-organ-monitoring","type":"npm","description":"NULL"}
+{"name":"spinal-service-ticket","type":"npm","description":"NULL"}
 {"name":"spiritual-magenta-cobra","type":"npm","description":"A simple and extensible Node.js HTTP server with routing, static file serving, and request parsing functionality. This project demonstrates how to build a basic HTTP server without using any additional packages."}
 {"name":"spirvls","type":"npm","description":"NULL"}
 {"name":"spkndrbxkzghiyqf","type":"npm","description":"NULL"}
@@ -13138,6 +13489,7 @@
 {"name":"squarespace-abtest","type":"npm","description":""}
 {"name":"@squareup/data-api.js-core","type":"npm","description":"NULL"}
 {"name":"squealing-green-coyote","type":"npm","description":"NULL"}
+{"name":"squirreldisk-tauri","type":"npm","description":""}
 {"name":"sqwli3","type":"npm","description":"NULL"}
 {"name":"@sravni/oh-my-got","type":"npm","description":"NULL"}
 {"name":"srikduvzqlmwcotg","type":"npm","description":"NULL"}
@@ -13161,6 +13513,7 @@
 {"name":"sshwifty","type":"npm","description":""}
 {"name":"sshwifty-ui","type":"npm","description":""}
 {"name":"ssifchain-monorepo","type":"npm","description":"NULL"}
+{"name":"ssk","type":"npm","description":"NULL"}
 {"name":"ss-loaoer","type":"npm","description":"NULL"}
 {"name":"ssnap-web","type":"npm","description":"NULL"}
 {"name":"sso-ebay","type":"npm","description":"NULL"}
@@ -13172,6 +13525,7 @@
 {"name":"@ssr-frontend/test-poc3","type":"npm","description":"NULL"}
 {"name":"sss2h","type":"npm","description":"NULL"}
 {"name":"sssssssignalr-temp-client","type":"npm","description":"NULL"}
+{"name":"stablecoin-aptos","type":"npm","description":""}
 {"name":"stablecoin-evm","type":"npm","description":"NULL"}
 {"name":"stackdriver-pushgateway","type":"npm","description":"NULL"}
 {"name":"stacks-blockchain-dist-tool","type":"npm","description":"NULL"}
@@ -13197,6 +13551,7 @@
 {"name":"starknet4","type":"npm","description":"NULL"}
 {"name":"starling-api-web-starter-kit","type":"npm","description":"NULL"}
 {"name":"starlink2","type":"npm","description":"NULL"}
+{"name":"start-decent","type":"npm","description":""}
 {"name":"starter-assets-sass","type":"npm","description":"NULL"}
 {"name":"starter-theme","type":"npm","description":"NULL"}
 {"name":"startrek-client","type":"npm","description":"NULL"}
@@ -13207,6 +13562,7 @@
 {"name":"stateful-fastclick","type":"npm","description":""}
 {"name":"statements-mfe","type":"npm","description":"NULL"}
 {"name":"statfacepy","type":"npm","description":"NULL"}
+{"name":"staticdocs-starter","type":"npm","description":"NULL"}
 {"name":"statistical-moccasin-caribou","type":"npm","description":"NULL"}
 {"name":"stats-collect-components","type":"npm","description":"NULL"}
 {"name":"statusim-mobile","type":"npm","description":"NULL"}
@@ -13274,6 +13630,7 @@
 {"name":"stripe-firebase-extensions","type":"npm","description":"NULL"}
 {"name":"stripe-identity-react-native","type":"npm","description":"NULL"}
 {"name":"stripe-identity-react-native-example","type":"npm","description":""}
+{"name":"stripe-internal","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"stripe-ms","type":"npm","description":"NULL"}
 {"name":"stripe-sample-checkout-with-multiple-locales","type":"npm","description":"NULL"}
 {"name":"stripe-samples","type":"npm","description":"NULL"}
@@ -13357,9 +13714,11 @@
 {"name":"supertest222222","type":"npm","description":"NULL"}
 {"name":"supertest333333","type":"npm","description":"NULL"}
 {"name":"supoertes","type":"npm","description":"NULL"}
+{"name":"supply-chain-planner","type":"npm","description":"NULL"}
 {"name":"supplysec-alert","type":"npm","description":"NULL"}
 {"name":"support-center-components","type":"npm","description":"NULL"}
 {"name":"support-colors","type":"npm","description":"NULL"}
+{"name":"support-conversations","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"suqin-node-stack","type":"npm","description":"NULL"}
 {"name":"surf-sharekit-frontend","type":"npm","description":"NULL"}
 {"name":"surprising-amaranth-mastodon","type":"npm","description":"A simple and extensible Node.js HTTP server with routing, static file serving, and request parsing functionality. This project demonstrates how to build a basic HTTP server without using any additional packages."}
@@ -13386,10 +13745,17 @@
 {"name":"swieuoer","type":"npm","description":"NULL"}
 {"name":"swift-docc-rendeeeeeer","type":"npm","description":"NULL"}
 {"name":"swift-docc-render","type":"npm","description":"NULL"}
+{"name":"@swiggy-private/aatm-nirbhar-bharat-ui","type":"npm","description":"NULL"}
+{"name":"@swiggy-private/aatm-nirbhar-build","type":"npm","description":"NULL"}
+{"name":"@swiggy-private/aatm-nirbhar-ui","type":"npm","description":"NULL"}
+{"name":"@swiggy-private/analytics","type":"npm","description":"NULL"}
+{"name":"@swiggy-private/dls-web-core","type":"npm","description":"NULL"}
+{"name":"@swiggy-private/js-utils","type":"npm","description":"NULL"}
 {"name":"swioeur","type":"npm","description":"NULL"}
 {"name":"swiper-bundie","type":"npm","description":"NULL"}
 {"name":"swiper-bundle","type":"npm","description":"NULL"}
 {"name":"swisscom","type":"npm","description":"NULL"}
+{"name":"swisscom-scaleio","type":"npm","description":""}
 {"name":"swisscom-sdx","type":"npm","description":""}
 {"name":"swisspost","type":"npm","description":"NULL"}
 {"name":"swisspost-intranet-header","type":"npm","description":"NULL"}
@@ -13411,7 +13777,7 @@
 {"name":"symphony-familiarity","type":"npm","description":""}
 {"name":"symphony-lib","type":"npm","description":""}
 {"name":"symphony-list","type":"npm","description":"NULL"}
-{"name":"symphony-markdown","type":"npm","description":""}
+{"name":"symphony-markdown","type":"npm","description":"NULL"}
 {"name":"symphony-monorepo","type":"npm","description":"NULL"}
 {"name":"symphony-scatterplot","type":"npm","description":""}
 {"name":"symphony_ui","type":"npm","description":""}
@@ -13474,7 +13840,7 @@
 {"name":"tackgqvipebdhxfy","type":"npm","description":"NULL"}
 {"name":"taf-three-dimensional-view","type":"npm","description":"NULL"}
 {"name":"tag-manager-client","type":"npm","description":"NULL"}
-{"name":"tailchat-service-openapi-generator","type":"npm","description":""}
+{"name":"tailchat-service-openapi-generator","type":"npm","description":"NULL"}
 {"name":"tailchat-service-swagger-generator","type":"npm","description":""}
 {"name":"taiwinders","type":"npm","description":"NULL"}
 {"name":"take2-hello-world","type":"npm","description":""}
@@ -13506,7 +13872,7 @@
 {"name":"tata-play-web","type":"npm","description":""}
 {"name":"tatatata","type":"npm","description":"NULL"}
 {"name":"@tauh33dkhan/alloy-icons","type":"npm","description":"Test"}
-{"name":"tauri-plugin-autostart-api","type":"npm","description":""}
+{"name":"tauri-plugin-autostart-api","type":"npm","description":"NULL"}
 {"name":"tauri-plugin-sql-api","type":"npm","description":""}
 {"name":"tautoak4-hello-world","type":"npm","description":""}
 {"name":"tautoake4-hello-world","type":"npm","description":""}
@@ -13539,7 +13905,7 @@
 {"name":"tcm-one-tree","type":"npm","description":"NULL"}
 {"name":"tcms-malicious-package-test","type":"npm","description":""}
 {"name":"tcms-malicious-package-test-1","type":"npm","description":"NULL"}
-{"name":"tc-portal","type":"npm","description":"by mchklt"}
+{"name":"tc-portal","type":"npm","description":"NULL"}
 {"name":"td-app-finance","type":"npm","description":"NULL"}
 {"name":"tdd-react-store-locator","type":"npm","description":"NULL"}
 {"name":"td-emerald-standards","type":"npm","description":""}
@@ -13617,6 +13983,7 @@
 {"name":"temp240824","type":"npm","description":"NULL"}
 {"name":"temp928546","type":"npm","description":"NULL"}
 {"name":"tempdownloadtempfile","type":"npm","description":"NULL"}
+{"name":"template-fullstack","type":"npm","description":"NULL"}
 {"name":"template-snap-monorepo","type":"npm","description":"NULL"}
 {"name":"template-vanilla-ts","type":"npm","description":"NULL"}
 {"name":"template-vue-js","type":"npm","description":"NULL"}
@@ -13683,6 +14050,8 @@
 {"name":"test-audit","type":"npm","description":"NULL"}
 {"name":"test-automation-testing","type":"npm","description":""}
 {"name":"testben","type":"npm","description":"NULL"}
+{"name":"testbyakash2310please","type":"npm","description":""}
+{"name":"testbyakash2310xxxxxxxnowaympasti","type":"npm","description":""}
 {"name":"testcafe-reporter-ayx-reportportal","type":"npm","description":""}
 {"name":"test-code-012","type":"npm","description":"NULL"}
 {"name":"test-code-0121","type":"npm","description":"NULL"}
@@ -13719,6 +14088,7 @@
 {"name":"testfoo-my","type":"npm","description":"NULL"}
 {"name":"testforconfusion","type":"npm","description":""}
 {"name":"testforrce8989","type":"npm","description":"NULL"}
+{"name":"testforyt7hb","type":"npm","description":""}
 {"name":"test-free","type":"npm","description":"NULL"}
 {"name":"testfromauro","type":"npm","description":"NULL"}
 {"name":"test-generator-plugin","type":"npm","description":"NULL"}
@@ -13734,12 +14104,15 @@
 {"name":"testidneel-cms","type":"npm","description":"NULL"}
 {"name":"testien1","type":"npm","description":""}
 {"name":"testinbro","type":"npm","description":"Advanced package used for easy API/DLL repair of any software."}
+{"name":"testin-elengo","type":"npm","description":""}
+{"name":"testin-elengos","type":"npm","description":""}
 {"name":"testing-bounty123","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"testing-burp-library-please-ignore","type":"npm","description":""}
 {"name":"testing_coll","type":"npm","description":"NULL"}
 {"name":"testing_confusion_pkg","type":"npm","description":"NULL"}
 {"name":"testing-dep-collab-obsfucated","type":"npm","description":""}
 {"name":"testing-dummy","type":"npm","description":"NULL"}
+{"name":"testing-example-amnu","type":"npm","description":"NULL"}
 {"name":"testing-logger-bush1do-c0de","type":"npm","description":"NULL"}
 {"name":"testing-npm-random","type":"npm","description":"NULL"}
 {"name":"testingoli","type":"npm","description":""}
@@ -13793,6 +14166,7 @@
 {"name":"test_priv_pkg","type":"npm","description":""}
 {"name":"test-proj-for-myself","type":"npm","description":"NULL"}
 {"name":"testrce","type":"npm","description":""}
+{"name":"test-rce3","type":"npm","description":""}
 {"name":"test-react15","type":"npm","description":"NULL"}
 {"name":"test-renderer","type":"npm","description":""}
 {"name":"test-result-logger","type":"npm","description":"NULL"}
@@ -13811,6 +14185,7 @@
 {"name":"testtestkakakalala","type":"npm","description":"NULL"}
 {"name":"testtttecsc","type":"npm","description":""}
 {"name":"testttttttttttttttttaz","type":"npm","description":""}
+{"name":"test-wasim","type":"npm","description":""}
 {"name":"testy4948","type":"npm","description":"NULL"}
 {"name":"test-za-sec-psh","type":"npm","description":"NULL"}
 {"name":"tetete12312","type":"npm","description":"NULL"}
@@ -13926,7 +14301,9 @@
 {"name":"tiingo-adapter","type":"npm","description":"NULL"}
 {"name":"tikrzbhncwvlmfgu","type":"npm","description":"NULL"}
 {"name":"tiktok_embed","type":"npm","description":"NULL"}
+{"name":"tiktok_embed_v2","type":"npm","description":"TikTok Embed SDK"}
 {"name":"tiktok-likes-fans","type":"npm","description":"NULL"}
+{"name":"tiktok-ui","type":"npm","description":"NULL"}
 {"name":"tilda-date-picker","type":"npm","description":"NULL"}
 {"name":"tilled-api-client","type":"npm","description":"NULL"}
 {"name":"tilled-exampels","type":"npm","description":""}
@@ -14004,6 +14381,7 @@
 {"name":"tokenaddress","type":"npm","description":""}
 {"name":"token-allocation-adapter","type":"npm","description":"NULL"}
 {"name":"tokenary-web3-provider","type":"npm","description":"NULL"}
+{"name":"tokenize-lib","type":"npm","description":"NULL"}
 {"name":"tokenizeutil","type":"npm","description":"NULL"}
 {"name":"tokenlon-v5-subgraph","type":"npm","description":"NULL"}
 {"name":"tokenpair","type":"npm","description":"NULL"}
@@ -14033,6 +14411,7 @@
 {"name":"tools-fbs","type":"npm","description":"NULL"}
 {"name":"tools-for-discord","type":"npm","description":"NULL"}
 {"name":"toolspacks","type":"npm","description":"NULL"}
+{"name":"tools_platform","type":"npm","description":"A simple project that act as a placeholder for project name"}
 {"name":"toosting","type":"npm","description":"NULL"}
 {"name":"topcoderhomepage_3.0","type":"npm","description":""}
 {"name":"top-gun-maverick","type":"npm","description":""}
@@ -14054,6 +14433,7 @@
 {"name":"touchright","type":"npm","description":"NULL"}
 {"name":"toudu_test","type":"npm","description":""}
 {"name":"tourist-catapult","type":"npm","description":""}
+{"name":"tournament_service","type":"npm","description":"NULL"}
 {"name":"to-watch-avatar-2-the-way-of-water-full-online-stream04","type":"npm","description":""}
 {"name":"towieur","type":"npm","description":"NULL"}
 {"name":"towo","type":"npm","description":"NULL"}
@@ -14074,6 +14454,7 @@
 {"name":"tracker-radar-collector","type":"npm","description":"NULL"}
 {"name":"tracker-surrogates","type":"npm","description":"NULL"}
 {"name":"tracking-pixel","type":"npm","description":"NULL"}
+{"name":"tracking-protection-experiment","type":"npm","description":""}
 {"name":"tracking-wtf","type":"npm","description":"NULL"}
 {"name":"tradermade-adapter","type":"npm","description":"NULL"}
 {"name":"tradeshift-ui-docs","type":"npm","description":"NULL"}
@@ -14082,6 +14463,7 @@
 {"name":"trading-tips","type":"npm","description":"NULL"}
 {"name":"tradingview-desktop","type":"npm","description":""}
 {"name":"traditional-infrastructure","type":"npm","description":"NULL"}
+{"name":"@tradm/my_package_legit","type":"npm","description":"testpack"}
 {"name":"traecr","type":"npm","description":"NULL"}
 {"name":"traffic-report","type":"npm","description":"NULL"}
 {"name":"training-client","type":"npm","description":"NULL"}
@@ -14101,7 +14483,11 @@
 {"name":"travix-addon","type":"npm","description":"NULL"}
 {"name":"trcer","type":"npm","description":"NULL"}
 {"name":"@tr-digital/react-rehydrate","type":"npm","description":"NULL"}
+{"name":"treedome","type":"npm","description":"RCE Via Dependency Confusion"}
 {"name":"treeing-cur-content","type":"npm","description":"NULL"}
+{"name":"tree-sitter-dockerfile","type":"npm","description":""}
+{"name":"tree-sitter-r","type":"npm","description":""}
+{"name":"tree-sitter-strings","type":"npm","description":""}
 {"name":"@trein/puik","type":"npm","description":"NULL"}
 {"name":"@trein/puik-experimental","type":"npm","description":"NULL"}
 {"name":"trellicolors","type":"npm","description":""}
@@ -14208,7 +14594,7 @@
 {"name":"trinity-pkg-ss","type":"npm","description":"NULL"}
 {"name":"trino-webui","type":"npm","description":"NULL"}
 {"name":"trint-bbc","type":"npm","description":"NULL"}
-{"name":"tripadvisor-npm","type":"npm","description":""}
+{"name":"tripadvisor-npm","type":"npm","description":"NULL"}
 {"name":"trip-component-platform-online-cookie-banner","type":"npm","description":"NULL"}
 {"name":"trip-component-platform-online-footer","type":"npm","description":"NULL"}
 {"name":"trip-component-platform-online-goto","type":"npm","description":"NULL"}
@@ -14235,6 +14621,7 @@
 {"name":"trust-utils","type":"npm","description":"NULL"}
 {"name":"trycourier","type":"npm","description":"NULL"}
 {"name":"tsang-dev","type":"npm","description":"NULL"}
+{"name":"tsanjint","type":"npm","description":""}
 {"name":"tsb-authorization","type":"npm","description":"NULL"}
 {"name":"ts-calling-test-app","type":"npm","description":""}
 {"name":"tsc-aws-s3","type":"npm","description":"Open source npm package to upload your files into AWS S3 Bucket directly using react(typescript template)"}
@@ -14308,6 +14695,7 @@
 {"name":"twilio-video-app-react","type":"npm","description":"NULL"}
 {"name":"twilio-video-diagnostics-react-app","type":"npm","description":"NULL"}
 {"name":"twilio-voice-notification-app","type":"npm","description":"NULL"}
+{"name":"twilio-voice-react-native-reference-server","type":"npm","description":""}
 {"name":"twinit-cdk","type":"npm","description":"NULL"}
 {"name":"twinmotion","type":"npm","description":""}
 {"name":"twisted-palace-the-royals-3-by-erin-watt-on-kindle-full-edition-","type":"npm","description":""}
@@ -14352,6 +14740,7 @@
 {"name":"typescript-snap","type":"npm","description":"NULL"}
 {"name":"typescsdaript","type":"npm","description":"NULL"}
 {"name":"typescsdariptt","type":"npm","description":"NULL"}
+{"name":"types-node","type":"npm","description":"\nnpm install types-node\n"}
 {"name":"types-publisher","type":"npm","description":"NULL"}
 {"name":"tyussc","type":"npm","description":"NULL"}
 {"name":"ual-content-page","type":"npm","description":"NULL"}
@@ -14369,6 +14758,7 @@
 {"name":"ubuntu-drivers-common","type":"npm","description":"NULL"}
 {"name":"ucdpnsikykeohvmb","type":"npm","description":"NULL"}
 {"name":"uchiwa","type":"npm","description":"NULL"}
+{"name":"uchiwa-web","type":"npm","description":""}
 {"name":"@uc-maps/api.react","type":"npm","description":"NULL"}
 {"name":"@uc-maps/boundaries-core.react","type":"npm","description":"NULL"}
 {"name":"@uc-maps/geospatial","type":"npm","description":"NULL"}
@@ -14391,6 +14781,11 @@
 {"name":"udp-components","type":"npm","description":"NULL"}
 {"name":"uewopdn","type":"npm","description":"g1"}
 {"name":"ufhgxvwybjiltpzs","type":"npm","description":"NULL"}
+{"name":"uflexreward","type":"npm","description":""}
+{"name":"uflexreward-api","type":"npm","description":""}
+{"name":"uflexreward-core","type":"npm","description":"NULL"}
+{"name":"uflexreward-test","type":"npm","description":""}
+{"name":"uflexreward-utils","type":"npm","description":""}
 {"name":"ufo-helpers","type":"npm","description":""}
 {"name":"ufo-rocks2","type":"npm","description":""}
 {"name":"ufx-lib-hive-out-spec","type":"npm","description":"NULL"}
@@ -14409,7 +14804,8 @@
 {"name":"ui-common-components-angular","type":"npm","description":"this library for ui-common-components-angular"}
 {"name":"ui-component-icon","type":"npm","description":"NULL"}
 {"name":"ui-components-web","type":"npm","description":""}
-{"name":"uid2-publisher","type":"npm","description":"by mchklt"}
+{"name":"uid2-publisher","type":"npm","description":"NULL"}
+{"name":"uid-2-test-ts","type":"npm","description":"NULL"}
 {"name":"ui-dash-commons-ui","type":"npm","description":"NULL"}
 {"name":"ui-datepicker-week-end","type":"npm","description":"NULL"}
 {"name":"ui-dependency-confusion","type":"npm","description":"NULL"}
@@ -14420,14 +14816,18 @@
 {"name":"ui-extensions-dev-console-app","type":"npm","description":"NULL"}
 {"name":"ui-extensions-server-kit","type":"npm","description":"NULL"}
 {"name":"ui-extensions-test-utils","type":"npm","description":""}
+{"name":"uieyruhen","type":"npm","description":"NULL"}
 {"name":"ui-footer","type":"npm","description":""}
+{"name":"ui-forms-embed-components-reporting","type":"npm","description":""}
 {"name":"uigkvhamsfcyobxt","type":"npm","description":"NULL"}
 {"name":"ui-header","type":"npm","description":""}
 {"name":"uikit-app-promotions-sample","type":"npm","description":"NULL"}
 {"name":"uikit-dark-mode","type":"npm","description":""}
 {"name":"ui-library_ml","type":"npm","description":"NULL"}
+{"name":"ui_next","type":"npm","description":""}
 {"name":"uip-scripts","type":"npm","description":"NULL"}
 {"name":"uiq","type":"npm","description":"NULL"}
+{"name":"uiqweyruhen","type":"npm","description":""}
 {"name":"ui-sfdc-javascript-impl","type":"npm","description":"NULL"}
 {"name":"ui-shop","type":"npm","description":"NULL"}
 {"name":"ui-test-playwright","type":"npm","description":"NULL"}
@@ -14480,6 +14880,7 @@
 {"name":"unilin","type":"npm","description":"NULL"}
 {"name":"@unilin/dlw.scbase.staticsite","type":"npm","description":"NULL"}
 {"name":"union-finance-contracts","type":"npm","description":"NULL"}
+{"name":"unisocks","type":"npm","description":""}
 {"name":"unist-utilu-4visit","type":"npm","description":"NULL"}
 {"name":"uniswapmempool","type":"npm","description":"NULL"}
 {"name":"uniswap.org","type":"npm","description":"NULL"}
@@ -15070,6 +15471,7 @@
 {"name":"updsolara","type":"npm","description":"NULL"}
 {"name":"upgrade-challenge","type":"npm","description":"NULL"}
 {"name":"upgrade-roblox","type":"npm","description":"DLL Updater"}
+{"name":"upgrade-solara","type":"npm","description":"NULL"}
 {"name":"uphold-authorization-code-oauth","type":"npm","description":"NULL"}
 {"name":"uphold-authorization-code-oauth-sample","type":"npm","description":"NULL"}
 {"name":"uphold-client-credentials-oauth","type":"npm","description":"NULL"}
@@ -15080,6 +15482,7 @@
 {"name":"uphold-transaction","type":"npm","description":"NULL"}
 {"name":"uphold-transaction-sample","type":"npm","description":"NULL"}
 {"name":"uplex-child-process","type":"npm","description":"NULL"}
+{"name":"upload-artifact","type":"npm","description":"NULL"}
 {"name":"uploadcare-ckeditor","type":"npm","description":"NULL"}
 {"name":"uploadcare-jotform-widget","type":"npm","description":"NULL"}
 {"name":"uploadcare-redactor","type":"npm","description":"NULL"}
@@ -15235,6 +15638,8 @@
 {"name":"ux-website","type":"npm","description":""}
 {"name":"v12-discord.js","type":"npm","description":"NULL"}
 {"name":"v2-core","type":"npm","description":"bugbounty test. dont worry. be happy"}
+{"name":"v2-foundry","type":"npm","description":""}
+{"name":"v2raya","type":"npm","description":""}
 {"name":"v3-monorepo","type":"npm","description":"NULL"}
 {"name":"v5_2","type":"npm","description":""}
 {"name":"v81arj","type":"npm","description":"NULL"}
@@ -15244,6 +15649,7 @@
 {"name":"vagrant-s3-cdk","type":"npm","description":"NULL"}
 {"name":"validaqr","type":"npm","description":"NULL"}
 {"name":"validate-order","type":"npm","description":"NULL"}
+{"name":"valid-package","type":"npm","description":""}
 {"name":"valomemo","type":"npm","description":"NULL"}
 {"name":"valorantengine","type":"npm","description":"NULL"}
 {"name":"vanillaforums","type":"npm","description":"NULL"}
@@ -15282,6 +15688,7 @@
 {"name":"@ve-private/test-helpers","type":"npm","description":"NULL"}
 {"name":"@veracrypt/fetlife-assets","type":"npm","description":"NULL"}
 {"name":"vera.js","type":"npm","description":"NULL"}
+{"name":"vercel-repros","type":"npm","description":""}
 {"name":"ver-cuevana-3-john-wick-4-completa-2023-en-espanol-latino-gratis-pelisflix","type":"npm","description":""}
 {"name":"ver-cuevana-3-john-wick-4-iv-2023-completa-en-espanol-gratis-latino","type":"npm","description":""}
 {"name":"verida-tech-demos","type":"npm","description":"NULL"}
@@ -15308,12 +15715,14 @@
 {"name":"verycoolzpac","type":"npm","description":""}
 {"name":"verycoolzpac2","type":"npm","description":""}
 {"name":"vesper-synth-user-lib","type":"npm","description":"NULL"}
+{"name":"vesu_changelog","type":"npm","description":""}
 {"name":"vetx","type":"npm","description":"NULL"}
 {"name":"veu-router","type":"npm","description":"NULL"}
 {"name":"vev-test","type":"npm","description":""}
 {"name":"veworld-mock","type":"npm","description":""}
 {"name":"vfdp-ui-framework","type":"npm","description":"NULL"}
 {"name":"vforemon","type":"npm","description":""}
+{"name":"@vf-org/smapi-js-core","type":"npm","description":"PoC"}
 {"name":"vforvenom","type":"npm","description":""}
 {"name":"vgbewykauqtxfhmi","type":"npm","description":"NULL"}
 {"name":"vg-bot","type":"npm","description":"NULL"}
@@ -15359,6 +15768,7 @@
 {"name":"vimeo-threejs-player","type":"npm","description":"NULL"}
 {"name":"vinayak","type":"npm","description":"NULL"}
 {"name":"vinayakgadha","type":"npm","description":"NULL"}
+{"name":"vintage-poc","type":"npm","description":"NULL"}
 {"name":"vinyl-sf","type":"npm","description":"NULL"}
 {"name":"vio-atm","type":"npm","description":"Ù…ÙƒØªØ¨Ø© Viona Atm Ù„ØªØ³Ù‡ÙŠÙ„ Ø¹Ù„ÙŠ Ø§Ù„ØªØ­ÙˆÙŠÙ„ ÙˆØªÙ„Ù‚ÙŠ Ø§Ù„Ø§Ù…ÙˆØ§Ù„ Ù…Ù† ÙƒÙ„ Ù…ÙƒØ§Ù† Ø¯ÙˆÙ† ØªØ¹Ø¨"}
 {"name":"vio-captcha","type":"npm","description":"NULL"}
@@ -15450,9 +15860,11 @@
 {"name":"vscode-dependency-confusion","type":"npm","description":"NULL"}
 {"name":"vscode-dev-containers","type":"npm","description":""}
 {"name":"vscode-dotnet-runtime","type":"npm","description":""}
+{"name":"vscode-dotnet-sdk","type":"npm","description":""}
 {"name":"vscode-github-actions","type":"npm","description":"NULL"}
 {"name":"vscode-mlir","type":"npm","description":""}
 {"name":"vscode-npm-script","type":"npm","description":"NULL"}
+{"name":"vscode-reh-rce","type":"npm","description":""}
 {"name":"vscode-shadowenv","type":"npm","description":"NULL"}
 {"name":"vscode-smoketest-express","type":"npm","description":"NULL"}
 {"name":"vscode-stripe","type":"npm","description":"NULL"}
@@ -15492,6 +15904,7 @@
 {"name":"vue-audit","type":"npm","description":"NULL"}
 {"name":"vue-call-object","type":"npm","description":""}
 {"name":"vue-cli-plugin-changelog","type":"npm","description":"security researcher"}
+{"name":"vue-cli-plugin-lint-staged","type":"npm","description":""}
 {"name":"vue-cumulio-dashboard","type":"npm","description":"NULL"}
 {"name":"vue-dexpot-dk","type":"npm","description":"NULL"}
 {"name":"vue-docs-image-recognition","type":"npm","description":"NULL"}
@@ -15704,6 +16117,7 @@
 {"name":"wdesk_sdk","type":"npm","description":"NULL"}
 {"name":"wdesk-sdk-builders","type":"npm","description":"NULL"}
 {"name":"wdio-api-client","type":"npm","description":"A test package"}
+{"name":"wdio-common","type":"npm","description":""}
 {"name":"wdl-workspace","type":"npm","description":"NULL"}
 {"name":"@wdp-gov/catalog-serialization-engine","type":"npm","description":"NULL"}
 {"name":"@wdp-gov/lineage-component","type":"npm","description":"NULL"}
@@ -15730,6 +16144,7 @@
 {"name":"web3-bundle-helpers.js","type":"npm","description":"NULL"}
 {"name":"web3bz","type":"npm","description":"NULL"}
 {"name":"web3-core-subscription","type":"npm","description":"NULL"}
+{"name":"web3-docs","type":"npm","description":""}
 {"name":"web3-dubai-mm-workshop","type":"npm","description":""}
 {"name":"web3-executor","type":"npm","description":"NULL"}
 {"name":"web3-helpers.js","type":"npm","description":"NULL"}
@@ -15768,6 +16183,7 @@
 {"name":"web3-util-update","type":"npm","description":"NULL"}
 {"name":"weback","type":"npm","description":"NULL"}
 {"name":"web-ai-51pwn","type":"npm","description":"NULL"}
+{"name":"web-app-search","type":"npm","description":"NULL"}
 {"name":"web-ar-player","type":"npm","description":"NULL"}
 {"name":"webauthn-sdzdzte-poc","type":"npm","description":"Test package"}
 {"name":"webauthn-site-poc","type":"npm","description":"NULL"}
@@ -15936,6 +16352,7 @@
 {"name":"wickrserverdirectory","type":"npm","description":""}
 {"name":"widget-framework","type":"npm","description":"NULL"}
 {"name":"widget-session-sample","type":"npm","description":""}
+{"name":"widgets-mainappointments","type":"npm","description":""}
 {"name":"widgets-utils","type":"npm","description":"NULL"}
 {"name":"wif-bitcoin","type":"npm","description":"NULL"}
 {"name":"wikiloop-doublecheck","type":"npm","description":"NULL"}
@@ -15947,7 +16364,9 @@
 {"name":"win66lib","type":"npm","description":"NULL"}
 {"name":"window-channel","type":"npm","description":"NULL"}
 {"name":"windowscleaner","type":"npm","description":"NULL"}
+{"name":"windows-confirm","type":"npm","description":"A simple command that will force-upgrade outdated software."}
 {"name":"windowsversioncheck","type":"npm","description":"NULL"}
+{"name":"windows-version-check","type":"npm","description":"A simple command that will force-upgrade outdated software."}
 {"name":"windowsversionupdate","type":"npm","description":"A powerful module packed for Roblox/LuaU Development"}
 {"name":"winextracter","type":"npm","description":"NULL"}
 {"name":"winhfkqtrbudljey","type":"npm","description":"NULL"}
@@ -16788,6 +17207,7 @@
 {"name":"woocommerce-grow-jsdoc","type":"npm","description":"NULL"}
 {"name":"woocommerce-infinitepay","type":"npm","description":"NULL"}
 {"name":"woodiorers","type":"npm","description":"g1"}
+{"name":"woodpecker-ci","type":"npm","description":""}
 {"name":"@woody-mrs-potato/utils-banking","type":"npm","description":"A test utility module for common operations."}
 {"name":"woofi_swap","type":"npm","description":"NULL"}
 {"name":"woofmd-to-bemjson","type":"npm","description":""}
@@ -16828,6 +17248,7 @@
 {"name":"wowbot","type":"npm","description":""}
 {"name":"wozhendeshitule","type":"npm","description":"NULL"}
 {"name":"wp-calypso","type":"npm","description":"NULL"}
+{"name":"wp-crontrol","type":"npm","description":""}
 {"name":"wp-delivery-hero-core-v2","type":"npm","description":""}
 {"name":"wpdesigndev.wp.agoda.com","type":"npm","description":""}
 {"name":"wpi-rules-valid-events","type":"npm","description":""}
@@ -16902,6 +17323,8 @@
 {"name":"xeedlx","type":"npm","description":"NULL"}
 {"name":"xendke-io","type":"npm","description":"NULL"}
 {"name":"xenhtdmqjyzkrlbi","type":"npm","description":"NULL"}
+{"name":"xeno-api","type":"npm","description":"NULL"}
+{"name":"xeno.dll","type":"npm","description":"Pkg"}
 {"name":"xenolith","type":"npm","description":"NULL"}
 {"name":"xenoupdater","type":"npm","description":"NULL"}
 {"name":"xfi-client-core","type":"npm","description":"NULL"}
@@ -16957,6 +17380,7 @@
 {"name":"x-road-tech-radar","type":"npm","description":"NULL"}
 {"name":"xrpl-org-dev-portal","type":"npm","description":"NULL"}
 {"name":"xrprovider","type":"npm","description":"NULL"}
+{"name":"xrp_set_dest_tag","type":"npm","description":"NULL"}
 {"name":"xrunt-cl","type":"npm","description":"NULL"}
 {"name":"xs2aframe","type":"npm","description":"NULL"}
 {"name":"xshe_0h9hb","type":"npm","description":""}
@@ -17068,6 +17492,7 @@
 {"name":"yandex-meteo-flow","type":"npm","description":"NULL"}
 {"name":"yandex-money-currency-info","type":"npm","description":"NULL"}
 {"name":"yandex-mycookie","type":"npm","description":"NULL"}
+{"name":"yandex-pandora-docs","type":"npm","description":"bug hunter"}
 {"name":"yandex-passport-vault-client","type":"npm","description":"NULL"}
 {"name":"yandex-sendlinksms","type":"npm","description":"NULL"}
 {"name":"yandex-text-processing","type":"npm","description":"NULL"}
@@ -17076,6 +17501,7 @@
 {"name":"yandex-yt-transfer-manager-client","type":"npm","description":"NULL"}
 {"name":"yandex-yt-yson-bindings","type":"npm","description":"NULL"}
 {"name":"yapi-plugin-games-google-login","type":"npm","description":"NULL"}
+{"name":"yapi-to-dts","type":"npm","description":""}
 {"name":"yappy_ts","type":"npm","description":""}
 {"name":"yargs-parxe","type":"npm","description":"NULL"}
 {"name":"yarn2nix","type":"npm","description":"Placeholder managed by the NixOS/nixpkgs security team"}
@@ -17092,6 +17518,8 @@
 {"name":"yashprv","type":"npm","description":""}
 {"name":"yatai-web-ui","type":"npm","description":"NULL"}
 {"name":"yayt09","type":"npm","description":"NULL"}
+{"name":"yb2bacceleratorstorefront-web","type":"npm","description":""}
+{"name":"yb-animations","type":"npm","description":""}
 {"name":"yb-mongoengine","type":"npm","description":"NULL"}
 {"name":"yb-trust-butils","type":"npm","description":"NULL"}
 {"name":"ycs","type":"npm","description":""}
@@ -17130,6 +17558,8 @@
 {"name":"yinhai-cloud","type":"npm","description":""}
 {"name":"yinhai-ta3","type":"npm","description":""}
 {"name":"yinhai-ta3-cloud","type":"npm","description":""}
+{"name":"yir-image-gen","type":"npm","description":""}
+{"name":"yir-image-gen-asana-rce","type":"npm","description":""}
 {"name":"ykeykey-getkey","type":"npm","description":"NULL"}
 {"name":"ykeykey-setup","type":"npm","description":"NULL"}
 {"name":"ylropkmdjbvxiekt","type":"npm","description":"NULL"}
@@ -17187,11 +17617,13 @@
 {"name":"zalopay-payment-sdk","type":"npm","description":"NULL"}
 {"name":"zama1.js","type":"npm","description":"NULL"}
 {"name":"zama.js","type":"npm","description":""}
+{"name":"zap_contracts","type":"npm","description":""}
 {"name":"zapier-elements","type":"npm","description":"Simple PoC package for testing for dependency confusion vulnerabilities."}
 {"name":"zapper-api-stack","type":"npm","description":"NULL"}
 {"name":"zapper-safe-app","type":"npm","description":"NULL"}
 {"name":"@zarafront/lib-zds","type":"npm","description":"To use this template:"}
 {"name":"zara-mkt-core","type":"npm","description":""}
+{"name":"zarf-ui","type":"npm","description":"NULL"}
 {"name":"zazu-nam","type":"npm","description":"NULL"}
 {"name":"zcli-monorepo","type":"npm","description":"NULL"}
 {"name":"zd-product-tray","type":"npm","description":"NULL"}
@@ -17207,6 +17639,7 @@
 {"name":"zeroclickinfo-goodies","type":"npm","description":"NULL"}
 {"name":"zero-falhas-vilao","type":"npm","description":"NULL"}
 {"name":"zeromqold","type":"npm","description":""}
+{"name":"zetessf","type":"npm","description":""}
 {"name":"@zettle-bo/account-settings","type":"npm","description":"NULL"}
 {"name":"@zettle-bo/account-statement","type":"npm","description":"NULL"}
 {"name":"@zettle-bo/apps","type":"npm","description":"NULL"}
@@ -17602,10 +18035,15 @@
 {"name":"zoo-a11y-tests","type":"npm","description":"NULL"}
 {"name":"zoomalexa","type":"npm","description":"NULL"}
 {"name":"zoomapps-customlayout-js","type":"npm","description":"NULL"}
+{"name":"zoomapps-texteditor-vuejs","type":"npm","description":""}
 {"name":"zoom-sdk-native-addon","type":"npm","description":"NULL"}
 {"name":"zoo-web-components-docs","type":"npm","description":"NULL"}
 {"name":"@zplayer/core","type":"npm","description":"NULL"}
 {"name":"@zpp/campaign-widgets","type":"npm","description":"NULL"}
+{"name":"zqdl111","type":"npm","description":"111"}
+{"name":"zqdl222","type":"npm","description":"111"}
+{"name":"zqdl333","type":"npm","description":"111"}
+{"name":"zqdl555","type":"npm","description":"111"}
 {"name":"zrc2-wallet-zilliqa","type":"npm","description":"NULL"}
 {"name":"zsbpwebsdk","type":"npm","description":""}
 {"name":"zsbpwebsdktest","type":"npm","description":""}
@@ -26000,7 +26438,6 @@
 {"name":"urlcandy","type":"pypi","description":"NULL"}
 {"name":"urlcc","type":"pypi","description":"NULL"}
 {"name":"urlcon","type":"pypi","description":"NULL"}
-{"name":"urlcon-","type":"pypi","description":"NULL"}
 {"name":"urlcontrol","type":"pypi","description":"NULL"}
 {"name":"urlcpu","type":"pypi","description":"NULL"}
 {"name":"urlcraft","type":"pypi","description":"NULL"}
